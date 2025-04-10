@@ -49,7 +49,8 @@ foreach ($containers as $container) {
         $imagem = $imgNode ? $imgNode->getAttribute('src') : '';
 
         $resumoNode = $xpath->query('.//div[@class="cd"]', $container)->item(0);
-        $resumo = $resumoNode ? trim(preg_replace('/\s+/', ' ', $resumoNode->nodeValue)) : '';
+        $resumo = $resumoNode ? trim(preg_replace(['/\s+/', '/(\d{1,3}(?:\.\d{3})*,\d{2})([A-Za-z])/', '/(R\$ ?\d{1,3}(?:\.\d{3})*,\d{2})([A-Za-z])/', '/(\d)([A-Z])/', '/([a-z])([A-Z])/'], [' ', '$1 $2', '$1 $2', '$1 $2', '$1 $2'], $resumoNode->nodeValue)) : '';
+
 
         $inscricaoNode = $xpath->query('.//div[@class="ce"]/span', $container)->item(0);
         $inscricao = $inscricaoNode ? trim(preg_replace('/\s+/', ' ', $inscricaoNode->nodeValue)) : '';
