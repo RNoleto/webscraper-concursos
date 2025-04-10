@@ -3,6 +3,12 @@ require 'vendor/autoload.php';
 
 use Smalot\PdfParser\Parser;
 
+// Verifica e cria a pasta "editais" se não existir
+$editaisDir = __DIR__ . '/editais';
+if (!is_dir($editaisDir)) {
+    mkdir($editaisDir, 0777, true);
+}
+
 $parser = new Parser();
 
 // Caminho do JSON
