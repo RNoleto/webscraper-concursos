@@ -3,7 +3,7 @@
 $config = require 'config.php';
 $url = $config['url'];
 
-$ENABLE_DOWNLOAD = false;
+$ENABLE_DOWNLOAD = $config['enable_download'];
 
 if (!is_dir(__DIR__ . '/editais')) {
     mkdir(__DIR__ . '/editais', 0777, true);
