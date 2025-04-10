@@ -3,6 +3,8 @@
 $config = require 'config.php';
 $url = $config['url'];
 
+$ENABLE_DOWNLOAD = false;
+
 if (!is_dir(__DIR__ . '/editais')) {
     mkdir(__DIR__ . '/editais', 0777, true);
 }
@@ -89,11 +91,13 @@ foreach ($containers as $container) {
                     ];
 
                     // Download PDF
-                    // $arquivoNome = basename(parse_url($editalHref, PHP_URL_PATH));
-                    // $arquivoCaminho = __DIR__ . "/editais/" . $arquivoNome;
-                    // if (!file_exists($arquivoCaminho)) {
-                    //     file_put_contents($arquivoCaminho, file_get_contents($editalHref));
-                    // }
+                    if($ENABLE_DOWNLOAD){
+                        $arquivoNome = basename(parse_url($editalHref, PHP_URL_PATH));
+                        $arquivoCaminho = __DIR__ . "/editais/" . $arquivoNome;
+                        if (!file_exists($arquivoCaminho)) {
+                            file_put_contents($arquivoCaminho, file_get_contents($editalHref));
+                        }
+                    }
                 }
 
                 $apostilaNodes = $subXpath->query('//aside[@id="links"]//li[contains(@class, "apostila")]/a');
