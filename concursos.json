@@ -1,353 +1,778 @@
 [
     {
+        "regiao": "NACIONAL",
         "titulo": "CONAB - Companhia Nacional de Abastecimento",
         "link": "https://www.pciconcursos.com.br/noticias/conab-abre-novo-concurso-publico-com-403-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "403 vagas até R$ 8140,88Assistente, AnalistaMédio / Superior",
         "periodo_inscricao": "14/04 a15/05/2025",
         "situacao": "Aberto",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/conab"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 001/2025",
+                "url": "https://arq.pciconcursos.com.br/conab-abre-novo-concurso-publico-com-403-vagas/1671608/1e4c08edbb/edital_de_abertura_n_001_2025_1671608.pdf"
+            }
+        ]
     },
     {
+        "regiao": "NACIONAL",
         "titulo": "Empresa Brasileira de Petróleo e Gás Natural - Pré-Sal Petróleo (PPSA)",
         "link": "https://www.pciconcursos.com.br/noticias/pre-sal-petroleo-s-a-retifica-concurso-publico-com-salarios-de-ate-19-2-mil",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "100 vagas até R$ 19.610,00Vários CargosSuperior",
         "periodo_inscricao": "Prorrogado até14/05/2025",
         "situacao": "Prorrogado",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/ppsa"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA RETIFICADO Nº 1/2025",
+                "url": "https://arq.pciconcursos.com.br/pre-sal-petroleo-s-a-retifica-concurso-publico-com-salarios-de-ate-19-2-mil/1668993/277b547b58/edital_de_abertura_retificado_n_1_2025_1668993.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/pre-sal-petroleo-s-a-retifica-concurso-publico-com-salarios-de-ate-19-2-mil/1669525/ef4b563916/retificacao_i_1669525.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO II",
+                "url": "https://arq.pciconcursos.com.br/pre-sal-petroleo-s-a-retifica-concurso-publico-com-salarios-de-ate-19-2-mil/1671473/3a161ac400/retificacao_ii_1671473.pdf"
+            }
+        ]
     },
     {
+        "regiao": "NACIONAL",
         "titulo": "EsPCEx - Curso de Formação e Graduação de Oficiais de Carreira",
         "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-abre-concurso-publico-com-440-vagas-na-escola-preparatoria-de-cadetes",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "440 vagasOficial do ExércitoEnsino Médio",
         "periodo_inscricao": "09/05/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/espcex"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/exercito-brasileiro-abre-concurso-publico-com-440-vagas-na-escola-preparatoria-de-cadetes/1671593/ac20b89221/edital_de_abertura_n_01_2025_1671593.pdf"
+            }
+        ]
     },
     {
+        "regiao": "NACIONAL",
         "titulo": "Exército Brasileiro - ESA",
         "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-abre-concurso-para-a-escola-de-sargentos-das-armas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1125 vagasCombatente, Músico, Técnico em EnfermagemMédio / Técnico",
         "periodo_inscricao": "18/05/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/esa"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA",
+                "url": "https://arq.pciconcursos.com.br/exercito-brasileiro-abre-concurso-para-a-escola-de-sargentos-das-armas/1671700/7b9738b0ba/edital_de_abertura_1671700.pdf"
+            }
+        ]
     },
     {
+        "regiao": "NACIONAL",
         "titulo": "FAB - Comando da Aeronáutica",
         "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-abre-inscricoes-para-exame-de-admissao-aos-cursos-de-formacao-de-oficiais",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "50 vagasOficiais Aviadores, Oficiais Intendentes, Oficiais de InfantariaEnsino Médio",
         "periodo_inscricao": "28/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/aeronautica-cfoav-cfoint-cfoinf"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA",
+                "url": "https://arq.pciconcursos.com.br/comando-da-aeronautica-abre-inscricoes-para-exame-de-admissao-aos-cursos-de-formacao-de-oficiais/1671282/f2dd7c89af/edital_de_abertura_1671282.pdf"
+            }
+        ]
     },
     {
+        "regiao": "NACIONAL",
         "titulo": "TRF - Tribunal Regional Federal da 1ª Região",
         "link": "https://www.pciconcursos.com.br/noticias/trf1-divulga-concurso-publico-com-50-vagas-para-juiz-federal-substituto",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "50 vagas até R$ 37.765,55Juiz Federal SubstitutoSuperior",
         "periodo_inscricao": "16/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": ""
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/trf1-divulga-concurso-publico-com-50-vagas-para-juiz-federal-substituto/1670437/931ff7ad44/edital_de_abertura_n_01_2025_1670437.pdf"
+            }
+        ]
     },
     {
+        "regiao": "SÃO PAULO",
         "titulo": "CEMMIL - Consórcio Intermunicipal de Amparo",
         "link": "https://www.pciconcursos.com.br/noticias/cemmil-amparo-sp-abre-processo-seletivo-com-18-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "18 vagas até R$ 3000,00Vários CargosFundamental / Médio",
         "periodo_inscricao": "29/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/cemmil-sp"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 04/2025",
+                "url": "https://arq.pciconcursos.com.br/cemmil-amparo-sp-abre-processo-seletivo-com-18-vagas/1671773/23b9c1d09d/edital_de_abertura_n_04_2025_1671773.pdf"
+            }
+        ]
     },
     {
+        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Bauru",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-promove-concurso-publico-para-agente-esportivo-cultural-e-social",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1 vaga até R$ 1481,71Agente Esportivo, Cultural e Social - Agente SocialEnsino Médio",
         "periodo_inscricao": "17/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-bauru-sp"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 10/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-bauru-sp-promove-concurso-publico-para-agente-esportivo-cultural-e-social/1671831/4e60da306c/edital_de_abertura_n_10_2025_1671831.pdf"
+            }
+        ]
     },
     {
+        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Itatiba",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatiba-sp-retifica-concurso-publico-com-mais-de-200-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "286 vagas até R$ 11.631,72Vários CargosFundamental / Médio / Técnico / Superior",
         "periodo_inscricao": "29/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-itatiba-sp"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-itatiba-sp-retifica-concurso-publico-com-mais-de-200-vagas/1671086/718b48a608/edital_de_abertura_n_01_2025_1671086.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-itatiba-sp-retifica-concurso-publico-com-mais-de-200-vagas/1671806/dea4c726d1/retificacao_i_1671806.pdf"
+            }
+        ]
     },
     {
+        "regiao": "SÃO PAULO",
         "titulo": "TCE - Tribunal de Contas do Estado de São Paulo",
         "link": "https://www.pciconcursos.com.br/noticias/tcesp-retifica-concurso-publico-com-63-vagas-para-auditores-de-controle-externo",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "63 vagas até R$ 17.743,05Auditor de Controle Externo, Auditor de Controle Externo AdministraçãoSuperior",
         "periodo_inscricao": "24/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/tce-sp"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/tcesp-retifica-concurso-publico-com-63-vagas-para-auditores-de-controle-externo/1670787/97d8dbda57/edital_de_abertura_n_01_2025_1670787.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/tcesp-retifica-concurso-publico-com-63-vagas-para-auditores-de-controle-externo/1671584/eae09793ad/retificacao_i_1671584.pdf"
+            }
+        ]
     },
     {
+        "regiao": "RIO DE JANEIRO",
         "titulo": "Prefeitura de Barra Mansa",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-mansa-rj-divulga-processo-seletivo-para-agentes-comunitarios-de-saude",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "21 vagas até R$ 3036,00Agente Comunitário de SaúdeEnsino Médio",
         "periodo_inscricao": "06/05/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-barra-mansa-rj"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-barra-mansa-rj-divulga-processo-seletivo-para-agentes-comunitarios-de-saude/1671689/96f93ee955/edital_de_abertura_n_01_2025_1671689.pdf"
+            }
+        ]
     },
     {
+        "regiao": "MINAS GERAIS",
         "titulo": "Câmara de Mariana",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-mariana-mg-lanca-concurso-para-diversos-niveis-de-escolaridade",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "15 vagas até R$ 4269,52Vários CargosMédio / Técnico / Superior",
         "periodo_inscricao": "08/05/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/camara-de-mariana-mg"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/camara-de-mariana-mg-lanca-concurso-para-diversos-niveis-de-escolaridade/1669265/856980c143/edital_de_abertura_n_01_2025_1669265.pdf"
+            }
+        ]
     },
     {
+        "regiao": "MINAS GERAIS",
         "titulo": "CAU - Conselho de Arquitetura e Urbanismo do Estado de Minas Gerais",
         "link": "https://www.pciconcursos.com.br/noticias/cau-mg-divulga-retificacao-de-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "9 vagas até R$ 12.903,39Vários CargosMédio / Superior",
         "periodo_inscricao": "15/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/cau-mg"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 1/2025",
+                "url": "https://arq.pciconcursos.com.br/cau-mg-divulga-retificacao-de-concurso-publico/1670788/e51a165fea/edital_de_abertura_n_1_2025_1670788.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/cau-mg-divulga-retificacao-de-concurso-publico/1671019/1e4681ac60/retificacao_i_1671019.pdf"
+            }
+        ]
     },
     {
+        "regiao": "MINAS GERAIS",
         "titulo": "Prefeitura de Divinésia",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-divinesia-mg-abre-130-vagas-em-novo-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "130 vagas até R$ 15.632,97Vários CargosFundamental / Médio / Técnico / Superior",
         "periodo_inscricao": "16/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-divinesia-mg"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-divinesia-mg-abre-130-vagas-em-novo-concurso-publico/1668571/e7c0d3b248/edital_de_abertura_n_01_2025_1668571.pdf"
+            }
+        ]
     },
     {
+        "regiao": "MINAS GERAIS",
         "titulo": "Prefeitura de Guapé (SAAE)",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guape-mg-lanca-concurso-publico-com-19-vagas-efetivas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "19 vagas até R$ 4090,00Vários CargosFundamental / Médio / Superior",
         "periodo_inscricao": "02/05/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/saae-de-guape-mg"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-guape-mg-lanca-concurso-publico-com-19-vagas-efetivas/1669332/7b2e3107a3/edital_de_abertura_n_01_2025_1669332.pdf"
+            }
+        ]
     },
     {
+        "regiao": "MINAS GERAIS",
         "titulo": "Prefeitura de Serrania",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "47 vagas até R$ 13.401,70Vários CargosFundamental / Médio / Técnico / Superior",
         "periodo_inscricao": "Reabertura de19/05 a23/06/2025",
         "situacao": "Aberto",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-serrania-mg"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2024 - RETIFICADO",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas/1661592/f1ca609cca/edital_de_abertura_n_01_2024_retificado_1661592.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO II - EDITAL DE ABERTURA Nº 01/2024",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas/1670745/a9e5fa928d/retificacao_ii_edital_de_abertura_n_01_2024_1670745.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I - EDITAL DE ABERTURA Nº 01/2024",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas/1668093/1be70157b1/retificacao_i_edital_de_abertura_n_01_2024_1668093.pdf"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 02/2024 - RETIFICADO",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas/1661593/07624ea491/edital_de_abertura_n_02_2024_retificado_1661593.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I - EDITAL DE ABERTURA Nº 02/2024",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas/1668094/d997a36828/retificacao_i_edital_de_abertura_n_02_2024_1668094.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO II - EDITAL DE ABERTURA Nº 02/2024",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas/1670746/06a220829a/retificacao_ii_edital_de_abertura_n_02_2024_1670746.pdf"
+            }
+        ]
     },
     {
+        "regiao": "ESPÍRITO SANTO",
         "titulo": "CRMV - Conselho Regional de Medicina Veterinária",
         "link": "https://www.pciconcursos.com.br/noticias/crmv-es-abre-inscricoes-para-edital-de-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1 vaga até R$ 5241,33Advogado, Agente Administrativo, Agente FiscalMédio / Superior",
         "periodo_inscricao": "22/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/crmv-es"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/crmv-es-abre-inscricoes-para-edital-de-concurso-publico/1670796/61f21479e7/edital_de_abertura_n_01_2025_1670796.pdf"
+            }
+        ]
     },
     {
+        "regiao": "PARANÁ",
         "titulo": "CBM - Corpo de Bombeiros Militar do Paraná",
         "link": "https://www.pciconcursos.com.br/noticias/cbm-pr-abre-600-vagas-em-novo-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "600 vagas até R$ 6101,87Soldado Bombeiro MilitarSuperior",
         "periodo_inscricao": "14/04 a13/05/2025",
         "situacao": "Aberto",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/cbm-pr"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/cbm-pr-abre-600-vagas-em-novo-concurso-publico/1671646/7df67f50d1/edital_de_abertura_n_01_2025_1671646.pdf"
+            }
+        ]
     },
     {
+        "regiao": "PARANÁ",
         "titulo": "PM - Polícia Militar do estado do Paraná",
         "link": "https://www.pciconcursos.com.br/noticias/pm-pr-abre-inscricoes-para-edital-de-concurso-publico-com-2-mil-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "2.000 vagas até R$ 6101,87Aluno-Soldado de 3ª Classe Policial MilitarSuperior",
         "periodo_inscricao": "14/04 a13/05/2025",
         "situacao": "Aberto",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/policia-militar-pr"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/pm-pr-abre-inscricoes-para-edital-de-concurso-publico-com-2-mil-vagas/1671649/37ceb7627c/edital_de_abertura_n_01_2025_1671649.pdf"
+            }
+        ]
     },
     {
+        "regiao": "RIO GRANDE DO SUL",
         "titulo": "Banrisul - Banco do Estado do Rio Grande do Sul",
         "link": "https://www.pciconcursos.com.br/noticias/banrisul-promove-concurso-publico-com-100-vagas-para-tecnico-em-tecnologia-da-informacao-ii",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "100 vagas até R$ 5012,25Vários CargosSuperior",
         "periodo_inscricao": "22/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/banrisul"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/banrisul-promove-concurso-publico-com-100-vagas-para-tecnico-em-tecnologia-da-informacao-ii/1670876/52d688e932/edital_de_abertura_n_01_2025_1670876.pdf"
+            }
+        ]
     },
     {
+        "regiao": "RIO GRANDE DO SUL",
         "titulo": "Brigada Militar do Estado do Rio Grande do Sul",
         "link": "https://www.pciconcursos.com.br/noticias/brigada-militar-do-rs-abre-concurso-publico-com-1200-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1200 vagas até R$ 5944,85Soldado de Primeira ClasseEnsino Médio",
         "periodo_inscricao": "22/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/brigada-militar-rs"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/brigada-militar-do-rs-abre-concurso-publico-com-1200-vagas/1671162/3291d413f0/edital_de_abertura_n_01_2025_1671162.pdf"
+            }
+        ]
     },
     {
+        "regiao": "RIO GRANDE DO SUL",
         "titulo": "CBM - Corpo de Bombeiros Militar do Estado do Rio Grande do Sul",
         "link": "https://www.pciconcursos.com.br/noticias/cbm-rs-promove-concurso-publico-para-soldado-bombeiro-militar-primeira-classe",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "400 vagas até R$ 5944,85Soldado Bombeiro Militar Primeira Classe QPBMEnsino Médio",
         "periodo_inscricao": "24/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/cbm-rs"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/cbm-rs-promove-concurso-publico-para-soldado-bombeiro-militar-primeira-classe/1671252/2162252821/edital_de_abertura_n_01_2025_1671252.pdf"
+            }
+        ]
     },
     {
+        "regiao": "SANTA CATARINA",
         "titulo": "CRC - Conselho Regional de Contabilidade",
         "link": "https://www.pciconcursos.com.br/noticias/crc-sc-publica-concurso-publico-para-profissionais-de-niveis-medio-e-superior",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1 vaga até R$ 6286,60Vários CargosMédio / Superior",
         "periodo_inscricao": "25/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/crc-sc"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/crc-sc-publica-concurso-publico-para-profissionais-de-niveis-medio-e-superior/1671776/357fc75aee/edital_de_abertura_n_01_2025_1671776.pdf"
+            }
+        ]
     },
     {
+        "regiao": "DISTRITO FEDERAL",
         "titulo": "Polícia Militar do Distrito Federal",
         "link": "https://www.pciconcursos.com.br/noticias/pm-df-reabre-inscricoes-de-concurso-publico-para-curso-de-formacao-de-oficiais",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "49 vagas até R$ 17.034,85Curso de Formação de OficiaisSuperior",
         "periodo_inscricao": "Reaberto até23/04/2025",
         "situacao": "Indefinido",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/policia-militar-df"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 03/2025 - COMPLETO",
+                "url": "https://arq.pciconcursos.com.br/pm-df-reabre-inscricoes-de-concurso-publico-para-curso-de-formacao-de-oficiais/1669364/1df83add33/edital_de_abertura_n_03_2025_completo_1669364.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/pm-df-reabre-inscricoes-de-concurso-publico-para-curso-de-formacao-de-oficiais/1671464/b861c230ed/retificacao_i_1671464.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO II",
+                "url": "https://arq.pciconcursos.com.br/pm-df-reabre-inscricoes-de-concurso-publico-para-curso-de-formacao-de-oficiais/1671465/cde22bebae/retificacao_ii_1671465.pdf"
+            },
+            {
+                "titulo": "REABERTURA",
+                "url": "https://arq.pciconcursos.com.br/pm-df-reabre-inscricoes-de-concurso-publico-para-curso-de-formacao-de-oficiais/1671701/a2d07dc76f/reabertura_1671701.pdf"
+            }
+        ]
     },
     {
+        "regiao": "GOIÁS",
         "titulo": "Prefeitura de Caldas Novas",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caldas-novas-go-divulga-15-vagas-em-novo-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "15 vagas até R$ 3100,00Guarda Civil MunicipalMédio / Técnico",
         "periodo_inscricao": "14/04 a09/05/2025",
         "situacao": "Aberto",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-caldas-novas-go"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 001/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-caldas-novas-go-divulga-15-vagas-em-novo-concurso-publico/1670983/7bcdce1dc7/edital_de_abertura_n_001_2025_1670983.pdf"
+            }
+        ]
     },
     {
+        "regiao": "GOIÁS",
         "titulo": "Prefeitura de Rio Verde",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-verde-go-retifica-um-dos-editais-de-concursos-publicos",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "499 vagas até R$ 2113,00Auxiliar Administrativo, Atendente Plantonista, Monitor de Transporte Coletivo UrbanoEnsino Médio",
         "periodo_inscricao": "29/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-rio-verde-go"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 001/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-rio-verde-go-retifica-um-dos-editais-de-concursos-publicos/1670433/08eb6b0340/edital_de_abertura_n_001_2025_1670433.pdf"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 002/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-rio-verde-go-retifica-um-dos-editais-de-concursos-publicos/1670434/315002f872/edital_de_abertura_n_002_2025_1670434.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I - EDITAL Nº 002/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-rio-verde-go-retifica-um-dos-editais-de-concursos-publicos/1672588/bad0370cee/retificacao_i_edital_n_002_2025_1672588.pdf"
+            },
+            {
+                "titulo": "CRONOGRAMA ATUALIZADO - EDITAL Nº 002/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-rio-verde-go-retifica-um-dos-editais-de-concursos-publicos/1672589/7070d8731e/cronograma_atualizado_edital_n_002_2025_1672589.pdf"
+            }
+        ]
     },
     {
+        "regiao": "MATO GROSSO DO SUL",
         "titulo": "CRM - Conselho Regional de Medicina - Campo Grande",
         "link": "https://www.pciconcursos.com.br/noticias/crm-ms-informa-abertura-de-edital-de-concurso-publico-para-a-cidade-de-campo-grande",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1 vaga até R$ 8538,29Vários CargosFundamental / Médio / Superior",
         "periodo_inscricao": "14/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/crm-ms"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/crm-ms-informa-abertura-de-edital-de-concurso-publico-para-a-cidade-de-campo-grande/1670568/a8247d7173/edital_de_abertura_n_01_2025_1670568.pdf"
+            }
+        ]
     },
     {
+        "regiao": "MATO GROSSO DO SUL",
         "titulo": "IFMS - Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
         "link": "https://www.pciconcursos.com.br/noticias/ifms-promove-61-vagas-em-novo-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "61 vagas até R$ 4967,04Vários CargosMédio / Técnico / Superior",
         "periodo_inscricao": "10/04/2025",
         "situacao": "Fechado",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/ifms"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 19/2025",
+                "url": "https://arq.pciconcursos.com.br/ifms-promove-61-vagas-em-novo-concurso-publico/1670574/bd9d5f2103/edital_de_abertura_n_19_2025_1670574.pdf"
+            }
+        ]
     },
     {
+        "regiao": "TOCANTINS",
         "titulo": "Polícia Militar do Estado de Tocantins",
         "link": "https://www.pciconcursos.com.br/noticias/pm-to-promove-tres-concursos-publicos-com-mais-de-600-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "660 vagas até R$ 10.842,13Vários CargosMédio / Superior",
         "periodo_inscricao": "15/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/policia-militar-to"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025 - CFO",
+                "url": "https://arq.pciconcursos.com.br/pm-to-promove-tres-concursos-publicos-com-mais-de-600-vagas/1670765/70c21a193a/edital_de_abertura_n_01_2025_cfo_1670765.pdf"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025 - CFP",
+                "url": "https://arq.pciconcursos.com.br/pm-to-promove-tres-concursos-publicos-com-mais-de-600-vagas/1670766/88858eebdc/edital_de_abertura_n_01_2025_cfp_1670766.pdf"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025 - CFP",
+                "url": "https://arq.pciconcursos.com.br/pm-to-promove-tres-concursos-publicos-com-mais-de-600-vagas/1670767/e5b052ade9/edital_de_abertura_n_01_2025_cfp_1670767.pdf"
+            }
+        ]
     },
     {
+        "regiao": "TOCANTINS",
         "titulo": "TRE - Tribunal Regional Eleitoral do Tocantins",
         "link": "https://www.pciconcursos.com.br/noticias/tre-to-divulga-retificacao-de-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "2 vagas até R$ 14.852,66Vários CargosSuperior",
         "periodo_inscricao": "16/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/tre-to"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025 - RETIFICADO",
+                "url": "https://arq.pciconcursos.com.br/tre-to-divulga-retificacao-de-concurso-publico/1671094/17de8b312b/edital_de_abertura_n_01_2025_retificado_1671094.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/tre-to-divulga-retificacao-de-concurso-publico/1672590/71882cb67e/retificacao_i_1672590.pdf"
+            }
+        ]
     },
     {
+        "regiao": "ALAGOAS",
         "titulo": "Prefeitura de Arapiraca",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arapiraca-al-promove-concurso-publico-para-guarda-civil-municipal-3-classe",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "48 vagas até R$ 1781,63Guarda Civil Municipal 3ª ClasseEnsino Médio",
         "periodo_inscricao": "11/05/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-arapiraca-al"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-arapiraca-al-promove-concurso-publico-para-guarda-civil-municipal-3-classe/1671217/c556d4d9bd/edital_de_abertura_n_01_2025_1671217.pdf"
+            }
+        ]
     },
     {
+        "regiao": "BAHIA",
         "titulo": "Câmara de Caetité",
         "link": "https://www.pciconcursos.com.br/noticias/camara-municipal-de-caetite-ba-retifica-concurso-publico-com-10-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "16 vagas até R$ 5000,00Vários CargosFundamental / Médio",
         "periodo_inscricao": "Prorrogado de19/06 a18/07/2025",
         "situacao": "Aberto",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/camara-de-caetite-ba"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA RETIFICADO Nº 01/2024",
+                "url": "https://arq.pciconcursos.com.br/camara-municipal-de-caetite-ba-retifica-concurso-publico-com-10-vagas/1659124/38e7dff545/edital_de_abertura_retificado_n_01_2024_1659124.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/camara-municipal-de-caetite-ba-retifica-concurso-publico-com-10-vagas/1661758/92fadc0679/retificacao_i_1661758.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO II",
+                "url": "https://arq.pciconcursos.com.br/camara-municipal-de-caetite-ba-retifica-concurso-publico-com-10-vagas/1662886/9fd1bc6ec7/retificacao_ii_1662886.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO III",
+                "url": "https://arq.pciconcursos.com.br/camara-municipal-de-caetite-ba-retifica-concurso-publico-com-10-vagas/1667583/a2770fdd83/retificacao_iii_1667583.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO IV",
+                "url": "https://arq.pciconcursos.com.br/camara-municipal-de-caetite-ba-retifica-concurso-publico-com-10-vagas/1667798/fc50991a2c/retificacao_iv_1667798.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO V",
+                "url": "https://arq.pciconcursos.com.br/camara-municipal-de-caetite-ba-retifica-concurso-publico-com-10-vagas/1668657/2bdaf1d20e/retificacao_v_1668657.pdf"
+            }
+        ]
     },
     {
+        "regiao": "CEARÁ",
+        "titulo": "PM - Polícia Militar do Estado do Ceará",
+        "link": "https://www.pciconcursos.com.br/noticias/sspds-aesp-e-seplag-ce-divulgam-concurso-publico-para-soldado-da-carreira-de-pracas-da-policia-militar",
+        "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "1000 vagas até R$ 5568,64Soldado da Carreira de PraçasEnsino Médio",
+        "periodo_inscricao": "22/04 a12/05/2025",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/sspds-aesp-e-seplag-ce-divulgam-concurso-publico-para-soldado-da-carreira-de-pracas-da-policia-militar/1672227/93e09cf358/edital_de_abertura_n_01_2025_1672227.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "CEARÁ",
+        "titulo": "Polícia Civil do Estado do Ceará",
+        "link": "https://www.pciconcursos.com.br/noticias/policia-civil-ce-abre-edital-de-concurso-publico-com-100-vagas",
+        "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "100 vagas até R$ 22.165,53DelegadoSuperior",
+        "periodo_inscricao": "11/04/2025",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/policia-civil-ce-abre-edital-de-concurso-publico-com-100-vagas/1670987/3b1703e418/edital_de_abertura_n_01_2025_1670987.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "CEARÁ",
         "titulo": "Prefeitura de Tianguá",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tiangua-ce-divulga-retificacao-de-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "270 vagas até R$ 15.612,50Vários CargosFundamental / Médio / Técnico / Superior",
         "periodo_inscricao": "Prorrogado até13/04/2025",
         "situacao": "Prorrogado",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-tiangua-ce"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025 - RETIFICADO",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-tiangua-ce-divulga-retificacao-de-concurso-publico/1670595/acec431ba7/edital_de_abertura_n_01_2025_retificado_1670595.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-tiangua-ce-divulga-retificacao-de-concurso-publico/1671050/fb5c17ece5/retificacao_i_1671050.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO II",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-tiangua-ce-divulga-retificacao-de-concurso-publico/1671225/a27e89cbcf/retificacao_ii_1671225.pdf"
+            }
+        ]
     },
     {
+        "regiao": "PERNAMBUCO",
         "titulo": "Prefeitura de Agrestina",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agrestina-pe-prorroga-inscricoes-de-concurso-publico-para-guarda-municipal",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "11 vagas até R$ 1518,00Guarda MunicipalEnsino Médio",
         "periodo_inscricao": "Prorrogado até12/04/2025",
         "situacao": "Prorrogado",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-agrestina-pe"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-agrestina-pe-prorroga-inscricoes-de-concurso-publico-para-guarda-municipal/1670309/4020e9414b/edital_de_abertura_n_01_2025_1670309.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/prefeitura-de-agrestina-pe-prorroga-inscricoes-de-concurso-publico-para-guarda-municipal/1670841/00b59c334e/retificacao_i_1670841.pdf"
+            }
+        ]
     },
     {
+        "regiao": "PIAUÍ",
         "titulo": "Ministério Público do Estado do Piauí",
         "link": "https://www.pciconcursos.com.br/noticias/mp-pi-lanca-concurso-com-30-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "30 vagas até R$ 8388,73Analista Ministerial, Técnico MinisterialMédio / Superior",
         "periodo_inscricao": "14/04 a23/05/2025",
         "situacao": "Aberto",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/ministerio-publico-pi"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/mp-pi-lanca-concurso-com-30-vagas/1671582/04f916b7e9/edital_de_abertura_n_01_2025_1671582.pdf"
+            }
+        ]
     },
     {
+        "regiao": "PIAUÍ",
         "titulo": "SEFAZ - Secretaria da Fazenda do Estado do Piauí",
         "link": "https://www.pciconcursos.com.br/noticias/sefaz-pi-lanca-concurso-publico-com-80-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "80 vagas até R$ 27.625,52Vários CargosSuperior",
         "periodo_inscricao": "22/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/sefaz-pi"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/sefaz-pi-lanca-concurso-publico-com-80-vagas/1671133/6ee75f8950/edital_de_abertura_n_01_2025_1671133.pdf"
+            }
+        ]
     },
     {
+        "regiao": "RIO GRANDE DO NORTE",
         "titulo": "SEAD e SESAP",
         "link": "https://www.pciconcursos.com.br/noticias/sead-e-sesap-rn-divulgam-concurso-publico",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "259 vagas até R$ 1647,77Vários CargosMédio / Técnico",
         "periodo_inscricao": "14/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/sesap-rn"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01/2025",
+                "url": "https://arq.pciconcursos.com.br/sead-e-sesap-rn-divulgam-concurso-publico/1670615/702f00bd6f/edital_de_abertura_n_01_2025_1670615.pdf"
+            }
+        ]
     },
     {
+        "regiao": "RIO GRANDE DO NORTE",
         "titulo": "SEAD e SESAP",
         "link": "https://www.pciconcursos.com.br/noticias/sead-e-sesap-rn-divulgam-concurso-publico-com-mais-de-300-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "306 vagas até R$ 4270,05Vários CargosSuperior",
         "periodo_inscricao": "14/04/2025",
         "situacao": "Inscrição não iniciada",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/sesap-rn2025"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 02/2025",
+                "url": "https://arq.pciconcursos.com.br/sead-e-sesap-rn-divulgam-concurso-publico-com-mais-de-300-vagas/1670684/eb44f11c0d/edital_de_abertura_n_02_2025_1670684.pdf"
+            }
+        ]
     },
     {
+        "regiao": "SERGIPE",
         "titulo": "Secretaria de Estado de Saúde de Sergipe (SES)",
         "link": "https://www.pciconcursos.com.br/noticias/ses-se-prorroga-inscricoes-para-concurso-publico-com-878-vagas",
         "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "878 vagas até R$ 8294,28Vários CargosMédio / Técnico / Superior",
         "periodo_inscricao": "Prorrogado até23/04/2025",
         "situacao": "Prorrogado",
-        "link_apostila": "https://www.pciconcursos.com.br/apostilas/ses-se"
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 03/2025 - REPUBLICADO",
+                "url": "https://arq.pciconcursos.com.br/ses-se-prorroga-inscricoes-para-concurso-publico-com-878-vagas/1669454/c4cd4626bf/edital_de_abertura_n_03_2025_republicado_1669454.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https://arq.pciconcursos.com.br/ses-se-prorroga-inscricoes-para-concurso-publico-com-878-vagas/1671804/ac6e787dc3/retificacao_i_1671804.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO II",
+                "url": "https://arq.pciconcursos.com.br/ses-se-prorroga-inscricoes-para-concurso-publico-com-878-vagas/1671805/9dd30220f4/retificacao_ii_1671805.pdf"
+            },
+            {
+                "titulo": "PRORROGAÇÃO",
+                "url": "https://arq.pciconcursos.com.br/ses-se-prorroga-inscricoes-para-concurso-publico-com-878-vagas/1672371/ebe810ca3d/prorrogacao_1672371.pdf"
+            }
+        ]
     }
 ]
