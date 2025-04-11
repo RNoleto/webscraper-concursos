@@ -1,0 +1,37 @@
+name: Atualizar concursos.json
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Todos os dias às 12h UTC (9h horário de Brasília)
+  workflow_dispatch: # Permite rodar manualmente também
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar dependências do PHP
+        run: |
+          sudo apt update
+          sudo apt install -y php-cli php-curl php-dom php-mbstring unzip
+          curl -sS https://getcomposer.org/installer | php
+          php composer.phar install
+
+      - name: Rodar scraper
+        run: php scraper.php
+
+      - name: Rodar script para processar PDFs (opcional)
+        run: php script.php
+
+      - name: Commit e push se concursos.json mudou
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add concursos.json
+          git diff --cached --quiet || git commit -m "Atualização automática do concursos.json"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
