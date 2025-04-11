@@ -1,0 +1,33 @@
+name: Atualizar concursos.json
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # a cada 6 horas
+  workflow_dispatch:        # também pode rodar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Instala Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Instala dependências
+      run: |
+        pip install -r requirements.txt
+
+    - name: Roda o scraper
+      run: python webscraper.py
+
+    - name: Commit e push do JSON atualizado
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add concursos.json
+        git commit -m "Atualiza concursos.json automaticamente" || echo "Nada para commitar"
+        git push
