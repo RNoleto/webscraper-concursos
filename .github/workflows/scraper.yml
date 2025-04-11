@@ -34,7 +34,3 @@ jobs:
           git add concursos.json
           git diff --cached --quiet || git commit -m "Atualização automática do concursos.json"
           git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }} HEAD:main
-<<<<<<< HEAD
-
-=======
->>>>>>> c0ae0186b2098d15a9c90dd9de0cb21e3d3df052
