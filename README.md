@@ -1,4 +1,4 @@
-# 🎯 Concurso Parser
+# 🎯 Webscraper Concursos
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/your-dark-mode-image-url">
@@ -34,8 +34,8 @@ Este projeto em PHP automatiza o processo de download e análise de editais de c
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/concurso-parser.git
-cd concurso-parser
+git clone https://github.com/RNoleto/webscraper-concursos.git
+cd webscraper-concursos
 ```
 
 ### 2. Instalar as dependências
