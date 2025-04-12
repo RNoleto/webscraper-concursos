@@ -1,6 +1,13 @@
-# Concurso Parser
+# 🎯 Concurso Parser
 
-Este projeto em PHP automatiza o processo de download e análise de editais de concursos públicos, extraindo dados como **cargos**, **quantidade de vagas** e **salários** a partir de arquivos PDF e atualizando um arquivo `concursos.json` com essas informações estruturadas.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/your-dark-mode-image-url">
+  <img alt="Logo do Projeto" src="https://camo.githubusercontent.com/your-light-mode-image-url">
+</picture>
+
+Este projeto em PHP automatiza o processo de download e análise de editais de concursos públicos, extraindo dados como **cargos**, **quantidade de vagas** e **salários** a partir de arquivos PDF. As informações estruturadas são atualizadas diariamente no arquivo `concursos.json`, garantindo que a lista de concursos esteja sempre atualizada.
+
+**Fonte dos dados**: Os concursos são extraídos diretamente da página **PCI Concursos**.
 
 ## 🧰 Tecnologias utilizadas
 
@@ -39,6 +46,45 @@ Certifique-se de que o **Composer** está instalado em sua máquina. Em seguida,
 composer install
 ```
 
+### 3. Executar o scraper
+
+```bash
+php scraper.php
+```
+
+Esse comando:
+
+- Vai executar o script de scrap
+- Extrai as informações de concursos do PCI Concursos
+- Atualiza o arquivo `concursos.json` com as informações estruturadas
+
+## Exemplo de dados extraídos
+
+```json
+[
+  {
+    "regiao": "NACIONAL",
+    "titulo": "CONAB - Companhia Nacional de Abastecimento",
+    "link": "https://www.pciconcursos.com.br/noticias/conab-divulga-retificacao-de-concurso-publico-com-403-vagas",
+    "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==",
+    "resumo": "403 vagas até R$ 8140,88 Assistente, Analista Médio / Superior",
+    "periodo_inscricao": "14/04 a15/05/2025",
+    "situacao": "Aberto",
+    "link_apostila": [],
+    "link_edital": [
+      {
+        "titulo": "EDITAL DE ABERTURA Nº 001/2025 - RETIFICADO",
+        "url": "https://arq.pciconcursos.com.br/conab-divulga-retificacao-de-concurso-publico-com-403-vagas/1671608/91e67a018e/edital_de_abertura_n_001_2025_retificado_1671608.pdf"
+      },
+      {
+        "titulo": "RETIFICAÇÃO I",
+        "url": "https://arq.pciconcursos.com.br/conab-divulga-retificacao-de-concurso-publico-com-403-vagas/1672785/9a7eb24896/retificacao_i_1672785.pdf"
+      }
+    ]
+  }
+]
+```
+
 ### 3. Adicionar o arquivo `concursos.json`
 
 Você precisa criar ou colocar um arquivo `concursos.json` com a seguinte estrutura básica:
@@ -46,9 +92,7 @@ Você precisa criar ou colocar um arquivo `concursos.json` com a seguinte estrut
 ```json
 [
   {
-    "link_edital": [
-      { "url": "https://exemplo.com/edital.pdf" }
-    ]
+    "link_edital": [{ "url": "https://exemplo.com/edital.pdf" }]
   }
 ]
 ```
