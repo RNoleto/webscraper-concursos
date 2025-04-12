@@ -85,20 +85,6 @@ Esse comando:
 ]
 ```
 
-### 3. Adicionar o arquivo `concursos.json`
-
-Você precisa criar ou colocar um arquivo `concursos.json` com a seguinte estrutura básica:
-
-```json
-[
-  {
-    "link_edital": [{ "url": "https://exemplo.com/edital.pdf" }]
-  }
-]
-```
-
-> O campo `url` deve conter o link direto para o arquivo PDF do edital.
-
 ### 4. Executar o script
 
 ```bash
