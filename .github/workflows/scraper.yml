@@ -1,10 +1,12 @@
-# scraper.yml
 name: Atualizar concursos.json
 
 on:
   schedule:
     - cron: '0 12 * * *' # Todos os dias às 12h UTC (9h horário de Brasília)
   workflow_dispatch: # Permite rodar manualmente também
+
+permissions:
+  contents: write
 
 jobs:
   run-scraper:
