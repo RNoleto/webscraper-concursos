@@ -57,13 +57,26 @@ foreach ($containers as $container) {
 
         // Normaliza casos como "14 a25/07/2025" para "14 a 25/07/2025"
         $inscricao = preg_replace('/a(\d{1,2}\/\d{2}\/\d{4})/', 'a $1', $inscricao);
+        // Normaliza prefixos colados com a data
+        $inscricao = preg_replace('/(Reaberto até|Prorrogado até|Verificar por edital)(\d{1,2}\/\d{2}\/\d{4})/i', '$1 $2', $inscricao);
 
         $periodo_inscricao = $inscricao;
         $situacao = 'Indefinido';
         $hoje = new DateTime('now');
 
+        // Trata casos "Reaberto até DD/MM/AAAA" ou "Prorrogado até DD/MM/AAAA"
+        if (preg_match('/^(Reaberto até|Prorrogado até)\s*(\d{2}\/\d{2}\/\d{4})$/i', $inscricao, $matches)) {
+            $dataFim = DateTime::createFromFormat('d/m/Y', $matches[2]);
+            $periodo_inscricao = trim($matches[1]) . ' ' . $matches[2];
+            $situacao = ($dataFim >= $hoje) ? 'Aberto' : 'Fechado';
+        }
+        // Trata caso "Verificar por edital DD/MM/AAAA"
+        elseif (preg_match('/^Verificar por edital\s*(\d{2}\/\d{2}\/\d{4})$/i', $inscricao, $matches)) {
+            $periodo_inscricao = 'Verificar por edital ' . $matches[1];
+            $situacao = 'Indefinido';
+        }
         // Tenta capturar período do tipo "14 a 25/07/2025" ou "14/07 a 25/07/2025"
-        if (preg_match('/(\d{1,2})(?:\/(\d{2}))?\s*a\s*(\d{1,2}\/\d{2}\/\d{4})/', $inscricao, $matches)) {
+        elseif (preg_match('/(\d{1,2})(?:\/(\d{2}))?\s*a\s*(\d{1,2}\/\d{2}\/\d{4})/', $inscricao, $matches)) {
             $diaInicio = $matches[1];
             $mesInicio = isset($matches[2]) ? $matches[2] : null;
             $dataFim = $matches[3];
