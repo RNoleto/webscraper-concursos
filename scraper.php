@@ -55,16 +55,49 @@ foreach ($containers as $container) {
         $inscricaoNode = $xpath->query('.//div[@class="ce"]/span', $container)->item(0);
         $inscricao = $inscricaoNode ? trim(preg_replace('/\s+/', ' ', $inscricaoNode->nodeValue)) : '';
 
+        // Normaliza casos como "14 a25/07/2025" para "14 a 25/07/2025"
+        $inscricao = preg_replace('/a(\d{1,2}\/\d{2}\/\d{4})/', 'a $1', $inscricao);
+
+        $periodo_inscricao = $inscricao;
         $situacao = 'Indefinido';
-        if (stripos($inscricao, 'Prorrogado até') !== false) {
+        $hoje = new DateTime('now');
+
+        // Tenta capturar período do tipo "14 a 25/07/2025" ou "14/07 a 25/07/2025"
+        if (preg_match('/(\d{1,2})(?:\/(\d{2}))?\s*a\s*(\d{1,2}\/\d{2}\/\d{4})/', $inscricao, $matches)) {
+            $diaInicio = $matches[1];
+            $mesInicio = isset($matches[2]) ? $matches[2] : null;
+            $dataFim = $matches[3];
+
+            // Extrai dia, mês e ano da data final
+            list($diaFim, $mesFim, $anoFim) = explode('/', $dataFim);
+
+            // Se não tem mês na data inicial, usa o mês da data final
+            if (!$mesInicio) $mesInicio = $mesFim;
+
+            // Monta data inicial completa
+            $dataInicio = sprintf('%02d/%02d/%04d', $diaInicio, $mesInicio, $anoFim);
+
+            // Monta periodo_inscricao padronizado
+            $periodo_inscricao = "$dataInicio a $dataFim";
+
+            // Calcula situação
+            $dtInicio = DateTime::createFromFormat('d/m/Y', $dataInicio);
+            $dtFim = DateTime::createFromFormat('d/m/Y', $dataFim);
+
+            if ($hoje < $dtInicio) {
+                $situacao = 'Inscrição não iniciada';
+            } elseif ($hoje > $dtFim) {
+                $situacao = 'Fechado';
+            } else {
+                $situacao = 'Aberto';
+            }
+        } elseif (stripos($inscricao, 'Prorrogado até') !== false) {
             $situacao = 'Prorrogado';
         } elseif (preg_match('/^(\d{2}\/\d{2}\/\d{4})$/', $inscricao, $matches)) {
             $dataUnica = DateTime::createFromFormat('d/m/Y', $matches[1]);
-            $hoje = new DateTime('now');
             $situacao = $dataUnica > $hoje ? 'Inscrição não iniciada' : 'Fechado';
         } elseif (preg_match('/a\s*(\d{2}\/\d{2}\/\d{4})/', $inscricao, $matches)) {
             $dataFim = DateTime::createFromFormat('d/m/Y', $matches[1]);
-            $hoje = new DateTime('now');
             $situacao = $dataFim >= $hoje ? 'Aberto' : 'Fechado';
         }
 
@@ -117,7 +150,7 @@ foreach ($containers as $container) {
             'link' => $link,
             'imagem' => $imagem,
             'resumo' => $resumo,
-            'periodo_inscricao' => $inscricao,
+            'periodo_inscricao' => $periodo_inscricao,
             'situacao' => $situacao,
             'link_apostila' => $apostilas,
             'link_edital' => $linkEditais,
