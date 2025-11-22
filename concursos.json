@@ -11,11 +11,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025 - RETIFICADO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/caixa-economica-federal-retifica-concurso-publico-nacional-com-184-vagas\/1688823\/64ca8baf89\/edital_de_abertura_n_01_2025_retificado_1688823.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/caixa-economica-federal-retifica-concurso-publico-nacional-com-184-vagas\/1688823\/feeaaf47a5\/edital_de_abertura_n_01_2025_retificado_1688823.pdf"
             },
             {
                 "titulo": "EDITAL RETIFICADO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/caixa-economica-federal-retifica-concurso-publico-nacional-com-184-vagas\/1689794\/5cf05dddc0\/edital_retificado_1689794.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/caixa-economica-federal-retifica-concurso-publico-nacional-com-184-vagas\/1689794\/d20ab0019d\/edital_retificado_1689794.pdf"
             }
         ],
         "detalhes_extraidos": {
@@ -29,6 +29,26 @@
         }
     },
     {
+        "regiao": "NACIONAL",
+        "titulo": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ibge-abre-processos-seletivos-com-mais-de-9-mil-vagas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "9580 vagas até R$ 3379,00 Agente de Pesquisas e Mapeamento, Supervisor de Coleta e Qualidade Ensino Médio",
+        "periodo_inscricao": "11\/12\/2025",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 04\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/ibge-abre-processos-seletivos-com-mais-de-9-mil-vagas\/1689863\/049d78cb94\/edital_de_abertura_n_04_2025_1689863.pdf"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 05\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/ibge-abre-processos-seletivos-com-mais-de-9-mil-vagas\/1689864\/fb55fbb80f\/edital_de_abertura_n_05_2025_1689864.pdf"
+            }
+        ]
+    },
+    {
         "regiao": "SÃO PAULO",
         "titulo": "ARTESP - Agência de Transportes do Estado de São Paulo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/artesp-retifica-concurso-publico-com-142-vagas",
@@ -40,11 +60,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/artesp-retifica-concurso-publico-com-142-vagas\/1688104\/968c9bbdf7\/edital_de_abertura_n_01_2025_1688104.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/artesp-retifica-concurso-publico-com-142-vagas\/1688104\/4354f8a4f1\/edital_de_abertura_n_01_2025_1688104.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO I",
-                "url": "https:\/\/arq.pciconcursos.com.br\/artesp-retifica-concurso-publico-com-142-vagas\/1688877\/baf3ab07b3\/retificacao_i_1688877.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/artesp-retifica-concurso-publico-com-142-vagas\/1688877\/26f0b8f6c3\/retificacao_i_1688877.pdf"
             }
         ]
     },
@@ -60,7 +80,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/fipase-de-ribeirao-preto-abre-concurso-publico-com-seis-vagas-para-ensino-superior\/1689548\/8c32cbe319\/edital_de_abertura_n_01_2025_1689548.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/fipase-de-ribeirao-preto-abre-concurso-publico-com-seis-vagas-para-ensino-superior\/1689548\/1ddaa2795f\/edital_de_abertura_n_01_2025_1689548.pdf"
             }
         ]
     },
@@ -76,7 +96,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 229\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ifsp-abre-concurso-publico-para-tecnicos-administrativos-em-educacao\/1686714\/bb2aadd328\/edital_de_abertura_n_229_2025_1686714.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/ifsp-abre-concurso-publico-para-tecnicos-administrativos-em-educacao\/1686714\/cb73c76a72\/edital_de_abertura_n_229_2025_1686714.pdf"
             }
         ]
     },
@@ -92,7 +112,39 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 05\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-cajamar-sp-abre-nove-vagas-em-novo-concurso-publico\/1688525\/c983610e4c\/edital_de_abertura_n_05_2025_1688525.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-cajamar-sp-abre-nove-vagas-em-novo-concurso-publico\/1688525\/e862d8b129\/edital_de_abertura_n_05_2025_1688525.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Franco da Rocha",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-franco-da-rocha-sp-abre-concurso-publico-com-salarios-de-ate-5-8-mil",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "11 vagas até R$ 5820,05 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "11\/12\/2025",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 004\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-franco-da-rocha-sp-abre-concurso-publico-com-salarios-de-ate-5-8-mil\/1689313\/963b4c2cf8\/edital_de_abertura_n_004_2025_1689313.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Taguaí",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/edital-de-concurso-publico-e-divulgado-pela-prefeitura-de-taguai-sp",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "3 vagas até R$ 4718,59 Auxiliar Administrativo I, Fonoaudiólogo, Técnico de Enfermagem Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "08\/12\/2025",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/edital-de-concurso-publico-e-divulgado-pela-prefeitura-de-taguai-sp\/1689582\/66e47f3ca6\/edital_de_abertura_n_01_2025_1689582.pdf"
             }
         ]
     },
@@ -108,7 +160,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 004\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/sap-sp-anuncia-1100-vagas-em-novo-concurso-publico\/1686443\/35dee14439\/edital_de_abertura_n_004_2025_1686443.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/sap-sp-anuncia-1100-vagas-em-novo-concurso-publico\/1686443\/b3c3fa6b46\/edital_de_abertura_n_004_2025_1686443.pdf"
             }
         ]
     },
@@ -124,7 +176,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/seprev-sp-abre-inscricoes-para-edital-de-concurso-publico-com-quatro-vagas\/1688398\/8173615d68\/edital_de_abertura_n_01_2025_1688398.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/seprev-sp-abre-inscricoes-para-edital-de-concurso-publico-com-quatro-vagas\/1688398\/3250ec7ba4\/edital_de_abertura_n_01_2025_1688398.pdf"
             }
         ]
     },
@@ -140,7 +192,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ses-sp-promove-concurso-publico-com-305-vagas\/1687710\/f29f747354\/edital_de_abertura_1687710.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/ses-sp-promove-concurso-publico-com-305-vagas\/1687710\/1a12db0d94\/edital_de_abertura_1687710.pdf"
             }
         ]
     },
@@ -156,7 +208,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 865",
-                "url": "https:\/\/arq.pciconcursos.com.br\/unifesp-promove-concurso-publico-com-47-vagas\/1687418\/4180760a05\/edital_de_abertura_n_865_1687418.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/unifesp-promove-concurso-publico-com-47-vagas\/1687418\/8c8dc10da4\/edital_de_abertura_n_865_1687418.pdf"
             }
         ]
     },
@@ -172,11 +224,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/tj-rj-publica-dois-concursos-publicos-para-formar-cadastro-reserva\/1687644\/9542f862ce\/edital_de_abertura_n_01_2025_1687644.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/tj-rj-publica-dois-concursos-publicos-para-formar-cadastro-reserva\/1687644\/7256a40307\/edital_de_abertura_n_01_2025_1687644.pdf"
             },
             {
                 "titulo": "EDITAL DE ABERTURA Nº 02\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/tj-rj-publica-dois-concursos-publicos-para-formar-cadastro-reserva\/1687645\/1dcb49b041\/edital_de_abertura_n_02_2025_1687645.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/tj-rj-publica-dois-concursos-publicos-para-formar-cadastro-reserva\/1687645\/33dd9639dd\/edital_de_abertura_n_02_2025_1687645.pdf"
             }
         ]
     },
@@ -192,7 +244,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 190",
-                "url": "https:\/\/arq.pciconcursos.com.br\/unirio-promove-concurso-publico-para-tecnicos-administrativos-em-educacao\/1686713\/ae24c9e31f\/edital_de_abertura_n_190_1686713.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/unirio-promove-concurso-publico-para-tecnicos-administrativos-em-educacao\/1686713\/fd31918a46\/edital_de_abertura_n_190_1686713.pdf"
             }
         ]
     },
@@ -208,7 +260,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 11\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/pm-mg-abre-concurso-publico-para-formacao-de-oficiais-da-policia-militar-de-minas-gerais\/1683253\/67525d9d50\/edital_de_abertura_n_11_2025_1683253.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/pm-mg-abre-concurso-publico-para-formacao-de-oficiais-da-policia-militar-de-minas-gerais\/1683253\/cd9d30a994\/edital_de_abertura_n_11_2025_1683253.pdf"
             }
         ]
     },
@@ -224,7 +276,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-betim-mg-publica-concurso-publico-com-mais-de-700-vagas\/1687791\/b284b9f5e1\/edital_de_abertura_n_01_2025_1687791.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-betim-mg-publica-concurso-publico-com-mais-de-700-vagas\/1687791\/5342ccf387\/edital_de_abertura_n_01_2025_1687791.pdf"
             }
         ]
     },
@@ -240,11 +292,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-patos-de-minas-mg-divulga-concursos-publicos-com-mais-de-300-vagas\/1684261\/ff45e8d3c4\/edital_de_abertura_n_01_2025_1684261.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-patos-de-minas-mg-divulga-concursos-publicos-com-mais-de-300-vagas\/1684261\/25c656d7df\/edital_de_abertura_n_01_2025_1684261.pdf"
             },
             {
                 "titulo": "EDITAL DE ABERTURA Nº 02\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-patos-de-minas-mg-divulga-concursos-publicos-com-mais-de-300-vagas\/1684262\/8c4296e05c\/edital_de_abertura_n_02_2025_1684262.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-patos-de-minas-mg-divulga-concursos-publicos-com-mais-de-300-vagas\/1684262\/2138b56b1a\/edital_de_abertura_n_02_2025_1684262.pdf"
             }
         ]
     },
@@ -260,7 +312,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/sejusp-mg-abre-concurso-publico-para-policial-penal\/1685772\/1966310dee\/edital_de_abertura_n_01_2025_1685772.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/sejusp-mg-abre-concurso-publico-para-policial-penal\/1685772\/6810e06ab4\/edital_de_abertura_n_01_2025_1685772.pdf"
             }
         ]
     },
@@ -276,7 +328,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 1\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ifes-abre-nove-vagas-em-novo-concurso-publico\/1687417\/89ba5b53fe\/edital_de_abertura_n_1_2025_1687417.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/ifes-abre-nove-vagas-em-novo-concurso-publico\/1687417\/b5a4c5c868\/edital_de_abertura_n_1_2025_1687417.pdf"
             }
         ]
     },
@@ -292,7 +344,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 277\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-cascavel-pr-abre-edital-de-concurso-publico-com-diversos-cargos\/1687883\/5020dabef2\/edital_de_abertura_n_277_2025_1687883.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-cascavel-pr-abre-edital-de-concurso-publico-com-diversos-cargos\/1687883\/232f2f55f2\/edital_de_abertura_n_277_2025_1687883.pdf"
             }
         ]
     },
@@ -308,7 +360,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 02\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-curitiba-pr-abre-edital-de-concurso-publico-com-100-vagas\/1686547\/e1851b2013\/edital_de_abertura_n_02_2025_1686547.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-curitiba-pr-abre-edital-de-concurso-publico-com-100-vagas\/1686547\/bdb105f248\/edital_de_abertura_n_02_2025_1686547.pdf"
             }
         ]
     },
@@ -324,7 +376,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 06\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/pc-rs-promove-concurso-publico-para-escrivao-e-inspetor\/1687638\/bb88d6e2e0\/edital_de_abertura_n_06_2025_1687638.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/pc-rs-promove-concurso-publico-para-escrivao-e-inspetor\/1687638\/67f7fb89bc\/edital_de_abertura_n_06_2025_1687638.pdf"
             }
         ]
     },
@@ -340,11 +392,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/companhia-aguas-de-joinville-sc-prorroga-inscricoes-do-concurso-publico-para-diversos-niveis-de-escolaridade\/1685447\/794b8c2274\/edital_de_abertura_n_01_2025_1685447.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/companhia-aguas-de-joinville-sc-prorroga-inscricoes-do-concurso-publico-para-diversos-niveis-de-escolaridade\/1685447\/092d70b676\/edital_de_abertura_n_01_2025_1685447.pdf"
             },
             {
                 "titulo": "PRORROGAÇÃO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/companhia-aguas-de-joinville-sc-prorroga-inscricoes-do-concurso-publico-para-diversos-niveis-de-escolaridade\/1689139\/f605bb1539\/prorrogacao_1689139.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/companhia-aguas-de-joinville-sc-prorroga-inscricoes-do-concurso-publico-para-diversos-niveis-de-escolaridade\/1689139\/b3414a50ca\/prorrogacao_1689139.pdf"
             }
         ]
     },
@@ -360,19 +412,19 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos\/1687271\/c6c5798e7d\/edital_de_abertura_n_01_2025_1687271.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos\/1687271\/56d173c55c\/edital_de_abertura_n_01_2025_1687271.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO I - EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos\/1687762\/2f54e6127f\/retificacao_i_edital_de_abertura_n_01_2025_1687762.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos\/1687762\/9d7b36d4bf\/retificacao_i_edital_de_abertura_n_01_2025_1687762.pdf"
             },
             {
                 "titulo": "EDITAL DE ABERTURA Nº 02\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos\/1687272\/c4af60ec75\/edital_de_abertura_n_02_2025_1687272.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos\/1687272\/6518bfef2a\/edital_de_abertura_n_02_2025_1687272.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO I - EDITAL DE ABERTURA Nº 02\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos\/1687763\/874f7e4989\/retificacao_i_edital_de_abertura_n_02_2025_1687763.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos\/1687763\/daa344c0d8\/retificacao_i_edital_de_abertura_n_02_2025_1687763.pdf"
             }
         ]
     },
@@ -388,11 +440,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA RETIFICADO Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/alego-retifica-concurso-com-101-vagas-para-niveis-medio-e-superior\/1687824\/d9c52ce344\/edital_de_abertura_retificado_n_01_2025_1687824.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/alego-retifica-concurso-com-101-vagas-para-niveis-medio-e-superior\/1687824\/26203b8469\/edital_de_abertura_retificado_n_01_2025_1687824.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO I",
-                "url": "https:\/\/arq.pciconcursos.com.br\/alego-retifica-concurso-com-101-vagas-para-niveis-medio-e-superior\/1689209\/4ffdca73e7\/retificacao_i_1689209.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/alego-retifica-concurso-com-101-vagas-para-niveis-medio-e-superior\/1689209\/69fd160b86\/retificacao_i_1689209.pdf"
             }
         ]
     },
@@ -408,7 +460,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-aragarcas-go-divulga-abertura-de-concurso-publico-com-diversos-cargos\/1687984\/b5733421ea\/edital_de_abertura_n_01_2025_1687984.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-aragarcas-go-divulga-abertura-de-concurso-publico-com-diversos-cargos\/1687984\/25f75e66b5\/edital_de_abertura_n_01_2025_1687984.pdf"
             }
         ]
     },
@@ -424,7 +476,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-nova-veneza-go-abre-224-vagas-em-novo-concurso-publico\/1683887\/79cd1578df\/edital_de_abertura_n_01_2025_1683887.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-nova-veneza-go-abre-224-vagas-em-novo-concurso-publico\/1683887\/1f0fa02bb1\/edital_de_abertura_n_01_2025_1683887.pdf"
             }
         ]
     },
@@ -440,27 +492,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-planaltina-go-divulga-abertura-de-concurso-publico-com-salarios-de-ate-9-5-mil\/1684745\/8d4746fd19\/edital_de_abertura_n_01_2025_1684745.pdf"
-            }
-        ]
-    },
-    {
-        "regiao": "GOIÁS",
-        "titulo": "Prefeitura de Senador Canedo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-senador-canedo-go-publica-retificacao-de-concurso-publico",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "1.505 vagas até R$ 9929,68 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "25\/01\/2026 a 15\/01\/2026",
-        "situacao": "Inscrição não iniciada",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 01\/2025 - RETIFICADO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-senador-canedo-go-publica-retificacao-de-concurso-publico\/1688064\/fe03ef96f3\/edital_de_abertura_n_01_2025_retificado_1688064.pdf"
-            },
-            {
-                "titulo": "RETIFICAÇÃO I",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-senador-canedo-go-publica-retificacao-de-concurso-publico\/1688998\/a718b69051\/retificacao_i_1688998.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-planaltina-go-divulga-abertura-de-concurso-publico-com-salarios-de-ate-9-5-mil\/1684745\/63658e94c4\/edital_de_abertura_n_01_2025_1684745.pdf"
             }
         ]
     },
@@ -476,7 +508,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA",
-                "url": "https:\/\/arq.pciconcursos.com.br\/tj-ms-abre-360-vagas-em-novo-concurso-publico\/1687526\/83a0355085\/edital_de_abertura_1687526.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/tj-ms-abre-360-vagas-em-novo-concurso-publico\/1687526\/256cc00122\/edital_de_abertura_1687526.pdf"
             }
         ]
     },
@@ -492,7 +524,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 02\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-manaus-am-divulga-edital-de-concurso-publico-com-diversos-cargos\/1688995\/f244a8c743\/edital_de_abertura_n_02_2025_1688995.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-manaus-am-divulga-edital-de-concurso-publico-com-diversos-cargos\/1688995\/6010ce0b1e\/edital_de_abertura_n_02_2025_1688995.pdf"
             }
         ]
     },
@@ -508,7 +540,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 02\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-urucara-am-anuncia-concurso-publico-com-192-vagas\/1687113\/93c8c757ff\/edital_de_abertura_n_02_2025_1687113.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-urucara-am-anuncia-concurso-publico-com-192-vagas\/1687113\/e85c2a16a2\/edital_de_abertura_n_02_2025_1687113.pdf"
             }
         ]
     },
@@ -524,7 +556,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ale-ro-publica-abertura-de-edital-de-concurso-publico-com-200-vagas\/1688066\/1a4621768f\/edital_de_abertura_n_01_2025_1688066.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/ale-ro-publica-abertura-de-edital-de-concurso-publico-com-200-vagas\/1688066\/934eb014ce\/edital_de_abertura_n_01_2025_1688066.pdf"
             }
         ]
     },
@@ -540,11 +572,59 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/crq-ba-divulga-retificacao-de-concurso-publico-em-salvador\/1685982\/2a5543d31b\/edital_de_abertura_n_01_2025_1685982.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/crq-ba-divulga-retificacao-de-concurso-publico-em-salvador\/1685982\/65273d6361\/edital_de_abertura_n_01_2025_1685982.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO I",
-                "url": "https:\/\/arq.pciconcursos.com.br\/crq-ba-divulga-retificacao-de-concurso-publico-em-salvador\/1687041\/d58f2270e9\/retificacao_i_1687041.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/crq-ba-divulga-retificacao-de-concurso-publico-em-salvador\/1687041\/5be8cfea61\/retificacao_i_1687041.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "BAHIA",
+        "titulo": "Prefeitura de Jequié e Câmara de Jequié",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-jequie-ba-publica-retificacoes-de-concursos-publicos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Vagas até R$ 4182,98 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "04\/12\/2025",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01\/2025 - PREFEITURA MUNICIPAL - RETIFICADO",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-jequie-ba-publica-retificacoes-de-concursos-publicos\/1688287\/c7974a21be\/edital_de_abertura_n_01_2025_prefeitura_municipal_retificado_1688287.pdf"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 03\/2025 - CÂMARA MUNICIPAL - RETIFICADO",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-jequie-ba-publica-retificacoes-de-concursos-publicos\/1688288\/24646d390d\/edital_de_abertura_n_03_2025_camara_municipal_retificado_1688288.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I - EDITAL Nº 01\/2025 - PREFEITURA MUNICIPAL",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-jequie-ba-publica-retificacoes-de-concursos-publicos\/1689134\/fb75784c40\/retificacao_i_edital_n_01_2025_prefeitura_municipal_1689134.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO II - EDITAL Nº 01\/2025 - PREFEITURA MUNICIPAL",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-jequie-ba-publica-retificacoes-de-concursos-publicos\/1689982\/3645c6b770\/retificacao_ii_edital_n_01_2025_prefeitura_municipal_1689982.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I - EDITAL Nº 03\/2025 - CÂMARA MUNICIPAL",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-jequie-ba-publica-retificacoes-de-concursos-publicos\/1689983\/60d1bd1dec\/retificacao_i_edital_n_03_2025_camara_municipal_1689983.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "CEARÁ",
+        "titulo": "Prefeitura de Caridade",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-caridade-ce-abre-concurso-publico-com-mais-de-100-vagas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "104 vagas até R$ 2645,34 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "13\/12\/2025",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caridade-ce-abre-concurso-publico-com-mais-de-100-vagas\/1689271\/bb6982b0d2\/edital_de_abertura_n_01_2025_1689271.pdf"
             }
         ]
     },
@@ -560,11 +640,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ufc-abre-dois-concursos-publicos-para-cargo-de-tecnico-administrativo-em-educacao\/1688534\/9abc566631\/edital_de_abertura_n_01_2025_1688534.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/ufc-abre-dois-concursos-publicos-para-cargo-de-tecnico-administrativo-em-educacao\/1688534\/8d8041f4b7\/edital_de_abertura_n_01_2025_1688534.pdf"
             },
             {
                 "titulo": "EDITAL DE ABERTURA Nº 02\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ufc-abre-dois-concursos-publicos-para-cargo-de-tecnico-administrativo-em-educacao\/1688535\/cc2f95ba86\/edital_de_abertura_n_02_2025_1688535.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/ufc-abre-dois-concursos-publicos-para-cargo-de-tecnico-administrativo-em-educacao\/1688535\/2eec0b9a23\/edital_de_abertura_n_02_2025_1688535.pdf"
             }
         ]
     },
@@ -580,19 +660,19 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2024",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico\/1657604\/e8798e300d\/edital_de_abertura_n_01_2024_1657604.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico\/1657604\/0b1d64e213\/edital_de_abertura_n_01_2024_1657604.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO I",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico\/1660914\/ad2dfa188a\/retificacao_i_1660914.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico\/1660914\/27c56ca30f\/retificacao_i_1660914.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO II",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico\/1660915\/5af6b7d707\/retificacao_ii_1660915.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico\/1660915\/0606d77f42\/retificacao_ii_1660915.pdf"
             },
             {
                 "titulo": "REABERTURA",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico\/1687495\/730091e290\/reabertura_1687495.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico\/1687495\/18e287998a\/reabertura_1687495.pdf"
             }
         ]
     },
@@ -608,11 +688,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025 - RETIFICADO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/cpu-pe-anuncia-edital-retificado-do-concurso-publico-com-diversos-cargos\/1686294\/f5edd504ee\/edital_de_abertura_n_01_2025_retificado_1686294.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/cpu-pe-anuncia-edital-retificado-do-concurso-publico-com-diversos-cargos\/1686294\/1567913512\/edital_de_abertura_n_01_2025_retificado_1686294.pdf"
             },
             {
                 "titulo": "SUSPENSÃO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/cpu-pe-anuncia-edital-retificado-do-concurso-publico-com-diversos-cargos\/1686699\/f4b6a928cf\/suspensao_1686699.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/cpu-pe-anuncia-edital-retificado-do-concurso-publico-com-diversos-cargos\/1686699\/199878275f\/suspensao_1686699.pdf"
             }
         ]
     },
@@ -628,7 +708,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-petrolina-pe-divulga-concurso-publico-com-mais-de-1-mil-vagas\/1686918\/55a3f21adc\/edital_de_abertura_n_01_2025_1686918.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-petrolina-pe-divulga-concurso-publico-com-mais-de-1-mil-vagas\/1686918\/ffb48a84bd\/edital_de_abertura_n_01_2025_1686918.pdf"
             }
         ]
     },
@@ -644,7 +724,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/sead-e-seed-de-sergipe-divulgam-concurso-publico-para-professores-de-educacao-basica\/1688090\/4bf63339b9\/edital_de_abertura_n_01_2025_1688090.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/sead-e-seed-de-sergipe-divulgam-concurso-publico-para-professores-de-educacao-basica\/1688090\/1df2fe2927\/edital_de_abertura_n_01_2025_1688090.pdf"
             }
         ]
     }
