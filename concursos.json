@@ -22,7 +22,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "60 vagas até R$ 9861,23 Vários Cargos Superior",
         "periodo_inscricao": "08\/01\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -373,17 +373,17 @@
     },
     {
         "regiao": "SANTA CATARINA",
-        "titulo": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto de Santa Rosa do Sul",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/samae-de-santa-rosa-do-sul-sc-abre-inscricoes-para-edital-de-concurso-publico",
+        "titulo": "PCISC - Polícia Científica do Estado de Santa Catarina",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-cientifica-sc-anuncia-abertura-de-concurso-publico-com-diversas-vagas",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "6 vagas até R$ 4013,18 Vários Cargos Fundamental \/ Médio \/ Técnico",
-        "periodo_inscricao": "07\/01\/2026",
-        "situacao": "Fechado",
+        "resumo": "60 vagas até R$ 27.737,24 Vários Cargos Superior",
+        "periodo_inscricao": "19\/01\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/samae-de-santa-rosa-do-sul-sc-abre-inscricoes-para-edital-de-concurso-publico\/1691302\/@\/edital_de_abertura_n_01_2025_1691302.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/policia-cientifica-sc-anuncia-abertura-de-concurso-publico-com-diversas-vagas\/1692041\/@\/edital_de_abertura_n_01_2025_1692041.pdf"
             }
         ]
     },
@@ -518,12 +518,36 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "6 vagas até R$ 5762,31 Contador, Fiscal Contador, Auxiliar Administrativo Médio \/ Superior",
         "periodo_inscricao": "08\/01\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
                 "url": "https:\/\/arq.pciconcursos.com.br\/crc-ce-anuncia-a-abertura-de-um-novo-concurso-publico\/1691340\/@\/edital_de_abertura_n_01_2025_1691340.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "MARANHÃO",
+        "titulo": "Prefeitura de Alcântara",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-alcantara-ma-abre-tres-concursos-publicos-com-173-vagas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "173 vagas até R$ 3238,63 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "05\/02\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-alcantara-ma-abre-tres-concursos-publicos-com-173-vagas\/1691568\/@\/edital_de_abertura_n_01_2025_1691568.pdf"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 02\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-alcantara-ma-abre-tres-concursos-publicos-com-173-vagas\/1691569\/@\/edital_de_abertura_n_02_2025_1691569.pdf"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 03\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-alcantara-ma-abre-tres-concursos-publicos-com-173-vagas\/1691570\/@\/edital_de_abertura_n_03_2025_1691570.pdf"
             }
         ]
     },
