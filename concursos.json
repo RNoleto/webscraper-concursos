@@ -17,17 +17,17 @@
     },
     {
         "regiao": "NACIONAL",
-        "titulo": "IBAMA e INCRA",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ibama-e-incra-retifica-processo-seletivo-com-60-vagas",
+        "titulo": "Marinha do Brasil",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/marinha-abre-concurso-para-escolas-de-aprendizes-marinheiros-com-850-vagas-em-2026",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "60 vagas até R$ 9861,23 Vários Cargos Superior",
-        "periodo_inscricao": "08\/01\/2026",
-        "situacao": "Fechado",
+        "resumo": "850 vagas até R$ 2294,50 Escolas de Aprendizes-Marinheiros Ensino Médio",
+        "periodo_inscricao": "27\/01\/2026 a 25\/02\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL DE ABERTURA RETIFICADO Nº 1\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ibama-e-incra-retifica-processo-seletivo-com-60-vagas\/1691453\/@\/edital_de_abertura_retificado_n_1_2025_1691453.pdf"
+                "titulo": "EDITAL DE ABERTURA",
+                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-abre-concurso-para-escolas-de-aprendizes-marinheiros-com-850-vagas-em-2026\/1691955\/@\/edital_de_abertura_1691955.pdf"
             }
         ]
     },
@@ -126,7 +126,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "200 vagas até R$ 21.177,10 Auditor Fiscal da Receita Estadual Nível I SQC-IIISuperior",
         "periodo_inscricao": "09\/01\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -372,6 +372,22 @@
         ]
     },
     {
+        "regiao": "RIO GRANDE DO SUL",
+        "titulo": "Tribunal de Justiça",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tj-rs-publica-processo-seletivo-com-mais-de-1-mil-vagas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "1.042 vagas até R$ 9226,01 Juiz Leigo, Conciliador Cível, Conciliador Criminal Médio \/ Superior",
+        "periodo_inscricao": "30\/01\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 40\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/tj-rs-publica-processo-seletivo-com-mais-de-1-mil-vagas\/1692118\/@\/edital_de_abertura_n_40_2025_1692118.pdf"
+            }
+        ]
+    },
+    {
         "regiao": "SANTA CATARINA",
         "titulo": "PCISC - Polícia Científica do Estado de Santa Catarina",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-cientifica-sc-anuncia-abertura-de-concurso-publico-com-diversas-vagas",
@@ -384,6 +400,38 @@
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
                 "url": "https:\/\/arq.pciconcursos.com.br\/policia-cientifica-sc-anuncia-abertura-de-concurso-publico-com-diversas-vagas\/1692041\/@\/edital_de_abertura_n_01_2025_1692041.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "SANTA CATARINA",
+        "titulo": "PM - Polícia Militar de Santa Catarina",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pm-sc-publica-processo-seletivo-para-contratacao-de-soldados-temporarios",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "1.465 vagas até R$ 8505,00 Soldado Temporário Superior",
+        "periodo_inscricao": "26\/01\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA",
+                "url": "https:\/\/arq.pciconcursos.com.br\/pm-sc-publica-processo-seletivo-para-contratacao-de-soldados-temporarios\/1692324\/@\/edital_de_abertura_1692324.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "DISTRITO FEDERAL",
+        "titulo": "CRF - Conselho Regional de Farmácia do Distrito Federal",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/crf-df-anuncia-inscricoes-para-novo-concurso-publico",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "3 vagas até R$ 6642,46 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "20\/01\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/crf-df-anuncia-inscricoes-para-novo-concurso-publico\/1691648\/@\/edital_de_abertura_n_01_2025_1691648.pdf"
             }
         ]
     },
@@ -436,6 +484,42 @@
             {
                 "titulo": "EDITAL DE ABERTURA Nº 03\/2025",
                 "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-catalao-go-anuncia-abertura-de-concurso-publico-com-diversos-cargos\/1691639\/@\/edital_de_abertura_n_03_2025_1691639.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "GOIÁS",
+        "titulo": "Prefeitura de Valparaíso de Goiás",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-valparaiso-de-goias-go-divulga-concurso-publico-para-guardas-municipais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "30 vagas até R$ 1622,06 Guarda Municipal Ensino Médio",
+        "periodo_inscricao": "09\/02\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 03\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-valparaiso-de-goias-go-divulga-concurso-publico-para-guardas-municipais\/1690591\/@\/edital_de_abertura_n_03_2025_1690591.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "GOIÁS",
+        "titulo": "Prefeitura de Valparaíso de Goiás",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-valparaiso-de-goias-go-retifica-concurso-publico-com-diversos-cargos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "767 vagas até R$ 6084,71 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "12\/01\/2026 a 12\/02\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA RETIFICADO Nº 02\/2025",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-valparaiso-de-goias-go-retifica-concurso-publico-com-diversos-cargos\/1690897\/@\/edital_de_abertura_retificado_n_02_2025_1690897.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-valparaiso-de-goias-go-retifica-concurso-publico-com-diversos-cargos\/1692551\/@\/retificacao_i_1692551.pdf"
             }
         ]
     },
@@ -512,18 +596,18 @@
         ]
     },
     {
-        "regiao": "CEARÁ",
-        "titulo": "CRC - Conselho Regional de Contabilidade do Ceará",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/crc-ce-anuncia-a-abertura-de-um-novo-concurso-publico",
+        "regiao": "BAHIA",
+        "titulo": "Prefeitura de Feira de Santana",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-feira-de-santana-ba-informa-abertura-de-concurso-publico-para-cargos-de-nivel-superior",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "6 vagas até R$ 5762,31 Contador, Fiscal Contador, Auxiliar Administrativo Médio \/ Superior",
-        "periodo_inscricao": "08\/01\/2026",
-        "situacao": "Fechado",
+        "resumo": "1000 vagas até R$ 5212,34 Vários Cargos Superior",
+        "periodo_inscricao": "22\/01\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/crc-ce-anuncia-a-abertura-de-um-novo-concurso-publico\/1691340\/@\/edital_de_abertura_n_01_2025_1691340.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-feira-de-santana-ba-informa-abertura-de-concurso-publico-para-cargos-de-nivel-superior\/1692150\/@\/edital_de_abertura_n_01_2025_1692150.pdf"
             }
         ]
     },
