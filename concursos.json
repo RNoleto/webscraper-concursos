@@ -1,6 +1,25 @@
 [
     {
         "regiao": "NACIONAL",
+        "titulo": "ESA - Escola de Sargentos das Armas",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/exercito-brasileiro-concurso-nacional-abre-1100-vagas-para-cursos-de-formacao-de-sargentos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "1.100 vagas Vários Cargos Médio \/ Técnico",
+        "periodo_inscricao": "04\/05\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1\/SCA",
+                "url": "https:\/\/arq.pciconcursos.com.br\/exercito-brasileiro-concurso-nacional-abre-1100-vagas-para-cursos-de-formacao-de-sargentos\/1697134\/5e77d0eac4\/edital_n_1_sca_1697134.pdf"
+            }
+        ],
+        "detalhes_extraidos": {
+            "cargos": []
+        }
+    },
+    {
+        "regiao": "NACIONAL",
         "titulo": "Marinha do Brasil",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -11,28 +30,25 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA - MARINHA CP-T",
-                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693991\/739a4a6617\/edital_de_abertura_marinha_cp_t_1693991.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693991\/f6f72a0d03\/edital_de_abertura_marinha_cp_t_1693991.pdf"
             },
             {
                 "titulo": "EDITAL DE ABERTURA - MARINHA CSM-MD",
-                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693992\/2a7fd44a01\/edital_de_abertura_marinha_csm_md_1693992.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693992\/f25ad46f2a\/edital_de_abertura_marinha_csm_md_1693992.pdf"
             },
             {
                 "titulo": "EDITAL DE ABERTURA - MARINHA CD-CSN-CD",
-                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693993\/344d1d5e1a\/edital_de_abertura_marinha_cd_csn_cd_1693993.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693993\/b7aabac9ea\/edital_de_abertura_marinha_cd_csn_cd_1693993.pdf"
             },
             {
                 "titulo": "EDITAL DE ABERTURA - MARINHA CEM",
-                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693994\/3a31beaac6\/edital_de_abertura_marinha_cem_1693994.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693994\/edecd0a35f\/edital_de_abertura_marinha_cem_1693994.pdf"
             },
             {
                 "titulo": "EDITAL DE ABERTURA - MARINHA CAPNAV",
-                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693995\/7ae9b941a9\/edital_de_abertura_marinha_capnav_1693995.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas\/1693995\/0b902ceb63\/edital_de_abertura_marinha_capnav_1693995.pdf"
             }
-        ],
-        "detalhes_extraidos": {
-            "cargos": []
-        }
+        ]
     },
     {
         "regiao": "SÃO PAULO",
@@ -46,39 +62,39 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2025 - RETIFICADO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1692174\/72a974c3c6\/edital_de_abertura_n_01_2025_retificado_1692174.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1692174\/20ccb78ff0\/edital_de_abertura_n_01_2025_retificado_1692174.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO I",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1694031\/8ec1c10c93\/retificacao_i_1694031.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1694031\/b567c574b4\/retificacao_i_1694031.pdf"
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 01\/2025",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696695\/5ceb8c3dee\/edital_retificado_n_01_2025_1696695.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696695\/5aec3c7cc1\/edital_retificado_n_01_2025_1696695.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO - CONTEÚDO PROGRAMÁTICO (ANALISTA DE GESTÃO PÚBLICA)",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696696\/c5cdb3de84\/retificacao_conteudo_programatico_analista_de_gestao_publica_1696696.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696696\/20393658aa\/retificacao_conteudo_programatico_analista_de_gestao_publica_1696696.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO - REQUISITOS (TÉCNICO DE ENFERMAGEM E ENFERMEIRO DO TRABALHO)",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696697\/c34eaafc8d\/retificacao_requisitos_tecnico_de_enfermagem_e_enfermeiro_do_trabalho_1696697.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696697\/f8c92618a4\/retificacao_requisitos_tecnico_de_enfermagem_e_enfermeiro_do_trabalho_1696697.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO - CONTEÚDO PROGRAMÁTICO E REQUISITOS",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696698\/9183e62f34\/retificacao_conteudo_programatico_e_requisitos_1696698.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696698\/258be85b20\/retificacao_conteudo_programatico_e_requisitos_1696698.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO - CONTEÚDO PROGRAMÁTICO (ANALISTA DE DESENVOLVIMENTO DE SISTEMAS)",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696699\/52ce278aaa\/retificacao_conteudo_programatico_analista_de_desenvolvimento_de_sistemas_1696699.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696699\/fd2a7de6bb\/retificacao_conteudo_programatico_analista_de_desenvolvimento_de_sistemas_1696699.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO - QUADRO DE VAGAS E CRONOGRAMA",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696700\/5967e8c57f\/retificacao_quadro_de_vagas_e_cronograma_1696700.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696700\/8f83921bca\/retificacao_quadro_de_vagas_e_cronograma_1696700.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO - CONTEÚDO PROGRAMÁTICO - CONHECIMENTOS BÁSICOS DE LEGISLAÇÃO MUNICIPAL",
-                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696701\/6ec98c46cb\/retificacao_conteudo_programatico_conhecimentos_basicos_de_legislacao_municipal_1696701.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico\/1696701\/6c1cf3d151\/retificacao_conteudo_programatico_conhecimentos_basicos_de_legislacao_municipal_1696701.pdf"
             }
         ]
     },
@@ -94,7 +110,23 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/dae-de-bauru-sp-abre-concurso-publico-para-cargo-de-motorista\/1696160\/dbdabb4054\/edital_n_001_2026_1696160.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/dae-de-bauru-sp-abre-concurso-publico-para-cargo-de-motorista\/1696160\/399a9203e9\/edital_n_001_2026_1696160.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "FSA - Centro Universitário Fundação Santo André",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/fundacao-santo-andre-sp-abre-concurso-publico-para-assistente-social",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Cadastro Reserva até R$ 2.747,43 Assistente Social Superior",
+        "periodo_inscricao": "22\/04\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 004\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/fundacao-santo-andre-sp-abre-concurso-publico-para-assistente-social\/1696562\/f604fe8ccc\/edital_n_004_2026_1696562.pdf"
             }
         ]
     },
@@ -110,7 +142,23 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-tremembe-sp-abre-concurso-publico-com-salarios-de-ate-8-9-mil\/1696471\/f0dbdb6968\/edital_de_concurso_publico_n_01_2026_1696471.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-tremembe-sp-abre-concurso-publico-com-salarios-de-ate-8-9-mil\/1696471\/d33c3c0475\/edital_de_concurso_publico_n_01_2026_1696471.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Bastos",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-bastos-sp-abre-concurso-publico-com-salarios-de-ate-15-7-mil",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "6 vagas até R$ 15.714,85 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "19\/04\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-bastos-sp-abre-concurso-publico-com-salarios-de-ate-15-7-mil\/1696791\/54cf3f0d5e\/edital_de_abertura_do_concurso_publico_n_001_2026_1696791.pdf"
             }
         ]
     },
@@ -126,7 +174,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-indaiatuba-sp-abre-concurso-com-50-vagas-para-professores\/1696011\/c205b873c4\/edital_n_1_1696011.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-indaiatuba-sp-abre-concurso-com-50-vagas-para-professores\/1696011\/ae8bf479ae\/edital_n_1_1696011.pdf"
             }
         ]
     },
@@ -137,12 +185,12 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Cadastro de Reserva até R$ 8.467,39 Vários Cargos Fundamental \/ Médio \/ Superior",
         "periodo_inscricao": "07\/04\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-porto-feliz-sp-publica-processo-seletivo-com-salarios-de-ate-8-4-mil\/1695873\/e087006962\/edital_n_001_2026_1695873.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-porto-feliz-sp-publica-processo-seletivo-com-salarios-de-ate-8-4-mil\/1695873\/35af75acb4\/edital_n_001_2026_1695873.pdf"
             }
         ]
     },
@@ -158,7 +206,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/unifae-sp-abre-concurso-publico-com-salarios-de-ate-5-1-mil\/1696496\/1938a67de2\/edital_n_01_2026_1696496.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/unifae-sp-abre-concurso-publico-com-salarios-de-ate-5-1-mil\/1696496\/71776b3f8e\/edital_n_01_2026_1696496.pdf"
             }
         ]
     },
@@ -174,11 +222,27 @@
         "link_edital": [
             {
                 "titulo": "EDITAL CBMMG Nº 09",
-                "url": "https:\/\/arq.pciconcursos.com.br\/cbmmg-abre-vagas-para-cursos-de-formacao-de-oficiais-e-soldados\/1696463\/fbed6a68e2\/edital_cbmmg_n_09_1696463.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/cbmmg-abre-vagas-para-cursos-de-formacao-de-oficiais-e-soldados\/1696463\/4300681a97\/edital_cbmmg_n_09_1696463.pdf"
             },
             {
                 "titulo": "EDITAL CBMMG Nº 10",
-                "url": "https:\/\/arq.pciconcursos.com.br\/cbmmg-abre-vagas-para-cursos-de-formacao-de-oficiais-e-soldados\/1696462\/da11ddce39\/edital_cbmmg_n_10_1696462.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/cbmmg-abre-vagas-para-cursos-de-formacao-de-oficiais-e-soldados\/1696462\/d2c56c5c6c\/edital_cbmmg_n_10_1696462.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "MINAS GERAIS",
+        "titulo": "MGS - Minas Gerais Administração e Serviços S.A.",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/mgs-mg-abre-selecao-com-vagas-para-diversos-cargos-e-salarios-de-ate-3-7-mil",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Vagas até R$ 3.707,28 Vários Cargos Fundamental \/ Médio \/ Técnico",
+        "periodo_inscricao": "22\/04\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL MGS Nº 03\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/mgs-mg-abre-selecao-com-vagas-para-diversos-cargos-e-salarios-de-ate-3-7-mil\/1696812\/d18505445f\/edital_mgs_n_03_2026_1696812.pdf"
             }
         ]
     },
@@ -194,15 +258,15 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-barao-de-cocais-mg-retifica-concurso-publico-para-guarda-civil-municipal\/1693236\/8cd294d4df\/edital_de_abertura_n_01_2026_1693236.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-barao-de-cocais-mg-retifica-concurso-publico-para-guarda-civil-municipal\/1693236\/c1048ff115\/edital_de_abertura_n_01_2026_1693236.pdf"
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-barao-de-cocais-mg-retifica-concurso-publico-para-guarda-civil-municipal\/1697044\/4186aeab87\/edital_retificado_n_01_2026_1697044.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-barao-de-cocais-mg-retifica-concurso-publico-para-guarda-civil-municipal\/1697044\/7b5a31b24a\/edital_retificado_n_01_2026_1697044.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO 1",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-barao-de-cocais-mg-retifica-concurso-publico-para-guarda-civil-municipal\/1697045\/6909287790\/retificacao_1_1697045.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-barao-de-cocais-mg-retifica-concurso-publico-para-guarda-civil-municipal\/1697045\/28c6bfc30e\/retificacao_1_1697045.pdf"
             }
         ]
     },
@@ -218,7 +282,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-bocaiuva-mg-abre-68-vagas-para-agente-comunitario-de-saude\/1694329\/7027f5326b\/edital_de_abertura_n_01_2026_1694329.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-bocaiuva-mg-abre-68-vagas-para-agente-comunitario-de-saude\/1694329\/552ed13c86\/edital_de_abertura_n_01_2026_1694329.pdf"
             }
         ]
     },
@@ -234,7 +298,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-cataguases-mg-abre-55-vagas-em-novo-concurso-publico\/1693182\/d483b51fa4\/edital_de_abertura_n_001_2026_1693182.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-cataguases-mg-abre-55-vagas-em-novo-concurso-publico\/1693182\/177e745417\/edital_de_abertura_n_001_2026_1693182.pdf"
             }
         ]
     },
@@ -250,7 +314,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-lavras-mg-abre-concurso-publico-com-169-vagas-em-diversas-areas\/1693037\/8e6d0a1734\/edital_de_abertura_n_01_2026_1693037.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-lavras-mg-abre-concurso-publico-com-169-vagas-em-diversas-areas\/1693037\/3a6adfb8d9\/edital_de_abertura_n_01_2026_1693037.pdf"
             }
         ]
     },
@@ -266,7 +330,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/saae-de-passos-mg-abre-concurso-publico-com-19-vagas\/1696045\/c1ca5aaa94\/edital_n_01_2026_1696045.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/saae-de-passos-mg-abre-concurso-publico-com-19-vagas\/1696045\/b804e2e063\/edital_n_01_2026_1696045.pdf"
             }
         ]
     },
@@ -282,7 +346,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE CONCURSO Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/mpes-es-publica-edital-de-concurso-publico-com-60-vagas-e-cadastro-de-reserva\/1696305\/ef0b81fff4\/edital_de_concurso_n_01_2026_1696305.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/mpes-es-publica-edital-de-concurso-publico-com-60-vagas-e-cadastro-de-reserva\/1696305\/8930adf155\/edital_de_concurso_n_01_2026_1696305.pdf"
             }
         ]
     },
@@ -298,31 +362,51 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/consisa-rs-abre-concurso-publico-para-agente-administrativo\/1696555\/606acfaacf\/edital_n_01_2026_1696555.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/consisa-rs-abre-concurso-publico-para-agente-administrativo\/1696555\/1d8fcdd62d\/edital_n_01_2026_1696555.pdf"
             }
         ]
     },
     {
         "regiao": "SANTA CATARINA",
-        "titulo": "Prefeitura de São Bento do Sul",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-sao-bento-do-sul-sc-retifica-concurso-publico-com-salarios-de-ate-20-7-mil",
+        "titulo": "InvestSC - Invest Santa Catarina Parcerias e Negócios Estratégicos S.A.",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/investsc-abre-concurso-com-10-vagas-e-salarios-de-ate-10-3-mil",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "48 vagas até R$ 20.795,15 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "06\/04\/2026",
-        "situacao": "Fechado",
+        "resumo": "10 vagas até R$ 10.333,78 Agente Administrativo, Agente de Negócios Superior",
+        "periodo_inscricao": "16\/04\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-sao-bento-do-sul-sc-retifica-concurso-publico-com-salarios-de-ate-20-7-mil\/1695946\/34d1223aeb\/edital_n_001_2026_1695946.pdf"
+                "titulo": "EDITAL Nº 003\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/investsc-abre-concurso-com-10-vagas-e-salarios-de-ate-10-3-mil\/1696587\/9b02a0f5d9\/edital_n_003_2026_1696587.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "SANTA CATARINA",
+        "titulo": "SED - Secretaria de Estado da Educação de Santa Catarina",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sed-sc-retifica-editais-de-concursos-publicos-para-cargos-de-nivel-superior",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "10000 vagas até R$ 11.521,24 Vários Cargos Superior",
+        "periodo_inscricao": "28\/04\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 793\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/sed-sc-retifica-editais-de-concursos-publicos-para-cargos-de-nivel-superior\/1697072\/75a071c95a\/edital_n_793_2026_1697072.pdf"
             },
             {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-sao-bento-do-sul-sc-retifica-concurso-publico-com-salarios-de-ate-20-7-mil\/1696295\/1e96b7ad26\/edital_retificado_n_001_2026_1696295.pdf"
+                "titulo": "EDITAL Nº 794\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/sed-sc-retifica-editais-de-concursos-publicos-para-cargos-de-nivel-superior\/1697071\/8dff41e614\/edital_n_794_2026_1697071.pdf"
             },
             {
-                "titulo": "RETIFICAÇÃO - EXCLUSÃO DE CARGO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-sao-bento-do-sul-sc-retifica-concurso-publico-com-salarios-de-ate-20-7-mil\/1696296\/ebfeda3773\/retificacao_exclusao_de_cargo_1696296.pdf"
+                "titulo": "RETIFICAÇÃO 1 - EDITAL Nº 793\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/sed-sc-retifica-editais-de-concursos-publicos-para-cargos-de-nivel-superior\/1697283\/36ffad1f60\/retificacao_1_edital_n_793_2026_1697283.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO 1 - EDITAL Nº 794\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/sed-sc-retifica-editais-de-concursos-publicos-para-cargos-de-nivel-superior\/1697282\/bb41c3386e\/retificacao_1_edital_n_794_2026_1697282.pdf"
             }
         ]
     },
@@ -338,7 +422,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 72",
-                "url": "https:\/\/arq.pciconcursos.com.br\/uffs-abre-concurso-publico-com-23-vagas-para-tecnicos-administrativos\/1695714\/3f1dc40048\/edital_n_72_1695714.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/uffs-abre-concurso-publico-com-23-vagas-para-tecnicos-administrativos\/1695714\/48c5ebe960\/edital_n_72_1695714.pdf"
             }
         ]
     },
@@ -354,7 +438,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/pc-df-abre-concurso-publico-para-delegado-de-policia-com-150-vagas\/1694544\/4ecf7ea969\/edital_de_abertura_n_01_2026_1694544.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/pc-df-abre-concurso-publico-para-delegado-de-policia-com-150-vagas\/1694544\/439d1ff3e9\/edital_de_abertura_n_01_2026_1694544.pdf"
             }
         ]
     },
@@ -370,11 +454,11 @@
         "link_edital": [
             {
                 "titulo": "RETIFICAÇÃO - EDITAL RETIFICADO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-valparaiso-de-goias-go-retifica-concurso-publico-com-diversos-cargos\/1696188\/4656376c0a\/retificacao_edital_retificado_1696188.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-valparaiso-de-goias-go-retifica-concurso-publico-com-diversos-cargos\/1696188\/38dc8c3cb7\/retificacao_edital_retificado_1696188.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO - QUADRO DE VAGAS E OUTROS",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-valparaiso-de-goias-go-retifica-concurso-publico-com-diversos-cargos\/1696189\/b79c7921a0\/retificacao_quadro_de_vagas_e_outros_1696189.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-valparaiso-de-goias-go-retifica-concurso-publico-com-diversos-cargos\/1696189\/3b226e8fa9\/retificacao_quadro_de_vagas_e_outros_1696189.pdf"
             }
         ]
     },
@@ -390,31 +474,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ses-go-retifica-concurso-publico-com-50-vagas-para-fiscal-de-saude-publica\/1695573\/7655d7da90\/edital_n_1_2026_1695573.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/ses-go-retifica-concurso-publico-com-50-vagas-para-fiscal-de-saude-publica\/1695573\/643347fa55\/edital_n_1_2026_1695573.pdf"
             },
             {
                 "titulo": "SES GO RET REQUISITOS E OUTROS",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ses-go-retifica-concurso-publico-com-50-vagas-para-fiscal-de-saude-publica\/1696043\/8535e543f4\/ses_go_ret_requisitos_e_outros_1696043.pdf"
-            }
-        ]
-    },
-    {
-        "regiao": "AMAZONAS",
-        "titulo": "UFAM - Universidade Federal do Amazonas",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ufam-abre-concursos-com-vagas-para-profissionais-de-nivel-medio-e-superior",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "46 vagas até R$ 5.215,39 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "06\/04\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 3\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ufam-abre-concursos-com-vagas-para-profissionais-de-nivel-medio-e-superior\/1694830\/496eaff0a3\/edital_de_abertura_n_3_2026_1694830.pdf"
-            },
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 4\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/ufam-abre-concursos-com-vagas-para-profissionais-de-nivel-medio-e-superior\/1694831\/27bba55322\/edital_de_abertura_n_4_2026_1694831.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/ses-go-retifica-concurso-publico-com-50-vagas-para-fiscal-de-saude-publica\/1696043\/15305a8cd7\/ses_go_ret_requisitos_e_outros_1696043.pdf"
             }
         ]
     },
@@ -430,7 +494,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1",
-                "url": "https:\/\/arq.pciconcursos.com.br\/pm-al-abre-concurso-com-530-vagas-para-soldado-do-quadro-de-pracas-e-oficial-de-estado-maior\/1696772\/5285816092\/edital_n_1_1696772.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/pm-al-abre-concurso-com-530-vagas-para-soldado-do-quadro-de-pracas-e-oficial-de-estado-maior\/1696772\/d0cee78ff3\/edital_n_1_1696772.pdf"
             }
         ]
     },
@@ -446,7 +510,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-maceio-al-abre-concurso-com-50-vagas-imediatas-para-guarda-civil-municipal\/1695894\/540d24eb98\/edital_n_01_2026_1695894.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-maceio-al-abre-concurso-com-50-vagas-imediatas-para-guarda-civil-municipal\/1695894\/914ee813c8\/edital_n_01_2026_1695894.pdf"
             }
         ]
     },
@@ -462,7 +526,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1",
-                "url": "https:\/\/arq.pciconcursos.com.br\/seplag-al-abre-concurso-publico-com-15-vagas-para-especialista-em-gestao-publica\/1695629\/fdde58b619\/edital_n_1_1695629.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/seplag-al-abre-concurso-publico-com-15-vagas-para-especialista-em-gestao-publica\/1695629\/3d58e05d05\/edital_n_1_1695629.pdf"
             }
         ]
     },
@@ -478,7 +542,27 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1",
-                "url": "https:\/\/arq.pciconcursos.com.br\/uneal-abre-concurso-publico-com-vagas-de-nivel-superior-e-remuneracao-de-5-3-mil\/1696375\/843fa41c05\/edital_n_1_1696375.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/uneal-abre-concurso-publico-com-vagas-de-nivel-superior-e-remuneracao-de-5-3-mil\/1696375\/c202583b5a\/edital_n_1_1696375.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "CEARÁ",
+        "titulo": "Prefeitura de Cascavel",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cascavel-ce-retifica-edital-para-agente-comunitario-de-saude",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "38 vagas até R$ 3.242,00 Agente Comunitário de Saúde Ensino Médio",
+        "periodo_inscricao": "13\/04\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DO PROCESSO SELETIVO Nº 001\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-cascavel-ce-retifica-edital-para-agente-comunitario-de-saude\/1696819\/0b3328bf69\/edital_do_processo_seletivo_n_001_2026_1696819.pdf"
+            },
+            {
+                "titulo": "RETIFICAÇÃO 1 - QUADRO DE VAGAS",
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-cascavel-ce-retifica-edital-para-agente-comunitario-de-saude\/1697114\/3e39b3b44c\/retificacao_1_quadro_de_vagas_1697114.pdf"
             }
         ]
     },
@@ -494,15 +578,31 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-humberto-de-campos-ma-retifica-edital-de-concurso-publico\/1696248\/06c82cdcd7\/edital_de_abertura_n_001_2026_1696248.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-humberto-de-campos-ma-retifica-edital-de-concurso-publico\/1696248\/42c727737a\/edital_de_abertura_n_001_2026_1696248.pdf"
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-humberto-de-campos-ma-retifica-edital-de-concurso-publico\/1696550\/632f9e7644\/edital_retificado_n_001_2026_1696550.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-humberto-de-campos-ma-retifica-edital-de-concurso-publico\/1696550\/c033da5617\/edital_retificado_n_001_2026_1696550.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO 1",
-                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-humberto-de-campos-ma-retifica-edital-de-concurso-publico\/1696551\/592e5072db\/retificacao_1_1696551.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/prefeitura-de-humberto-de-campos-ma-retifica-edital-de-concurso-publico\/1696551\/58d80a5af7\/retificacao_1_1696551.pdf"
+            }
+        ]
+    },
+    {
+        "regiao": "PARAÍBA",
+        "titulo": "UEPB - Universidade Estadual da Paraíba",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/uepb-abre-concurso-publico-para-cargos-tecnico-administrativos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "12 vagas até R$ 4.757,47 Almoxarife, Administrador, Contador Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "26\/04\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL NORMATIVO DE CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "https:\/\/arq.pciconcursos.com.br\/uepb-abre-concurso-publico-para-cargos-tecnico-administrativos\/1697005\/3b03f8bad9\/edital_normativo_de_concurso_publico_n_001_2026_1697005.pdf"
             }
         ]
     },
@@ -518,7 +618,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1",
-                "url": "https:\/\/arq.pciconcursos.com.br\/pge-rn-anuncia-concurso-publico-com-22-vagas-para-analista-juridico\/1696112\/9858bdc329\/edital_n_1_1696112.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/pge-rn-anuncia-concurso-publico-com-22-vagas-para-analista-juridico\/1696112\/7fe6d441a4\/edital_n_1_1696112.pdf"
             }
         ]
     },
@@ -534,7 +634,7 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/policia-militar-rn-abre-vagas-para-curso-de-formacao-de-pracas-de-saude-e-de-musicos\/1696282\/efc70244e9\/edital_n_001_2026_1696282.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/policia-militar-rn-abre-vagas-para-curso-de-formacao-de-pracas-de-saude-e-de-musicos\/1696282\/4b67f68c0b\/edital_n_001_2026_1696282.pdf"
             }
         ]
     },
@@ -550,11 +650,11 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 001\/2026",
-                "url": "https:\/\/arq.pciconcursos.com.br\/sead-rn-retifica-concurso-publico-com-vagas-para-ceasa-detran-e-ipern\/1696548\/5326234a38\/edital_n_001_2026_1696548.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/sead-rn-retifica-concurso-publico-com-vagas-para-ceasa-detran-e-ipern\/1696548\/e082f853c1\/edital_n_001_2026_1696548.pdf"
             },
             {
                 "titulo": "RETIFICAÇÃO - CONTEÚDO PROGRAMÁTICO",
-                "url": "https:\/\/arq.pciconcursos.com.br\/sead-rn-retifica-concurso-publico-com-vagas-para-ceasa-detran-e-ipern\/1697247\/9ce6c9a636\/retificacao_conteudo_programatico_1697247.pdf"
+                "url": "https:\/\/arq.pciconcursos.com.br\/sead-rn-retifica-concurso-publico-com-vagas-para-ceasa-detran-e-ipern\/1697247\/ea4241a3ab\/retificacao_conteudo_programatico_1697247.pdf"
             }
         ]
     }
