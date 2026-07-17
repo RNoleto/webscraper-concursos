@@ -33,12 +33,12 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Fundação para Conservação e Produção Florestal de São Paulo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/fundacao-florestal-sp-publica-edital-retificado-de-concurso-publico",
+        "titulo": "Fundação Florestal - Fundação para Conservação e Produção Florestal de São Paulo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/fundacao-florestal-sp-publica-retificacoes-do-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "68 vagas até R$ 11.294,14 Vários Cargos Técnico \/ Superior",
-        "periodo_inscricao": "16\/07\/2026",
-        "situacao": "Fechado",
+        "resumo": "68 vagas até R$ 11.294,14 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "Prorrogado até 19\/07\/2026",
+        "situacao": "Aberto",
         "link_apostila": [],
         "link_edital": [
             {
@@ -47,6 +47,14 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRORROGAÇÃO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 02\/2026 DE RETIFICAÇÃO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -198,7 +206,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "406 vagas até R$ 13.980,00 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "17\/07\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -211,6 +219,26 @@
             },
             {
                 "titulo": "RETIFICAÇÃO Nº 01",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MINAS GERAIS",
+        "titulo": "Prefeitura de Paracatu",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "342 vagas até R$ 9.600,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "03\/08\/2026 a 03\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 02\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 02\/2026",
                 "url": "javascript:void(0);"
             }
         ]
