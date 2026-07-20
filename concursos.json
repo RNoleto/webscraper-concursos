@@ -33,34 +33,6 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Fundação Florestal - Fundação para Conservação e Produção Florestal de São Paulo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/fundacao-florestal-sp-publica-retificacoes-do-concurso-publico",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "68 vagas até R$ 11.294,14 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "Prorrogado até 19\/07\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "PRORROGAÇÃO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 02\/2026 DE RETIFICAÇÃO",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
         "titulo": "PM - Polícia Militar do Estado de São Paulo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pm-sp-abre-concurso-com-2000-vagas-para-aluno-soldado",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -82,9 +54,61 @@
     {
         "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Andradina",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-andradina-sp-abre-concurso-publico-com-salarios-de-ate-6566",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-andradina-sp-retifica-concurso-publico-com-salarios-de-ate-6566",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "39 vagas até R$ 6.566,50 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "resumo": "38 vagas + 1 CR até R$ 6.566,50 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "Prorrogado até 07\/08\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "1º ADIVITO AO EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Guarulhos",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-guarulhos-sp-abre-10-vagas-para-auditor-fiscal-vi",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "10 vagas até R$ 7.213,33 Auditor(a) Fiscal VISuperior",
+        "periodo_inscricao": "06\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 03\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "TCE-SP - Tribunal de Contas do Estado de São Paulo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tce-sp-abre-concurso-com-vagas-para-auditor-de-controle-externo",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "50 vagas até R$ 20.940,20 Auditor de Controle Externo - DIPESuperior",
+        "periodo_inscricao": "11\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RIO DE JANEIRO",
+        "titulo": "Câmara de Nilópolis",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-nilopolis-rj-abre-concurso-com-35-vagas-imediatas-e-cadastro-de-reserva",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "35 vagas até R$ 2.500,00 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "31\/07\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
@@ -166,7 +190,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "346 vagas até R$ 19.641,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "20\/07\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -296,6 +320,26 @@
         ]
     },
     {
+        "regiao": "PARANÁ",
+        "titulo": "UENP - Universidade Estadual do Norte do Paraná",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "118 vagas até R$ 7.616,88 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "17\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 241\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 242\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "RIO GRANDE DO SUL",
         "titulo": "Prefeitura de Novo Hamburgo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293",
@@ -312,6 +356,26 @@
         ]
     },
     {
+        "regiao": "SANTA CATARINA",
+        "titulo": "SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sape-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "20 vagas até R$ 11.521,24 Analista Técnico Administrativo IISuperior",
+        "periodo_inscricao": "28\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL COMPLETO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "DISTRITO FEDERAL",
         "titulo": "ABGF - Agência Brasileira Gestora de Fundos Garantidores e Garantias",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/abgf-abre-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
@@ -323,6 +387,22 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "GOIÁS",
+        "titulo": "Prefeitura de Cristalina",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cristalina-go-lanca-edital-de-concurso-publico-para-a-secretaria-de-educacao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "307 vagas até R$ 5.165,78 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "07\/08\/2026 a 10\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1",
                 "url": "javascript:void(0);"
             }
         ]
@@ -363,6 +443,42 @@
             },
             {
                 "titulo": "EDITAL Nº 003\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RONDÔNIA",
+        "titulo": "Prefeitura de Porto Velho",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-porto-velho-ro-abre-concurso-com-50-vagas-para-guarda-municipal",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "50 vagas até R$ 6.312,50 Guarda Municipal Superior",
+        "periodo_inscricao": "27\/07\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RORAIMA",
+        "titulo": "CBMRR - Corpo de Bombeiros Militar de Roraima",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cbmrr-rr-abre-concurso-publico-com-vagas-para-soldados-e-oficiais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "200 vagas até R$ 13.817,22 Soldado Bombeiro Militar, Cadete Bombeiro Militar Médio \/ Superior",
+        "periodo_inscricao": "10\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 02\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -433,7 +549,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sesau-al-abre-concurso-para-especialistas-e-assistentes-em-saude",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1750 vagas até R$ 5.757,15 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "20\/07\/2026 a 26\/08\/2026",
+        "periodo_inscricao": "26\/08\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -443,6 +559,22 @@
             },
             {
                 "titulo": "EDITAL Nº 1 - COMPLETO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "CEARÁ",
+        "titulo": "Prefeitura de Sobral",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-sobral-ce-abre-concurso-para-guarda-civil-municipal",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "370 vagas até R$ 3.242,00 Guarda Civil Municipal Ensino Médio",
+        "periodo_inscricao": "20\/07\/2026",
+        "situacao": "Fechado",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DO CONCURSO P\/BLICO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -519,6 +651,22 @@
             },
             {
                 "titulo": "EDITAL Nº 03\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PIAUÍ",
+        "titulo": "PMPI - Polícia Militar do Estado do Piauí",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sead-e-pm-pi-anunciam-concurso-publico-para-soldado-e-oficial-capelao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "501 vagas até R$ 9.793,54 Praça PM, Oficial Capelão PMSuperior",
+        "periodo_inscricao": "22\/07\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
