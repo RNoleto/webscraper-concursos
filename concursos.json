@@ -56,7 +56,7 @@
         "titulo": "Prefeitura de Andradina",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-andradina-sp-retifica-concurso-publico-com-salarios-de-ate-6566",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "38 vagas + 1 CR até R$ 6.566,50 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "resumo": "38 vagas até R$ 6.566,50 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "Prorrogado até 07\/08\/2026",
         "situacao": "Aberto",
         "link_apostila": [],
@@ -126,7 +126,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1268 vagas até R$ 4.603,34 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "21\/07\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -185,46 +185,6 @@
     },
     {
         "regiao": "MINAS GERAIS",
-        "titulo": "Prefeitura de Bom Repouso",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-bom-repouso-mg-retifica-editais-de-concurso-publico-e-processo-seletivo",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "346 vagas até R$ 19.641,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "20\/07\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026 - CONCURSO PÚBLICO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026 - CONCURSO PÚBLICO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 001\/2026 - CONCURSO PÚBLICO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "ERRATA 002 - EDITAL Nº 001\/2026 - CONCURSO PÚBLICO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 002\/2026 - PROCESSO SELETIVO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 002\/2026 - PROCESSO SELETIVO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "ERRATA 001 - EDITAL Nº 002\/2026 - PROCESSO SELETIVO",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MINAS GERAIS",
         "titulo": "Prefeitura de Paracatu",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -270,7 +230,7 @@
     {
         "regiao": "PARANÁ",
         "titulo": "CONSUD - Consórcio Intermunicipal de Saúde do Sudoeste",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/consud-pr-abre-concurso-publico-com-salarios-de-ate-15206",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/consud-pr-republica-edital-de-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "37 vagas até R$ 15.206,97 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "30\/07\/2026",
@@ -279,6 +239,10 @@
         "link_edital": [
             {
                 "titulo": "EDITAL 01.01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL REPUBLICADO 01.01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -426,7 +390,7 @@
     {
         "regiao": "PARÁ",
         "titulo": "CDP - Companhia Docas do Pará",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/companhia-docas-do-para-anuncia-concursos-publicos-para-diversos-cargos",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/companhia-docas-do-para-divulga-retificacoes-de-concursos-publicos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "33 vagas até R$ 6.985,76 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "13\/08\/2026",
@@ -438,11 +402,31 @@
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 002 - EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "EDITAL Nº 002\/2026",
                 "url": "javascript:void(0);"
             },
             {
                 "titulo": "EDITAL Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 001 - EDITAL Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 003 - EDITAL Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 003\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -490,7 +474,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "172 vagas até R$ 11.563,77 Vários Cargos Ensino Médio",
         "periodo_inscricao": "21\/07\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -546,7 +530,7 @@
     {
         "regiao": "ALAGOAS",
         "titulo": "SESAU - Secretaria de Estado da Saúde de Alagoas",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sesau-al-abre-concurso-para-especialistas-e-assistentes-em-saude",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sesau-al-retifica-concurso-para-especialistas-e-assistentes-em-saude",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1750 vagas até R$ 5.757,15 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "26\/08\/2026",
@@ -560,21 +544,9 @@
             {
                 "titulo": "EDITAL Nº 1 - COMPLETO",
                 "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "CEARÁ",
-        "titulo": "Prefeitura de Sobral",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-sobral-ce-abre-concurso-para-guarda-civil-municipal",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "370 vagas até R$ 3.242,00 Guarda Civil Municipal Ensino Médio",
-        "periodo_inscricao": "20\/07\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
+            },
             {
-                "titulo": "EDITAL DO CONCURSO P\/BLICO Nº 001\/2026",
+                "titulo": "EDITAL Nº 2 - RETIFICAÇÃO DO EDITAL Nº 1",
                 "url": "javascript:void(0);"
             }
         ]
