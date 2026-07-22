@@ -18,7 +18,7 @@
     {
         "regiao": "SÃO PAULO",
         "titulo": "Câmara de Mauá",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-maua-sp-abre-concurso-publico-com-vagas-para-agente-legislativo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-maua-sp-republica-edital-de-concurso-publico-para-agentes-legislativos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "5 vagas até R$ 3.650,00 Agente Legislativo Ensino Médio",
         "periodo_inscricao": "26\/07\/2026",
@@ -27,6 +27,10 @@
         "link_edital": [
             {
                 "titulo": "EDITAL 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL 001\/2026 REPUBLICADO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -67,6 +71,10 @@
             },
             {
                 "titulo": "1º ADIVITO AO EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -121,22 +129,6 @@
     },
     {
         "regiao": "RIO DE JANEIRO",
-        "titulo": "Prefeitura de Saquarema",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-saquarema-rj-abre-concurso-publico-com-vagas-na-educacao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "1268 vagas até R$ 4.603,34 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "21\/07\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RIO DE JANEIRO",
         "titulo": "Prefeitura de Volta Redonda - Secretaria Municipal de Saúde",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-volta-redonda-rj-abre-concurso-publico-para-enfermeiro-e-tecnico-em-enfermagem",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -154,7 +146,7 @@
     {
         "regiao": "MINAS GERAIS",
         "titulo": "CIDASG - Consórcio Intermunicipal para o Desenvolvimento do Alto Suaçuí Grande",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cidasg-mg-abre-concurso-publico-para-cargos-de-nivel-medio-e-superior",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cidasg-mg-atualiza-edital-de-concurso-publico-para-cargos-de-nivel-medio-e-superior",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "7 vagas + 1 CR até R$ 5.000,00 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "27\/07\/2026 a 27\/08\/2026",
@@ -163,6 +155,14 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "ERRATA Nº 01",
                 "url": "javascript:void(0);"
             }
         ]
@@ -270,7 +270,7 @@
     {
         "regiao": "PARANÁ",
         "titulo": "Prefeitura de Ponta Grossa",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-ponta-grossa-pr-abre-concurso-com-salarios-de-ate-14756",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-ponta-grossa-pr-divulga-retificacao-do-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "56 vagas até R$ 14.756,74 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "10\/08\/2026",
@@ -279,6 +279,10 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - CONCURSO PÚBLICO 003",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRA RETIFICAÇÃO DO EDITAL Nº 002\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -300,13 +304,21 @@
             {
                 "titulo": "EDITAL Nº 242\/2026",
                 "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "UENP 242 CONTEÚDO PROGRAMÁTICO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "UENP 241 CONTEÚDO PROGRAMÁTICO",
+                "url": "javascript:void(0);"
             }
         ]
     },
     {
         "regiao": "RIO GRANDE DO SUL",
         "titulo": "Prefeitura de Novo Hamburgo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-novo-hamburgo-rs-divulga-retificacao-de-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "41 vagas até R$ 8.293,78 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "28\/07\/2026",
@@ -315,6 +327,10 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO E ADENDO AO EDITAL",
                 "url": "javascript:void(0);"
             }
         ]
@@ -352,6 +368,10 @@
             {
                 "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "ABGF 1 CP CONTEÚDO PROGRAMÁTICO",
+                "url": "javascript:void(0);"
             }
         ]
     },
@@ -368,6 +388,14 @@
             {
                 "titulo": "EDITAL Nº 1",
                 "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "CRISTALINA 1 CP 3.5.1 REQUISITOS",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "CRISTALINA 1 CP EDITAL RETIFICADO",
+                "url": "javascript:void(0);"
             }
         ]
     },
@@ -383,6 +411,14 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMAVERA DO LESTE 1 CP DATA DA PROVA",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMAVERA DO LESTE 1 CP EDITAL RETIFICADO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -463,30 +499,6 @@
             },
             {
                 "titulo": "EDITAL Nº 02\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "ALAGOAS",
-        "titulo": "CBMAL - Corpo de Bombeiros Militar de Alagoas",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cbm-al-divulga-retificacao-de-concurso-publico",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "172 vagas até R$ 11.563,77 Vários Cargos Ensino Médio",
-        "periodo_inscricao": "21\/07\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 1 - COMPLETO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -634,7 +646,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "501 vagas até R$ 9.793,54 Praça PM, Oficial Capelão PMSuperior",
         "periodo_inscricao": "22\/07\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -646,7 +658,7 @@
     {
         "regiao": "RIO GRANDE DO NORTE",
         "titulo": "SEAP - Secretaria de Estado da Administração Penitenciária",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seap-sead-rn-abre-concurso-publico-com-vagas-para-policial-penal-e-especialista-em-assistencia-penitenciaria",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seap-sead-rn-republica-edital-de-concurso-publico-para-policial-penal-e-especialista-em-assistencia-penitenciaria",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "260 vagas até R$ 5.681,78 Vários Cargos Superior",
         "periodo_inscricao": "27\/07\/2026",
@@ -659,6 +671,10 @@
             },
             {
                 "titulo": "EDITAL COMPLETO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL REPUBLICADO Nº 002\/2026",
                 "url": "javascript:void(0);"
             }
         ]
