@@ -169,6 +169,22 @@
     },
     {
         "regiao": "MINAS GERAIS",
+        "titulo": "DMAE - Departamento Municipal de Água e Esgoto de Uberlândia",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/dmae-de-uberlandia-mg-abre-concurso-publico-com-vagas-para-diversos-niveis-de-escolaridade",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "59 vagas até R$ 9.879,08 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "11\/08\/2026 a 11\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DO CONCURSO PÚBLICO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MINAS GERAIS",
         "titulo": "ITABIRAPREV - Instituto de Previdência de Itabira",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/itabiraprev-mg-abre-concurso-publico-com-salarios-de-ate-6280",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -243,6 +259,22 @@
             },
             {
                 "titulo": "EDITAL REPUBLICADO 01.01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PARANÁ",
+        "titulo": "PCPR - Polícia Civil do Estado do Paraná",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-pr-abre-concurso-publico-com-remuneracoes-ate-26876",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Cadastro de reserva até R$ 26.876,48 Delegado de Polícia, Agente de Polícia Judiciária, Papiloscopista Policial Superior",
+        "periodo_inscricao": "12\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -544,45 +576,65 @@
         ]
     },
     {
-        "regiao": "MARANHÃO",
-        "titulo": "CBMMA - Corpo de Bombeiros Militar do Estado do Maranhão",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cbmma-ma-abre-edital-para-curso-de-formacao-de-oficiais",
+        "regiao": "BAHIA",
+        "titulo": "PMS - Prefeitura de Salvador",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-salvador-ba-abre-concurso-publico-para-profissionais-da-educacao",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "25 vagas até R$ 12.394,21 Cadete Bombeiro Militar Ensino Médio",
-        "periodo_inscricao": "24\/07\/2026",
-        "situacao": "Fechado",
+        "resumo": "190 vagas até R$ 6.156,76 Coordenador Pedagógico, Professor Municipal Superior",
+        "periodo_inscricao": "07\/08\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL Nº 158\/2026",
+                "titulo": "EDITAL Nº 01",
                 "url": "javascript:void(0);"
             }
         ]
     },
     {
         "regiao": "MARANHÃO",
-        "titulo": "Polícia Militar do Maranhão",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pmma-retifica-o-processo-seletivo-para-o-curso-de-formacao-de-oficiais",
+        "titulo": "PMMA - Polícia Militar do Maranhão e CBMMA - Corpo de Bombeiros Militar do Maranhão",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pm-e-cbm-ma-abrem-concursos-publicos-com-vagas-para-pracas-soldados-e-musicos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "40 vagas Cadete do Curso de Formação de Oficiais da PMMAEnsino Médio",
-        "periodo_inscricao": "24\/07\/2026",
-        "situacao": "Fechado",
+        "resumo": "1800 vagas até R$ 6.149,08 Soldado, Praça Combatente, Praça Especialista Ensino Médio",
+        "periodo_inscricao": "07\/08\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL PM MA OFICIAL 2026",
+                "titulo": "EDITAL Nº 1 PMMA",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL PAES 2027",
+                "titulo": "RETIFICAÇÃO - EDITAL PMMA",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "RETIFICAÇÃO Nº 01 DO EDITAL Nº 158\/2026",
+                "titulo": "RETIFICAÇÃO - EDITAL Nº 3 PMMA",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "RETIFICAÇÃO Nº 02 DO EDITAL Nº 158\/2026",
+                "titulo": "EDITAL Nº 1 CBM\/MA",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MARANHÃO",
+        "titulo": "TCE - Tribunal de Contas do Estado do Maranhão",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tce-ma-publica-edital-de-concurso-publico-com-salarios-de-ate-20112",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "40 vagas até R$ 20.112,20 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "21\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL COMPLETO Nº 1",
                 "url": "javascript:void(0);"
             }
         ]
