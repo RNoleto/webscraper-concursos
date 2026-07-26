@@ -22,7 +22,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "5 vagas até R$ 3.650,00 Agente Legislativo Ensino Médio",
         "periodo_inscricao": "26\/07\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -259,6 +259,30 @@
             },
             {
                 "titulo": "EDITAL REPUBLICADO 01.01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PARANÁ",
+        "titulo": "CRA - Conselho Regional de Administração do Paraná",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cra-pr-prorroga-inscricoes-de-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "254 vagas até R$ 8.093,44 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "Prorrogado até 03\/08\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 1\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRORROGAÇÃO DAS INSCRIÇÕES",
                 "url": "javascript:void(0);"
             }
         ]
