@@ -65,6 +65,22 @@
     },
     {
         "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Embu das Artes",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-embu-das-artes-sp-abre-concurso-publico-com-vagas-na-educacao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "74 vagas até R$ 4.166,79 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "07\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Guarulhos",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-guarulhos-sp-abre-10-vagas-para-auditor-fiscal-vi",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -75,6 +91,70 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 03\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Taubaté",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-taubate-sp-retifica-concursos-publicos-com-vagas-para-diversas-areas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "239 vagas até R$ 13.962,62 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "09\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL 01",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL 02",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL 03",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL 04",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL 05",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL 06",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL DE CONCURSO PÚBLICO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL 01 - DATA DA PROVA",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL 02 - DATA DA PROVA",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL 03 - DATA DA PROVA",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL 04 - DATA DA PROVA",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL 05 - DATA DA PROVA E CARGA HORÁRIA",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL 06 - DATA DA PROVA",
                 "url": "javascript:void(0);"
             }
         ]
@@ -218,7 +298,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "37 vagas até R$ 15.206,97 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "30\/07\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
