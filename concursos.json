@@ -97,6 +97,38 @@
     },
     {
         "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Santos",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-santos-sp-abre-cinco-editais-de-concursos-publicos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "226 vagas até R$ 12.163,43 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "20\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 70\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 71\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 72\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 73\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 74\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Taubaté",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-taubate-sp-retifica-concursos-publicos-com-vagas-para-diversas-areas",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -176,22 +208,6 @@
         ]
     },
     {
-        "regiao": "RIO DE JANEIRO",
-        "titulo": "Câmara de Nilópolis",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-nilopolis-rj-abre-concurso-com-35-vagas-imediatas-e-cadastro-de-reserva",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "35 vagas até R$ 2.500,00 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "31\/07\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "MINAS GERAIS",
         "titulo": "CIDASG - Consórcio Intermunicipal para o Desenvolvimento do Alto Suaçuí Grande",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cidasg-mg-atualiza-edital-de-concurso-publico-para-cargos-de-nivel-medio-e-superior",
@@ -211,6 +227,22 @@
             },
             {
                 "titulo": "ERRATA Nº 01",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MINAS GERAIS",
+        "titulo": "CREA - Conselho Regional de Engenharia e Agronomia de Minas Gerais",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/crea-mg-concurso-publico-oferece-vagas-com-salarios-iniciais-de-ate-13609",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "13 vagas até R$ 13.609,13 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "18\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -631,6 +663,22 @@
             },
             {
                 "titulo": "EDITAL Nº 1 CBM\/MA",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MARANHÃO",
+        "titulo": "SEAP - Secretaria de Estado de Administração Penitenciária",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "304 vagas até R$ 3.521,43 Especialista em Assistência Penitenciária, Assistente Penitenciário Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "04\/08\/2026 a 14\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1 SEAP\/MA",
                 "url": "javascript:void(0);"
             }
         ]
