@@ -285,7 +285,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "342 vagas até R$ 9.600,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "03\/08\/2026 a 03\/09\/2026",
+        "periodo_inscricao": "03\/09\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -330,7 +330,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "254 vagas até R$ 8.093,44 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "Prorrogado até 03\/08\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -570,7 +570,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "240 vagas até R$ 3.885,92 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "03\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -743,6 +743,30 @@
             },
             {
                 "titulo": "EDITAL Nº 03\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PIAUÍ",
+        "titulo": "PMPI - Polícia Militar do Estado do Piauí",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sead-e-pm-pi-retificam-concurso-publico-para-soldado-e-oficial-capelao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "501 vagas e 500 CR até R$ 9.793,54 Praça PM, Oficial Capelão PMSuperior",
+        "periodo_inscricao": "Reaberto até 04\/09\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
