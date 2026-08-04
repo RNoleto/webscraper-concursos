@@ -98,7 +98,7 @@
     {
         "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Santos",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-santos-sp-abre-cinco-editais-de-concursos-publicos",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "226 vagas até R$ 12.163,43 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "20\/08\/2026",
@@ -123,6 +123,26 @@
             },
             {
                 "titulo": "EDITAL Nº 74\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO - SANTOS 70 CP ANEXO VII",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO - SANTOS 71 CP ANEXO VII",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO - SANTOS 72 CP ANEXO VII",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO - SANTOS 73 CP ANEXO VII",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO - SANTOS 74 CP ANEXO VII",
                 "url": "javascript:void(0);"
             }
         ]
@@ -319,30 +339,6 @@
             },
             {
                 "titulo": "RETIFICAÇÃO Nº 01",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PARANÁ",
-        "titulo": "CRA - Conselho Regional de Administração do Paraná",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cra-pr-prorroga-inscricoes-de-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "254 vagas até R$ 8.093,44 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "Prorrogado até 03\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 1\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO I",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "PRORROGAÇÃO DAS INSCRIÇÕES",
                 "url": "javascript:void(0);"
             }
         ]
@@ -565,22 +561,6 @@
     },
     {
         "regiao": "ALAGOAS",
-        "titulo": "Prefeitura de Campo Alegre",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-campo-alegre-al-abre-concurso-publico-com-salarios-de-ate-3885",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "240 vagas até R$ 3.885,92 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "03\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "ALAGOAS",
         "titulo": "SEDUC - Secretaria de Educação do Estado de Alagoas",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplag-seduc-al-retificam-concurso-publico-para-professores",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -673,7 +653,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "304 vagas até R$ 3.521,43 Especialista em Assistência Penitenciária, Assistente Penitenciário Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "04\/08\/2026 a 14\/09\/2026",
+        "periodo_inscricao": "14\/09\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
