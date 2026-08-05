@@ -424,6 +424,22 @@
             {
                 "titulo": "EDITAL COMPLETO Nº 001\/2026",
                 "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "TERMO DE RETIFICAÇÃO Nº 01",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "TERMO DE RETIFICAÇÃO Nº 02",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SAPE SC 1 CP EDITAL RETIFICADO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SAPE SC 1 CP VAGAS",
+                "url": "javascript:void(0);"
             }
         ]
     },
@@ -467,6 +483,14 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 1",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "CRISTALINA 1 CP EDITAL RETIFICADO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "CRISTALINA 1 CP 3.8.1 REQUISITOS",
                 "url": "javascript:void(0);"
             }
         ]
@@ -566,7 +590,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Vagas até R$ 4.325,37 Professor Superior",
         "periodo_inscricao": "05\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -690,7 +714,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "6 vagas até R$ 6.674,43 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "05\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
