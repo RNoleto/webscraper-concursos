@@ -6,7 +6,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "212 vagas até R$ 10.685,44 Vários Cargos Superior",
         "periodo_inscricao": "06\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -86,7 +86,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "10 vagas até R$ 7.213,33 Auditor(a) Fiscal VISuperior",
         "periodo_inscricao": "06\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -410,7 +410,7 @@
     {
         "regiao": "SANTA CATARINA",
         "titulo": "SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sape-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sape-sc-retifica-edital-do-concurso-publico-para-analista-tecnico-administrativo-ii",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "20 vagas até R$ 11.521,24 Analista Técnico Administrativo IISuperior",
         "periodo_inscricao": "28\/08\/2026",
@@ -434,11 +434,11 @@
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "SAPE SC 1 CP EDITAL RETIFICADO",
+                "titulo": "TERMO DE RETIFICAÇÃO Nº 03",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "SAPE SC 1 CP VAGAS",
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -446,11 +446,11 @@
     {
         "regiao": "DISTRITO FEDERAL",
         "titulo": "ABGF - Agência Brasileira Gestora de Fundos Garantidores e Garantias",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/abgf-retifica-edital-de-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/abgf-prorroga-inscricoes-do-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "49 vagas até R$ 15.200,00 Vários Cargos Superior",
-        "periodo_inscricao": "06\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "periodo_inscricao": "Prorrogado até 06\/08\/2026",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -459,6 +459,10 @@
             },
             {
                 "titulo": "RETIFICAÇÃO DO EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "AVISO DE PRORROGAÇÃO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -585,26 +589,6 @@
     },
     {
         "regiao": "ALAGOAS",
-        "titulo": "SEDUC - Secretaria de Educação do Estado de Alagoas",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplag-seduc-al-retificam-concurso-publico-para-professores",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Vagas até R$ 4.325,37 Professor Superior",
-        "periodo_inscricao": "05\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "ALAGOAS",
         "titulo": "SESAU - Secretaria de Estado da Saúde de Alagoas",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sesau-al-retifica-concurso-para-especialistas-e-assistentes-em-saude",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -709,28 +693,12 @@
     },
     {
         "regiao": "PIAUÍ",
-        "titulo": "CREF-15 - Conselho Regional de Educação Física da 15ª Região",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cref-15-pi-abre-concurso-publico-com-salarios-de-ate-6674",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "6 vagas até R$ 6.674,43 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "05\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PIAUÍ",
         "titulo": "Governo do Piauí - Estado do Piauí",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/governo-do-estado-do-piaui-anuncia-tres-concursos-unificados-com-salarios-de-ate-13536",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Vagas até R$ 13.536,01 Vários Cargos Superior",
         "periodo_inscricao": "06\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
