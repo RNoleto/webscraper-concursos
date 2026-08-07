@@ -1,25 +1,5 @@
 [
     {
-        "regiao": "NACIONAL",
-        "titulo": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/dataprev-abre-concurso-publico-com-vagas-de-nivel-superior-em-diversas-cidades-do-brasil",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "212 vagas até R$ 10.685,44 Vários Cargos Superior",
-        "periodo_inscricao": "06\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL COMPLETO Nº 1\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "SÃO PAULO",
         "titulo": "PM - Polícia Militar do Estado de São Paulo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pm-sp-abre-concurso-com-2000-vagas-para-aluno-soldado",
@@ -46,7 +26,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "38 vagas até R$ 6.566,50 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "Prorrogado até 07\/08\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -70,27 +50,11 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "74 vagas até R$ 4.166,79 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "07\/08\/2026",
-        "situacao": "Inscrição não iniciada",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Guarulhos",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-guarulhos-sp-abre-10-vagas-para-auditor-fiscal-vi",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "10 vagas até R$ 7.213,33 Auditor(a) Fiscal VISuperior",
-        "periodo_inscricao": "06\/08\/2026",
         "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL DE ABERTURA Nº 03\/2026",
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -213,16 +177,20 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "TCE-SP - Tribunal de Contas do Estado de São Paulo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tce-sp-abre-concurso-com-vagas-para-auditor-de-controle-externo",
+        "titulo": "TCESP - Tribunal de Contas do Estado de São Paulo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tce-sp-prorroga-inscricoes-do-concurso-publico-para-auditor-de-controle-externo",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "50 vagas até R$ 20.940,20 Auditor de Controle Externo - DIPESuperior",
-        "periodo_inscricao": "11\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "resumo": "50 vagas até R$ 20.940,20 Auditor de Controle Externo Superior",
+        "periodo_inscricao": "Prorrogado até 20\/08\/2026",
+        "situacao": "Aberto",
         "link_apostila": [],
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "1º EDITAL DE RETIFICAÇÃO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -448,9 +416,9 @@
         "titulo": "ABGF - Agência Brasileira Gestora de Fundos Garantidores e Garantias",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/abgf-prorroga-inscricoes-do-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "49 vagas até R$ 15.200,00 Vários Cargos Superior",
-        "periodo_inscricao": "Prorrogado até 06\/08\/2026",
-        "situacao": "Fechado",
+        "resumo": "184 vagas até R$ 15.200,00 Vários Cargos Superior",
+        "periodo_inscricao": "Prorrogado até 11\/08\/2026",
+        "situacao": "Aberto",
         "link_apostila": [],
         "link_edital": [
             {
@@ -473,7 +441,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-secretaria-de-educacao",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "307 vagas até R$ 5.165,78 Vários Cargos Fundamental \/ Médio \/ Superior",
-        "periodo_inscricao": "07\/08\/2026 a 10\/09\/2026",
+        "periodo_inscricao": "10\/09\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -614,15 +582,23 @@
     {
         "regiao": "BAHIA",
         "titulo": "PMS - Prefeitura de Salvador",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-salvador-ba-abre-concurso-publico-para-profissionais-da-educacao",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-salvador-ba-retifica-edital-do-concurso-publico-para-profissionais-da-educacao",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "190 vagas até R$ 6.156,76 Coordenador Pedagógico, Professor Municipal Superior",
         "periodo_inscricao": "07\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "1ª RETIFICAÇÃO DO EDITAL Nº 01",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 01",
                 "url": "javascript:void(0);"
             }
         ]
@@ -634,7 +610,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1800 vagas até R$ 6.149,08 Soldado, Praça Combatente, Praça Especialista Ensino Médio",
         "periodo_inscricao": "07\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -687,34 +663,6 @@
             },
             {
                 "titulo": "EDITAL COMPLETO Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PIAUÍ",
-        "titulo": "Governo do Piauí - Estado do Piauí",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/governo-do-estado-do-piaui-anuncia-tres-concursos-unificados-com-salarios-de-ate-13536",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Vagas até R$ 13.536,01 Vários Cargos Superior",
-        "periodo_inscricao": "06\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO 1 - EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 02\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 03\/2026",
                 "url": "javascript:void(0);"
             }
         ]
