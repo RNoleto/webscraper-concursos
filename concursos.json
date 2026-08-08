@@ -21,46 +21,6 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Andradina",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-andradina-sp-retifica-concurso-publico-com-salarios-de-ate-6566",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "38 vagas até R$ 6.566,50 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "Prorrogado até 07\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "1º ADIVITO AO EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Embu das Artes",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-embu-das-artes-sp-abre-concurso-publico-com-vagas-na-educacao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "74 vagas até R$ 4.166,79 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "07\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Santos",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -575,58 +535,6 @@
             },
             {
                 "titulo": "EDITAL Nº 2 - RETIFICAÇÃO DO EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "BAHIA",
-        "titulo": "PMS - Prefeitura de Salvador",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-salvador-ba-retifica-edital-do-concurso-publico-para-profissionais-da-educacao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "190 vagas até R$ 6.156,76 Coordenador Pedagógico, Professor Municipal Superior",
-        "periodo_inscricao": "07\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "1ª RETIFICAÇÃO DO EDITAL Nº 01",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 01",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MARANHÃO",
-        "titulo": "PMMA - Polícia Militar do Maranhão e CBMMA - Corpo de Bombeiros Militar do Maranhão",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pm-e-cbm-ma-abrem-concursos-publicos-com-vagas-para-pracas-soldados-e-musicos",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "1800 vagas até R$ 6.149,08 Soldado, Praça Combatente, Praça Especialista Ensino Médio",
-        "periodo_inscricao": "07\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1 PMMA",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL PMMA",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 3 PMMA",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 1 CBM\/MA",
                 "url": "javascript:void(0);"
             }
         ]
