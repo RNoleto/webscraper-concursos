@@ -137,7 +137,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/dmae-de-uberlandia-mg-abre-concurso-publico-com-vagas-para-diversos-niveis-de-escolaridade",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "59 vagas até R$ 9.879,08 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "11\/08\/2026 a 11\/09\/2026",
+        "periodo_inscricao": "11\/09\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -225,26 +225,6 @@
     },
     {
         "regiao": "PARANÁ",
-        "titulo": "Prefeitura de Ponta Grossa",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-ponta-grossa-pr-divulga-retificacao-do-concurso-publico",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "56 vagas até R$ 14.756,74 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "10\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - CONCURSO PÚBLICO 003",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "PRIMEIRA RETIFICAÇÃO DO EDITAL Nº 002\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PARANÁ",
         "titulo": "UENP - Universidade Estadual do Norte do Paraná",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/uenp-pr-retifica-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -314,7 +294,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "184 vagas até R$ 15.200,00 Vários Cargos Superior",
         "periodo_inscricao": "Prorrogado até 11\/08\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -427,26 +407,6 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 003\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RORAIMA",
-        "titulo": "CBMRR - Corpo de Bombeiros Militar de Roraima",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cbmrr-rr-abre-concurso-publico-com-vagas-para-soldados-e-oficiais",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "200 vagas até R$ 13.817,22 Soldado Bombeiro Militar, Cadete Bombeiro Militar Médio \/ Superior",
-        "periodo_inscricao": "10\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 02\/2026",
                 "url": "javascript:void(0);"
             }
         ]
