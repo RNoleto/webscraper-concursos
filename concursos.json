@@ -21,6 +21,34 @@
     },
     {
         "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Bauru",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-bauru-sp-abre-concursos-com-vagas-para-merendeira-medico-e-professor-de-arte",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "4 vagas até R$ 14.654,14 Vários Cargos Fundamental \/ Superior",
+        "periodo_inscricao": "13\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 12\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 13\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 14\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 15\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Santos",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -87,6 +115,22 @@
             },
             {
                 "titulo": "1º EDITAL DE RETIFICAÇÃO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RIO DE JANEIRO",
+        "titulo": "Prefeitura de Guapimirim",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-guapimirim-rj-abre-concurso-publico-com-vagas-para-professores",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "125 vagas até R$ 2.983,47 Professor II, Professor IMédio \/ Superior",
+        "periodo_inscricao": "10\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -210,15 +254,23 @@
     {
         "regiao": "PARANÁ",
         "titulo": "PCPR - Polícia Civil do Estado do Paraná",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-pr-abre-concurso-publico-com-remuneracoes-ate-26876",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-pr-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-26876",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Cadastro de reserva até R$ 26.876,48 Delegado de Polícia, Agente de Polícia Judiciária, Papiloscopista Policial Superior",
         "periodo_inscricao": "12\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -247,6 +299,22 @@
             },
             {
                 "titulo": "RETIFICAÇÃO - EDITAL Nº 242\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RIO GRANDE DO SUL",
+        "titulo": "Prefeitura de Canela",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-canela-rs-abre-concurso-com-remuneracao-de-ate-5130",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "140 vagas até R$ 5.130,63 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "21\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 17\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -288,30 +356,6 @@
         ]
     },
     {
-        "regiao": "DISTRITO FEDERAL",
-        "titulo": "ABGF - Agência Brasileira Gestora de Fundos Garantidores e Garantias",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/abgf-prorroga-inscricoes-do-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "184 vagas até R$ 15.200,00 Vários Cargos Superior",
-        "periodo_inscricao": "Prorrogado até 11\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO DO EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "AVISO DE PRORROGAÇÃO",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "GOIÁS",
         "titulo": "Prefeitura de Cristalina",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-secretaria-de-educacao",
@@ -339,6 +383,26 @@
             },
             {
                 "titulo": "CRISTALINA 1 CP 3.8.1 REQUISITOS",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "GOIÁS",
+        "titulo": "Prefeitura e Câmara de Trindade",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-e-prefeitura-de-trindade-go-abrem-vagas-com-salarios-de-ate-7500",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "217 vagas + 195 CR até R$ 7.500,00 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "20\/08\/2026 a 21\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DO PROCESSO SELETIVO PÚBLICO Nº 1\/2026 - SECRETARIA MUNICIPAL DE SAÚDE",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DO CONCURSO PÚBLICO Nº 01\/2026 - CÂMARA MUNICIPAL",
                 "url": "javascript:void(0);"
             }
         ]
@@ -412,6 +476,38 @@
         ]
     },
     {
+        "regiao": "RORAIMA",
+        "titulo": "CAER - Companhia de Águas e Esgotos de Roraima",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/caer-rr-abre-concurso-publico-com-salarios-ate-4554",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "105 vagas até R$ 4.554,00 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "31\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "ALAGOAS",
+        "titulo": "Polícia Civil",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplag-al-publica-edital-de-concurso-publico-para-agente-e-escrivao-na-policia-civil",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "150 vagas até R$ 5.318,63 Agente de Polícia Civil, Escrivão de Polícia Civil Superior",
+        "periodo_inscricao": "11\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "ALAGOAS",
         "titulo": "SESAU - Secretaria de Estado da Saúde de Alagoas",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sesau-al-retifica-concurso-para-especialistas-e-assistentes-em-saude",
@@ -431,6 +527,54 @@
             },
             {
                 "titulo": "EDITAL Nº 2 - RETIFICAÇÃO DO EDITAL Nº 1",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "BAHIA",
+        "titulo": "PCBA - Polícia Civil da Bahia",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-ba-abre-concurso-publico-para-delegado-investigador-e-escrivao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "750 vagas até R$ 16.495,67 Delegado de Polícia Civil, Escrivão de Polícia Civil, Investigador de Polícia Civil Superior",
+        "periodo_inscricao": "08\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA DE INSCRIÇÕES SAEB Nº 02\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MARANHÃO",
+        "titulo": "PCMA - Polícia Civil do Maranhão",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-ma-abre-concurso-publico-com-vagas-para-oficial-investigador",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "357 vagas até R$ 6.514,30 Oficial Investigador de Polícia Superior",
+        "periodo_inscricao": "24\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1 PCMA INVESTIGADOR",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MARANHÃO",
+        "titulo": "PCMA - Polícia Civil do Maranhão",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-ma-abre-concurso-publico-com-58-vagas-imediatas-para-delegado",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "232 vagas até R$ 22.820,23 Delegado de Polícia Civil Superior",
+        "periodo_inscricao": "13\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1 PCMA - DELEGADO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -491,6 +635,30 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SERGIPE",
+        "titulo": "Prefeitura de Aracaju",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-aracaju-se-reabre-inscricoes-do-concurso-para-guarda-municipal",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "100 vagas até R$ 4.055,53 Guarda Municipal Ensino Médio",
+        "periodo_inscricao": "Reaberto até 17\/08\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 02",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 04 - CRONOGRAMA",
                 "url": "javascript:void(0);"
             }
         ]
