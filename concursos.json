@@ -21,28 +21,96 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Bauru",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-bauru-sp-abre-concursos-com-vagas-para-merendeira-medico-e-professor-de-arte",
+        "titulo": "Prefeitura de Diadema",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-diadema-sp-divulga-concursos-publicos-com-salarios-de-ate-4512",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "4 vagas até R$ 14.654,14 Vários Cargos Fundamental \/ Superior",
-        "periodo_inscricao": "13\/08\/2026",
-        "situacao": "Fechado",
+        "resumo": "75 vagas até R$ 4.512,75 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "27\/08\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL Nº 12\/2026",
+                "titulo": "EDITAL Nº 03\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL Nº 13\/2026",
+                "titulo": "EDITAL Nº 04\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Itupeva",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-itupeva-sp-abre-concurso-publico-para-guarda-civil-municipal",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "20 vagas até R$ 4.452,12 Guarda Civil Municipal Ensino Médio",
+        "periodo_inscricao": "16\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 002\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Limeira",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-limeira-sp-publica-edital-de-processo-seletivo-para-professores-substitutos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Cadastro Reserva até R$ 30,00 por hora-aula Professor Substituto Superior",
+        "periodo_inscricao": "24\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE PROCESSO SELETIVO 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Limeira",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "248 vagas até R$ 12.873,46 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "31\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO 01\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL Nº 14\/2026",
+                "titulo": "EDITAL DE CONCURSO PÚBLICO 02\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Paulínia",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-paulinia-sp-retifica-edital-de-processo-seletivo-com-salarios-de-ate-7350",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "115 vagas até R$ 7.350,75 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "21\/08\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 001\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL Nº 15\/2026",
+                "titulo": "1º TERMO DE RETIFICAÇÃO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -102,11 +170,11 @@
     {
         "regiao": "SÃO PAULO",
         "titulo": "TCESP - Tribunal de Contas do Estado de São Paulo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tce-sp-prorroga-inscricoes-do-concurso-publico-para-auditor-de-controle-externo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tce-sp-divulga-retificacao-do-concurso-publico-para-auditor-de-controle-externo",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "50 vagas até R$ 20.940,20 Auditor de Controle Externo Superior",
-        "periodo_inscricao": "Prorrogado até 20\/08\/2026",
-        "situacao": "Aberto",
+        "periodo_inscricao": "20\/08\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
@@ -115,6 +183,10 @@
             },
             {
                 "titulo": "1º EDITAL DE RETIFICAÇÃO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -408,50 +480,6 @@
         ]
     },
     {
-        "regiao": "PARÁ",
-        "titulo": "CDP - Companhia Docas do Pará",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/companhia-docas-do-para-divulga-retificacoes-de-concursos-publicos",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "33 vagas até R$ 6.985,76 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "13\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 002 - EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 002\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 003\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 001 - EDITAL Nº 003\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 003 - EDITAL Nº 003\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 003\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "RORAIMA",
         "titulo": "CAER - Companhia de Águas e Esgotos de Roraima",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/caer-rr-abre-concurso-publico-com-salarios-ate-4554",
@@ -535,22 +563,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1 PCMA INVESTIGADOR",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MARANHÃO",
-        "titulo": "PCMA - Polícia Civil do Maranhão",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-ma-abre-concurso-publico-com-58-vagas-imediatas-para-delegado",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "232 vagas até R$ 22.820,23 Delegado de Polícia Civil Superior",
-        "periodo_inscricao": "13\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1 PCMA - DELEGADO",
                 "url": "javascript:void(0);"
             }
         ]
