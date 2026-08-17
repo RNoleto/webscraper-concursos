@@ -41,22 +41,6 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Itupeva",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-itupeva-sp-abre-concurso-publico-para-guarda-civil-municipal",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "20 vagas até R$ 4.452,12 Guarda Civil Municipal Ensino Médio",
-        "periodo_inscricao": "16\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 002\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Limeira",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-limeira-sp-publica-edital-de-processo-seletivo-para-professores-substitutos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -330,7 +314,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "118 vagas até R$ 7.616,88 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "17\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -634,7 +618,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "100 vagas até R$ 4.055,53 Guarda Municipal Ensino Médio",
         "periodo_inscricao": "Reaberto até 17\/08\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
