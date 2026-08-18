@@ -1,5 +1,49 @@
 [
     {
+        "regiao": "NACIONAL",
+        "titulo": "Transpetro - Petrobras Transporte S.A.",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Vagas Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "14\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 2",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 3",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 4",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 1 - COMPLETO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 2 - COMPLETO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 3 - COMPLETO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 4 - COMPLETO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "SÃO PAULO",
         "titulo": "PM - Polícia Militar do Estado de São Paulo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pm-sp-abre-concurso-com-2000-vagas-para-aluno-soldado",
@@ -222,7 +266,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "13 vagas até R$ 13.609,13 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "18\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -303,34 +347,6 @@
             },
             {
                 "titulo": "RETIFICAÇÃO Nº 01",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PARANÁ",
-        "titulo": "UENP - Universidade Estadual do Norte do Paraná",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/uenp-pr-retifica-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "118 vagas até R$ 7.616,88 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "17\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 241\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 242\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 241\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 242\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -607,30 +623,6 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SERGIPE",
-        "titulo": "Prefeitura de Aracaju",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-aracaju-se-reabre-inscricoes-do-concurso-para-guarda-municipal",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "100 vagas até R$ 4.055,53 Guarda Municipal Ensino Médio",
-        "periodo_inscricao": "Reaberto até 17\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 02",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 04 - CRONOGRAMA",
                 "url": "javascript:void(0);"
             }
         ]
