@@ -4,7 +4,7 @@
         "titulo": "Transpetro - Petrobras Transporte S.A.",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Vagas Vários Cargos Médio \/ Superior",
+        "resumo": "Vagas até R$ 15.034,81 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "14\/09\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
@@ -45,6 +45,22 @@
     },
     {
         "regiao": "SÃO PAULO",
+        "titulo": "Autarquia Municipal de Saúde de Itapecerica da Serra",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "96 vagas até R$ 11.576,25 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "08\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
         "titulo": "PM - Polícia Militar do Estado de São Paulo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pm-sp-abre-concurso-com-2000-vagas-para-aluno-soldado",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -59,6 +75,30 @@
             },
             {
                 "titulo": "EDITAL COMPLETO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura da Estância Balneária de Ilhabela",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-ilhabela-sp-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-12579",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "53 vagas até R$ 12.579,96 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "10\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 01",
                 "url": "javascript:void(0);"
             }
         ]
@@ -261,22 +301,6 @@
     },
     {
         "regiao": "MINAS GERAIS",
-        "titulo": "CREA - Conselho Regional de Engenharia e Agronomia de Minas Gerais",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/crea-mg-concurso-publico-oferece-vagas-com-salarios-iniciais-de-ate-13609",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "13 vagas até R$ 13.609,13 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "18\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MINAS GERAIS",
         "titulo": "DMAE - Departamento Municipal de Água e Esgoto de Uberlândia",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/dmae-de-uberlandia-mg-abre-concurso-publico-com-vagas-para-diversos-niveis-de-escolaridade",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -347,6 +371,22 @@
             },
             {
                 "titulo": "RETIFICAÇÃO Nº 01",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PARANÁ",
+        "titulo": "Prefeitura de Marialva",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-marialva-pr-abre-concurso-publico-com-salarios-de-ate-6768",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "42 vagas até R$ 6.768,66 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "03\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01.01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -480,6 +520,26 @@
         ]
     },
     {
+        "regiao": "MATO GROSSO",
+        "titulo": "SAAE - Prefeitura de Chapada dos Guimarães",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-chapada-dos-guimaraes-mt-divulga-retificacao-de-concurso-publico",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "147 vagas até R$ 6.265,16 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "10\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "RORAIMA",
         "titulo": "CAER - Companhia de Águas e Esgotos de Roraima",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/caer-rr-abre-concurso-publico-com-salarios-ate-4554",
@@ -491,6 +551,30 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "TOCANTINS",
+        "titulo": "SES\/TO - Secretaria de Estado da Saúde do Tocantins",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/governo-do-tocantins-to-retifica-edital-de-concurso-com-vagas-de-nivel-medio-e-superior",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "946 vagas até R$ 17.727,63 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "10\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 001",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
