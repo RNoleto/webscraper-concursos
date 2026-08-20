@@ -2,7 +2,7 @@
     {
         "regiao": "NACIONAL",
         "titulo": "Transpetro - Petrobras Transporte S.A.",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/transpetro-publica-editais-retificados-de-processos-seletivos-para-diversos-cargos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Vagas até R$ 15.034,81 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "14\/09\/2026",
@@ -14,19 +14,19 @@
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL Nº 2",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 3",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 4",
-                "url": "javascript:void(0);"
-            },
-            {
                 "titulo": "EDITAL Nº 1 - COMPLETO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO - EDITAL Nº 1",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 1",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 2",
                 "url": "javascript:void(0);"
             },
             {
@@ -34,11 +34,43 @@
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "RETIFICAÇÃO - EDITAL Nº 2",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 2",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 3",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "EDITAL Nº 3 - COMPLETO",
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "RETIFICAÇÃO - EDITAL Nº 3",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 3",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 4",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "EDITAL Nº 4 - COMPLETO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 4",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO - EDITAL Nº 4",
                 "url": "javascript:void(0);"
             }
         ]
@@ -190,7 +222,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "226 vagas até R$ 12.163,43 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "20\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -198,23 +230,11 @@
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL Nº 71\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 72\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 73\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 74\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
                 "titulo": "RETIFICAÇÃO - SANTOS 70 CP ANEXO VII",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 71\/2026",
                 "url": "javascript:void(0);"
             },
             {
@@ -222,11 +242,23 @@
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "EDITAL Nº 72\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "RETIFICAÇÃO - SANTOS 72 CP ANEXO VII",
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "EDITAL Nº 73\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "RETIFICAÇÃO - SANTOS 73 CP ANEXO VII",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 74\/2026",
                 "url": "javascript:void(0);"
             },
             {
@@ -242,7 +274,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "50 vagas até R$ 20.940,20 Auditor de Controle Externo Superior",
         "periodo_inscricao": "20\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -481,7 +513,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-e-prefeitura-de-trindade-go-abrem-vagas-com-salarios-de-ate-7500",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "217 vagas + 195 CR até R$ 7.500,00 Vários Cargos Fundamental \/ Médio \/ Superior",
-        "periodo_inscricao": "20\/08\/2026 a 21\/09\/2026",
+        "periodo_inscricao": "21\/09\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
