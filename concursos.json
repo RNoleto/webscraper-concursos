@@ -109,26 +109,6 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "PM - Polícia Militar do Estado de São Paulo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pm-sp-abre-concurso-com-2000-vagas-para-aluno-soldado",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "2.000 vagas até R$ 5.482,51 Aluno-Soldado PM do Quadro de Praças Ensino Médio",
-        "periodo_inscricao": "21\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 3\/321\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL COMPLETO",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura da Estância Balneária de Ilhabela",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-ilhabela-sp-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-12579",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -210,11 +190,11 @@
     {
         "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Paulínia",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-paulinia-sp-retifica-edital-de-processo-seletivo-com-salarios-de-ate-7350",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-paulinia-sp-prorroga-inscricoes-de-processo-seletivo-com-salarios-de-ate-7350",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "115 vagas até R$ 7.350,75 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "21\/08\/2026",
-        "situacao": "Fechado",
+        "periodo_inscricao": "Prorrogado até 26\/08\/2026",
+        "situacao": "Aberto",
         "link_apostila": [],
         "link_edital": [
             {
@@ -222,11 +202,15 @@
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "1º TERMO DE RETIFICAÇÃO",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "titulo": "PRORROGAÇÃO DO PRAZO PARA SOLICITAÇÃO DE INSCRIÇÃO PROCESSO SELETIVO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -364,22 +348,6 @@
         ]
     },
     {
-        "regiao": "RIO GRANDE DO SUL",
-        "titulo": "Prefeitura de Canela",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-canela-rs-abre-concurso-com-remuneracao-de-ate-5130",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "140 vagas até R$ 5.130,63 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "21\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 17\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "SANTA CATARINA",
         "titulo": "SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sape-sc-retifica-edital-do-concurso-publico-para-analista-tecnico-administrativo-ii",
@@ -450,19 +418,27 @@
     {
         "regiao": "GOIÁS",
         "titulo": "Prefeitura e Câmara de Trindade",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-e-prefeitura-de-trindade-go-abrem-vagas-com-salarios-de-ate-7500",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-e-prefeitura-de-trindade-go-divulgam-retificacoes-do-processo-seletivo-e-do-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "217 vagas + 195 CR até R$ 7.500,00 Vários Cargos Fundamental \/ Médio \/ Superior",
-        "periodo_inscricao": "21\/09\/2026",
+        "resumo": "215 vagas + 195 CR até R$ 7.500,00 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "28\/09\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
+            {
+                "titulo": "EDITAL DO CONCURSO PÚBLICO Nº 01\/2026 - CÂMARA MUNICIPAL",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 2\/2026 - CONCURSO PÚBLICO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
             {
                 "titulo": "EDITAL DO PROCESSO SELETIVO PÚBLICO Nº 1\/2026 - SECRETARIA MUNICIPAL DE SAÚDE",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL DO CONCURSO PÚBLICO Nº 01\/2026 - CÂMARA MUNICIPAL",
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 2\/2026 - PROCESSO SELETIVO PÚBLICO Nº 1\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -659,26 +635,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1 SEAP\/MA",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MARANHÃO",
-        "titulo": "TCE - Tribunal de Contas do Estado do Maranhão",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tce-ma-publica-edital-de-concurso-publico-com-salarios-de-ate-20112",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "40 vagas até R$ 20.112,20 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "21\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL COMPLETO Nº 1",
                 "url": "javascript:void(0);"
             }
         ]
