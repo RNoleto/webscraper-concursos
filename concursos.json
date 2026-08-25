@@ -154,22 +154,6 @@
     {
         "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Limeira",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-limeira-sp-publica-edital-de-processo-seletivo-para-professores-substitutos",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Cadastro Reserva até R$ 30,00 por hora-aula Professor Substituto Superior",
-        "periodo_inscricao": "24\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE PROCESSO SELETIVO 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Limeira",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "248 vagas até R$ 12.873,46 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
@@ -314,7 +298,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "40 vagas até R$ 3.443,80 Guarda Civil Municipal Ensino Médio",
         "periodo_inscricao": "25\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -603,22 +587,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA DE INSCRIÇÕES SAEB Nº 02\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MARANHÃO",
-        "titulo": "PCMA - Polícia Civil do Maranhão",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-ma-abre-concurso-publico-com-vagas-para-oficial-investigador",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "357 vagas até R$ 6.514,30 Oficial Investigador de Polícia Superior",
-        "periodo_inscricao": "24\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1 PCMA INVESTIGADOR",
                 "url": "javascript:void(0);"
             }
         ]
