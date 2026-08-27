@@ -138,7 +138,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "75 vagas até R$ 4.512,75 Vários Cargos Fundamental \/ Médio \/ Superior",
         "periodo_inscricao": "27\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -172,34 +172,6 @@
         ]
     },
     {
-        "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Paulínia",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-paulinia-sp-prorroga-inscricoes-de-processo-seletivo-com-salarios-de-ate-7350",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "115 vagas até R$ 7.350,75 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "Prorrogado até 26\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "1º TERMO DE RETIFICAÇÃO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "PRORROGAÇÃO DO PRAZO PARA SOLICITAÇÃO DE INSCRIÇÃO PROCESSO SELETIVO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "RIO DE JANEIRO",
         "titulo": "Prefeitura de Guapimirim",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-guapimirim-rj-abre-concurso-publico-com-vagas-para-professores",
@@ -222,7 +194,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "7 vagas + 1 CR até R$ 5.000,00 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "27\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -523,30 +495,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "ALAGOAS",
-        "titulo": "SESAU - Secretaria de Estado da Saúde de Alagoas",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sesau-al-retifica-concurso-para-especialistas-e-assistentes-em-saude",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "1750 vagas até R$ 5.757,15 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "26\/08\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 1 - COMPLETO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 2 - RETIFICAÇÃO DO EDITAL Nº 1",
                 "url": "javascript:void(0);"
             }
         ]
