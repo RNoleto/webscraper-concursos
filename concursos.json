@@ -138,7 +138,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "248 vagas até R$ 12.873,46 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "31\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -168,6 +168,22 @@
         ]
     },
     {
+        "regiao": "RIO DE JANEIRO",
+        "titulo": "SES - Secretaria de Estado de Saúde e IASERJ - Instituto de Assistência dos Servidores do Estado do Rio de Janeiro",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ses-e-iaserj-rj-abrem-concurso-publico-com-vagas-de-nivel-medio-e-superior",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "287 vagas até R$ 7.169,61 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "15\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "MINAS GERAIS",
         "titulo": "DMAE - Departamento Municipal de Água e Esgoto de Uberlândia",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/dmae-de-uberlandia-mg-abre-concurso-publico-com-vagas-para-diversos-niveis-de-escolaridade",
@@ -185,11 +201,43 @@
     },
     {
         "regiao": "MINAS GERAIS",
+        "titulo": "EMATER - Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/emater-mg-anuncia-concurso-publico-com-salarios-de-ate-7321",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "120 vagas até R$ 7.321,75 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "30\/09\/2026 a 30\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DO CONCURSO PÚBLICO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MINAS GERAIS",
         "titulo": "ITABIRAPREV - Instituto de Previdência de Itabira",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/itabiraprev-mg-abre-concurso-publico-com-salarios-de-ate-6280",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "5 vagas até R$ 6.280,77 Assistente Administrativo, Técnico Previdenciário, Analista Previdenciário Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "22\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MINAS GERAIS",
+        "titulo": "Prefeitura de Contagem",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-contagem-mg-abre-concurso-publico-com-salarios-de-ate-13305",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "272 vagas até R$ 13.305,57 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "19\/10\/2026 a 17\/11\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -296,25 +344,17 @@
         ]
     },
     {
-        "regiao": "MATO GROSSO",
-        "titulo": "Prefeitura de Primavera do Leste",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-primavera-do-leste-mt-retifica-edital-de-concurso-publico",
+        "regiao": "MATO GROSSO DO SUL",
+        "titulo": "Câmara de Ponta Porã",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-ponta-pora-ms-abre-concurso-publico-com-salarios-de-ate-7999",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "33 vagas até R$ 16.346,38 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "30\/08\/2026",
-        "situacao": "Fechado",
+        "resumo": "19 vagas até R$ 7.999,59 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "10\/09\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL COMPLEMENTAR Nº 001",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO - CONCURSO PÚBLICO Nº 001\/2026",
+                "titulo": "EDITAL Nº 1",
                 "url": "javascript:void(0);"
             }
         ]
@@ -370,7 +410,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "105 vagas até R$ 4.554,00 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "31\/08\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -436,6 +476,38 @@
         ]
     },
     {
+        "regiao": "BAHIA",
+        "titulo": "Prefeitura de Conceição do Almeida",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-conceicao-do-almeida-ba-abre-concurso-publico-com-vagas-para-diversos-cargos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "236 vagas até R$ 3.000,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "10\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "CEARÁ",
+        "titulo": "SEDUC - Secretaria da Educação do Estado do Ceará",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seduc-e-seplag-ce-abrem-concurso-publico-com-vagas-para-professores",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "2000 vagas até R$ 7.181,41 Professor Nível CSuperior",
+        "periodo_inscricao": "16\/09\/2026 a 15\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 014\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "MARANHÃO",
         "titulo": "SEAP - Secretaria de Estado de Administração Penitenciária",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -447,6 +519,38 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 1 SEAP\/MA",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PARAÍBA",
+        "titulo": "Prefeitura de Cruz do Espírito Santo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cruz-do-espirito-santo-pb-abre-concurso-publico-com-vagas-para-diversas-areas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "202 vagas até R$ 3.847,97 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "16\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PERNAMBUCO",
+        "titulo": "Prefeitura de Caruaru",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-caruaru-pe-abre-concurso-publico-para-auditores-e-analistas-fiscais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "20 vagas até R$ 6.000,00 Auditor Fiscal Municipal, Analista Fiscal Municipal Superior",
+        "periodo_inscricao": "08\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
