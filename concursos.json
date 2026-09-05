@@ -534,29 +534,5 @@
                 "url": "javascript:void(0);"
             }
         ]
-    },
-    {
-        "regiao": "PIAUÍ",
-        "titulo": "PMPI - Polícia Militar do Estado do Piauí",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sead-e-pm-pi-retificam-concurso-publico-para-soldado-e-oficial-capelao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "501 vagas e 500 CR até R$ 9.793,54 Praça PM, Oficial Capelão PMSuperior",
-        "periodo_inscricao": "Reaberto até 04\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO DO EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
     }
 ]
