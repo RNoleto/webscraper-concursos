@@ -2,7 +2,7 @@
     {
         "regiao": "NACIONAL",
         "titulo": "Transpetro - Petrobras Transporte S.A.",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/transpetro-publica-editais-retificados-de-processos-seletivos-para-diversos-cargos",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Vagas até R$ 15.034,81 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "14\/09\/2026",
@@ -26,6 +26,10 @@
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 1 - CRONOGRAMA",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "EDITAL Nº 2",
                 "url": "javascript:void(0);"
             },
@@ -42,6 +46,10 @@
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 2 - CRONOGRAMA",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "EDITAL Nº 3",
                 "url": "javascript:void(0);"
             },
@@ -55,6 +63,10 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 3",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 3 - CRONOGRAMA",
                 "url": "javascript:void(0);"
             },
             {
@@ -80,45 +92,9 @@
             {
                 "titulo": "EDITAL DE RETIFICAÇÃO Nº 4",
                 "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura da Estância Balneária de Ilhabela",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-ilhabela-sp-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-12579",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "53 vagas até R$ 12.579,96 Vários Cargos Fundamental \/ Médio \/ Superior",
-        "periodo_inscricao": "10\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 01",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RIO DE JANEIRO",
-        "titulo": "Prefeitura de Guapimirim",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-guapimirim-rj-abre-concurso-publico-com-vagas-para-professores",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "125 vagas até R$ 2.983,47 Professor II, Professor IMédio \/ Superior",
-        "periodo_inscricao": "10\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 4 - CRONOGRAMA",
                 "url": "javascript:void(0);"
             }
         ]
@@ -146,7 +122,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "59 vagas até R$ 9.879,08 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "11\/09\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -229,38 +205,6 @@
     },
     {
         "regiao": "GOIÁS",
-        "titulo": "Prefeitura de Cristalina",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-secretaria-de-educacao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "307 vagas até R$ 5.165,78 Vários Cargos Fundamental \/ Médio \/ Superior",
-        "periodo_inscricao": "10\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - REQUISITOS",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "CRISTALINA 1 CP EDITAL RETIFICADO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "CRISTALINA 1 CP 3.8.1 REQUISITOS",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "GOIÁS",
         "titulo": "Prefeitura e Câmara de Trindade",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-e-prefeitura-de-trindade-go-divulgam-retificacoes-do-processo-seletivo-e-do-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -283,42 +227,6 @@
             },
             {
                 "titulo": "EDITAL DE RETIFICAÇÃO Nº 2\/2026 - PROCESSO SELETIVO PÚBLICO Nº 1\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MATO GROSSO DO SUL",
-        "titulo": "Câmara de Ponta Porã",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-ponta-pora-ms-abre-concurso-publico-com-salarios-de-ate-7999",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "19 vagas até R$ 7.999,59 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "10\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MATO GROSSO",
-        "titulo": "SAAE - Prefeitura de Chapada dos Guimarães",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-chapada-dos-guimaraes-mt-divulga-retificacao-de-concurso-publico",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "147 vagas até R$ 6.265,16 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "10\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -348,37 +256,13 @@
         ]
     },
     {
-        "regiao": "TOCANTINS",
-        "titulo": "SES\/TO - Secretaria de Estado da Saúde do Tocantins",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/governo-do-tocantins-to-retifica-edital-de-concurso-com-vagas-de-nivel-medio-e-superior",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "946 vagas até R$ 17.727,63 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "10\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 001",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "ALAGOAS",
         "titulo": "Polícia Civil",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplag-al-publica-edital-de-concurso-publico-para-agente-e-escrivao-na-policia-civil",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "150 vagas até R$ 5.318,63 Agente de Polícia Civil, Escrivão de Polícia Civil Superior",
         "periodo_inscricao": "11\/09\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -403,22 +287,6 @@
             },
             {
                 "titulo": "COMUNICADO DE PRORROGAÇÃO DO PRAZO DAS INSCRIÇÕES",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "BAHIA",
-        "titulo": "Prefeitura de Conceição do Almeida",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-conceicao-do-almeida-ba-abre-concurso-publico-com-vagas-para-diversos-cargos",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "236 vagas até R$ 3.000,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "10\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
