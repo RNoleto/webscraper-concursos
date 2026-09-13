@@ -5,96 +5,60 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Vagas até R$ 15.034,81 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "14\/09\/2026",
+        "periodo_inscricao": "Prorrogado até 21\/09\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01 - TRANSPETRO\/PSP\/MAR-2026.1",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 02 - TRANSPETRO\/PSP\/MAR-2026.2",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 03 - TRANSPETRO\/PSP\/TERRA\/NÍVEL MÉDIO - 2026.3",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 04 - TRANSPETRO\/PSP\/TERRA\/NÍVEL SUPERIOR - 2026.4",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Andradina",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "19 vagas até R$ 7.341,23 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "23\/09\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL Nº 1",
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL Nº 1 - COMPLETO",
+                "titulo": "1ª RETIFICAÇÃO DO EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
                 "url": "javascript:void(0);"
-            },
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "SETEC - Serviços Técnicos Gerais de Campinas",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "39 vagas até R$ 10.428,05 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "04\/12\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
             {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 1 - CRONOGRAMA",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 2",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 2 - COMPLETO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 2",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 2",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 2 - CRONOGRAMA",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 3",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 3 - COMPLETO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 3",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 3",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 3 - CRONOGRAMA",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 4",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 4 - COMPLETO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 4",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 4",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 3",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 4",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 4 - CRONOGRAMA",
+                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -222,7 +186,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "342 vagas até R$ 3.242,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "Prorrogado até 13\/09\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -240,13 +204,33 @@
         ]
     },
     {
+        "regiao": "PARÁ",
+        "titulo": "SEPLAD - Secretaria de Estado de Planejamento e Administração e SEDUC - Secretaria de Estado de Educação do Pará",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplad-e-seduc-pa-abrem-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "376 vagas até R$ 6.590,47 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "01\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 001\/2026 - COMPLETO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "BAHIA",
         "titulo": "PCBA - Polícia Civil da Bahia",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-ba-prorroga-inscricoes-do-concurso-publico-para-delegado-investigador-e-escrivao",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "750 vagas até R$ 16.495,67 Delegado de Polícia Civil, Escrivão de Polícia Civil, Investigador de Polícia Civil Superior",
         "periodo_inscricao": "Prorrogado até 13\/09\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -319,6 +303,22 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PIAUÍ",
+        "titulo": "IFPI - Instituto Federal de Educação, Ciência e Tecnologia do Piauí",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ifpi-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "52 vagas até R$ 6.407,39 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "13\/09\/2026",
+        "situacao": "Fechado",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL 103\/2026",
                 "url": "javascript:void(0);"
             }
         ]
