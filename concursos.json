@@ -181,30 +181,6 @@
     },
     {
         "regiao": "PARÁ",
-        "titulo": "Prefeitura de Abaetetuba",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-abaetetuba-pa-divulga-nova-retificacao-de-concurso-publico",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "342 vagas até R$ 3.242,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "Prorrogado até 13\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "ADIAMENTO DO INÍCIO DAS INSCRIÇÕES",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PARÁ",
         "titulo": "SEPLAD - Secretaria de Estado de Planejamento e Administração e SEDUC - Secretaria de Estado de Educação do Pará",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplad-e-seduc-pa-abrem-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -219,26 +195,6 @@
             },
             {
                 "titulo": "EDITAL Nº 001\/2026 - COMPLETO",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "BAHIA",
-        "titulo": "PCBA - Polícia Civil da Bahia",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-ba-prorroga-inscricoes-do-concurso-publico-para-delegado-investigador-e-escrivao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "750 vagas até R$ 16.495,67 Delegado de Polícia Civil, Escrivão de Polícia Civil, Investigador de Polícia Civil Superior",
-        "periodo_inscricao": "Prorrogado até 13\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA DE INSCRIÇÕES SAEB Nº 02\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "COMUNICADO DE PRORROGAÇÃO DO PRAZO DAS INSCRIÇÕES",
                 "url": "javascript:void(0);"
             }
         ]
@@ -266,7 +222,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "304 vagas até R$ 3.521,43 Especialista em Assistência Penitenciária, Assistente Penitenciário Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "14\/09\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -303,22 +259,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PIAUÍ",
-        "titulo": "IFPI - Instituto Federal de Educação, Ciência e Tecnologia do Piauí",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ifpi-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "52 vagas até R$ 6.407,39 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "13\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL 103\/2026",
                 "url": "javascript:void(0);"
             }
         ]
