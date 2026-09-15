@@ -70,7 +70,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "287 vagas até R$ 7.169,61 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "15\/09\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -211,22 +211,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 014\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MARANHÃO",
-        "titulo": "SEAP - Secretaria de Estado de Administração Penitenciária",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "304 vagas até R$ 3.521,43 Especialista em Assistência Penitenciária, Assistente Penitenciário Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "14\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1 SEAP\/MA",
                 "url": "javascript:void(0);"
             }
         ]
