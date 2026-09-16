@@ -64,25 +64,9 @@
         ]
     },
     {
-        "regiao": "RIO DE JANEIRO",
-        "titulo": "SES - Secretaria de Estado de Saúde e IASERJ - Instituto de Assistência dos Servidores do Estado do Rio de Janeiro",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ses-e-iaserj-rj-abrem-concurso-publico-com-vagas-de-nivel-medio-e-superior",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "287 vagas até R$ 7.169,61 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "15\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "MINAS GERAIS",
         "titulo": "EMATER - Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/emater-mg-anuncia-concurso-publico-com-salarios-de-ate-7321",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "120 vagas até R$ 7.321,75 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "30\/09\/2026 a 30\/10\/2026",
@@ -91,6 +75,10 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DO CONCURSO PÚBLICO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SEGUNDA RETIFICAÇÃO DO EDITAL DO CONCURSO PÚBLICO Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -205,7 +193,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seduc-e-seplag-ce-abrem-concurso-publico-com-vagas-para-professores",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "2000 vagas até R$ 7.181,41 Professor Nível CSuperior",
-        "periodo_inscricao": "16\/09\/2026 a 15\/10\/2026",
+        "periodo_inscricao": "15\/10\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -222,7 +210,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "202 vagas até R$ 3.847,97 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "16\/09\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
