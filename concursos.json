@@ -49,6 +49,34 @@
     },
     {
         "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Guarulhos",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-guarulhos-sp-abre-quatro-concursos-publicos-com-salarios-de-ate-4297",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "22 vagas até R$ 4.297,75 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "17\/09\/2026",
+        "situacao": "Fechado",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 05\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 06\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 07\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 08\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
         "titulo": "SETEC - Serviços Técnicos Gerais de Campinas",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -59,6 +87,54 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RIO DE JANEIRO",
+        "titulo": "Prefeitura de Valença",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-valenca-rj-abre-concurso-publico-para-professores",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "100 vagas até R$ 4.468,62 Professor III, Professor IVMédio \/ Superior",
+        "periodo_inscricao": "05\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RIO DE JANEIRO",
+        "titulo": "SEPLAG - Secretaria de Estado de Planejamento e Gestão",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplag-rj-publica-retificacoes-do-concurso-com-60-vagas-para-cargos-de-nivel-superior",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "60 vagas até R$ 14.387,75 Especialista em Políticas Públicas e Gestão Governamental, Analista de Planejamento e Orçamento Superior",
+        "periodo_inscricao": "08\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL - SEPLAG RJ D",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO - SEPLAG RJ D",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "1ª RETIFICAÇÃO - SEPLAG RJ D",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "2ª RETIFICAÇÃO - SEPLAG RJ D",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "3ª RETIFICAÇÃO - SEPLAG RJ D",
                 "url": "javascript:void(0);"
             }
         ]
@@ -188,6 +264,26 @@
         ]
     },
     {
+        "regiao": "RONDÔNIA",
+        "titulo": "Prefeitura de Vilhena",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-vilhena-ro-retifica-o-edital-de-processo-seletivo-para-agentes-de-saude-e-de-endemias",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "30 vagas até R$ 3.242,00 Agente Comunitário de Saúde, Agente de Combate às Endemias Ensino Médio",
+        "periodo_inscricao": "13\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 02\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 01 2026 - EDITAL Nº 02\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "CEARÁ",
         "titulo": "SEDUC - Secretaria da Educação do Estado do Ceará",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seduc-e-seplag-ce-abrem-concurso-publico-com-vagas-para-professores",
@@ -199,22 +295,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 014\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PARAÍBA",
-        "titulo": "Prefeitura de Cruz do Espírito Santo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cruz-do-espirito-santo-pb-abre-concurso-publico-com-vagas-para-diversas-areas",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "202 vagas até R$ 3.847,97 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "16\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
