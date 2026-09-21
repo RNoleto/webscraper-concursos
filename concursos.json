@@ -6,7 +6,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Vagas até R$ 15.034,81 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "Prorrogado até 21\/09\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -274,7 +274,7 @@
     {
         "regiao": "PERNAMBUCO",
         "titulo": "Prefeitura de Caruaru",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-caruaru-pe-abre-concurso-publico-para-auditores-e-analistas-fiscais",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-caruaru-pe-retifica-concurso-publico-para-auditores-e-analistas-fiscais",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "20 vagas até R$ 6.000,00 Auditor Fiscal Municipal, Analista Fiscal Municipal Superior",
         "periodo_inscricao": "08\/10\/2026",
@@ -283,6 +283,10 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 02",
                 "url": "javascript:void(0);"
             }
         ]
