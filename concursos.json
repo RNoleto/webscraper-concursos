@@ -1,33 +1,5 @@
 [
     {
-        "regiao": "NACIONAL",
-        "titulo": "Transpetro - Petrobras Transporte S.A.",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Vagas até R$ 15.034,81 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "Prorrogado até 21\/09\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01 - TRANSPETRO\/PSP\/MAR-2026.1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 02 - TRANSPETRO\/PSP\/MAR-2026.2",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 03 - TRANSPETRO\/PSP\/TERRA\/NÍVEL MÉDIO - 2026.3",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 04 - TRANSPETRO\/PSP\/TERRA\/NÍVEL SUPERIOR - 2026.4",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Andradina",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao",
@@ -138,7 +110,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "342 vagas até R$ 9.600,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "Prorrogado até 22\/09\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -162,7 +134,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "5 vagas até R$ 6.280,77 Assistente Administrativo, Técnico Previdenciário, Analista Previdenciário Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "22\/09\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
