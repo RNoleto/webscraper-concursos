@@ -1,20 +1,16 @@
 [
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Andradina",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao",
+        "titulo": "DETRAN - Departamento Estadual de Trânsito de São Paulo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/detran-sp-abre-concurso-com-145-vagas-para-agentes-estaduais-de-transito",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "19 vagas até R$ 7.341,23 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "23\/09\/2026",
-        "situacao": "Fechado",
+        "resumo": "145 vagas até R$ 5.702,18 Agente Estadual de Trânsito Superior",
+        "periodo_inscricao": "07\/10\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "1ª RETIFICAÇÃO DO EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
+                "titulo": "EDITAL DE CONCURSO PÚBLICO DETRAN-SP Nº 1",
                 "url": "javascript:void(0);"
             }
         ]
@@ -31,6 +27,22 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RIO DE JANEIRO",
+        "titulo": "Prefeitura de Queimados",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-queimados-rj-abre-concurso-publico-com-salarios-de-ate-11567",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "463 vagas até R$ 11.567,11 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "13\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -105,6 +117,22 @@
     },
     {
         "regiao": "MINAS GERAIS",
+        "titulo": "PMMG - Polícia Militar de Minas Gerais",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pmmg-abre-concurso-com-90-vagas-para-o-curso-de-formacao-de-oficiais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "90 vagas até R$ 12.170,61 Cadete do Curso de Formação de Oficiais Superior",
+        "periodo_inscricao": "10\/11\/2026 a 10\/12\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DRH\/CRS Nº 11",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MINAS GERAIS",
         "titulo": "Prefeitura de Contagem",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-contagem-mg-abre-concurso-publico-com-salarios-de-ate-13305",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -115,6 +143,110 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RIO GRANDE DO SUL",
+        "titulo": "Prefeitura de Alvorada",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-alvorada-rs-retifica-concurso-publico-com-salarios-de-ate-18974",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Cadastro de Reserva até R$ 18.974,55 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "Prorrogado até 18\/10\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SANTA CATARINA",
+        "titulo": "CASAN - Companhia Catarinense de Águas e Saneamento",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/casan-sc-retifica-editais-de-concursos-publicos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Vagas até R$ 12.600,62 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "05\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SEGUNDO TERMO DE RETIFICAÇÃO - EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SEGUNDO TERMO DE RETIFICAÇÃO - EDITAL DE CONCURSO PÚBLICO Nº 003\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SANTA CATARINA",
+        "titulo": "SEFAZ - Secretaria de Estado da Fazenda de Santa Catarina",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sefaz-sc-abre-concurso-publico-para-o-cargo-de-auditor-estadual-de-financas-publicas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "50 vagas até R$ 25.337,61 Auditor Estadual de Finanças Públicas Superior",
+        "periodo_inscricao": "05\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "GOIÁS",
+        "titulo": "Prefeitura de Caldas Novas",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-caldas-novas-go-divulga-retificacao-do-concurso-publico-para-guardas-civis-municipais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "15 vagas até R$ 3.100,00 Guarda Civil Municipal Ensino Médio",
+        "periodo_inscricao": "05\/10\/2026 a 09\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "1º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -143,6 +275,118 @@
             },
             {
                 "titulo": "EDITAL DE RETIFICAÇÃO Nº 2\/2026 - PROCESSO SELETIVO PÚBLICO Nº 1\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "GOIÁS",
+        "titulo": "TCE - Tribunal de Contas do Estado de Goiás",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tce-go-retifica-concurso-publico-para-tecnicos-de-controle-externo",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "16 vagas até R$ 11.862,19 Técnico de Controle Externo Ensino Médio",
+        "periodo_inscricao": "05\/10\/2026 a 06\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MATO GROSSO",
+        "titulo": "SEMA - Secretaria de Meio Ambiente de Mato Grosso",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sema-mt-abre-concurso-para-analistas-de-meio-ambiente-e-de-desenvolvimento-economico-e-social",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Cadastro de reserva até R$ 10.491,97 Vários Cargos Superior",
+        "periodo_inscricao": "14\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MATO GROSSO",
+        "titulo": "SME - Secretaria Municipal de Educação de Cuiabá",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/secretaria-municipal-de-educacao-de-cuiaba-mt-abre-processo-seletivo-com-salarios-de-ate-5599",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Vagas até R$ 5.599,94 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "28\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 04\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "AMAZONAS",
+        "titulo": "MANAUSPREV - Manaus Previdência",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/manaus-previdencia-am-abre-concurso-publico-com-salarios-de-ate-9175",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "17 vagas até R$ 9.175,25 Analista Previdenciário, Técnico Previdenciário Médio \/ Superior",
+        "periodo_inscricao": "29\/09\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "ACRE",
+        "titulo": "Câmara de Rio Branco",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-rio-branco-ac-abre-concurso-publico-com-13-vagas-imediatas",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "13 vagas até R$ 6.300,00 Agente Legislativo, Tradutor Intérprete de Língua Brasileira de Sinais, Analista Legislativo Médio \/ Superior",
+        "periodo_inscricao": "13\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "AMAPÁ",
+        "titulo": "SESA - Secretaria de Estado da Saúde do Amapá",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/governo-do-estado-do-amapa-ap-retifica-edital-de-concurso-com-salarios-de-ate-11116",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "4210 vagas até R$ 11.116,42 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "13\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -188,6 +432,26 @@
         ]
     },
     {
+        "regiao": "ALAGOAS",
+        "titulo": "SEFAZ - Secretaria de Estado da Fazenda de Alagoas",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sefaz-al-abre-concurso-publico-com-vagas-para-o-cargo-de-auditor-fiscal",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "40 vagas + 60 CR até R$ 25.270,68 Auditor Fiscal da Administração Tributária Estadual Superior",
+        "periodo_inscricao": "21\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 1 - COMPLETO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "CEARÁ",
         "titulo": "SEDUC - Secretaria da Educação do Estado do Ceará",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seduc-e-seplag-ce-abrem-concurso-publico-com-vagas-para-professores",
@@ -219,6 +483,26 @@
             },
             {
                 "titulo": "RETIFICAÇÃO Nº 02",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PERNAMBUCO",
+        "titulo": "Prefeitura do Município de Trindade",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-trindade-pe-divulga-retificacao-em-concurso-com-vagas-para-diversos-niveis",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "353 vagas até R$ 6.600,00 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "19\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
