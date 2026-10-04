@@ -332,6 +332,38 @@
         ]
     },
     {
+        "regiao": "PARÁ",
+        "titulo": "SEDUC - Secretaria de Estado de Educação do Pará",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplad-e-seduc-pa-retificam-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "2.000 vagas até R$ 6.590,47 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "Prorrogado até 07\/10\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 001\/2026 - COMPLETO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO 24 DE SETEMBRO DE 2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO 1 DE OUTUBRO DE 2026 - INSCRIÇÃO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "RONDÔNIA",
         "titulo": "Prefeitura de Vilhena",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-vilhena-ro-retifica-o-edital-de-processo-seletivo-para-agentes-de-saude-e-de-endemias",
