@@ -6,7 +6,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "145 vagas até R$ 5.702,18 Agente Estadual de Trânsito Superior",
         "periodo_inscricao": "07\/10\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -209,7 +209,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-curitiba-pr-abre-concursos-publicos-com-vagas-imediatas-e-cadastro-de-reserva",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "348 vagas até R$ 14.117,18 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "07\/10\/2026 a 05\/11\/2026",
+        "periodo_inscricao": "05\/11\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -223,6 +223,10 @@
             },
             {
                 "titulo": "EDITAL NORMATIVO Nº 6\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "CURITIBA 5 CP EDITAL RETIFICADO",
                 "url": "javascript:void(0);"
             }
         ]
@@ -247,6 +251,74 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SANTA CATARINA",
+        "titulo": "CASAN - Companhia Catarinense de Águas e Saneamento",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/casan-sc-retifica-editais-de-concursos-publicos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Vagas até R$ 12.600,62 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "Prorrogado até 09\/10\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE PRORROGAÇÃO DAS INSCRIÇÕES - CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SEGUNDO TERMO DE RETIFICAÇÃO - EDITAL DE CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE PRORROGAÇÃO DAS INSCRIÇÕES - CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SEGUNDO TERMO DE RETIFICAÇÃO - EDITAL DE CONCURSO PÚBLICO Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE PRORROGAÇÃO DAS INSCRIÇÕES - CONCURSO PÚBLICO Nº 003\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -422,7 +494,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "2.000 vagas até R$ 6.590,47 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "Prorrogado até 07\/10\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
