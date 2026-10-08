@@ -1,22 +1,6 @@
 [
     {
         "regiao": "SÃO PAULO",
-        "titulo": "DETRAN - Departamento Estadual de Trânsito de São Paulo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/detran-sp-abre-concurso-com-145-vagas-para-agentes-estaduais-de-transito",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "145 vagas até R$ 5.702,18 Agente Estadual de Trânsito Superior",
-        "periodo_inscricao": "07\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO DETRAN-SP Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Cubatão",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cubatao-sp-abre-concursos-publicos-com-salarios-de-ate-5565",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -58,7 +42,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "100 vagas até R$ 3.823,39 Guarda Civil Municipal - 3ª classe Ensino Médio",
         "periodo_inscricao": "08\/10\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -126,7 +110,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "60 vagas até R$ 14.387,75 Especialista em Políticas Públicas e Gestão Governamental, Analista de Planejamento e Orçamento Superior",
         "periodo_inscricao": "08\/10\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -206,7 +190,7 @@
     {
         "regiao": "PARANÁ",
         "titulo": "PMC - Prefeitura de Curitiba",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-curitiba-pr-abre-concursos-publicos-com-vagas-imediatas-e-cadastro-de-reserva",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-curitiba-pr-retifica-concursos-publicos-com-vagas-imediatas-e-cadastro-de-reserva",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "348 vagas até R$ 14.117,18 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "05\/11\/2026",
@@ -218,7 +202,15 @@
                 "url": "javascript:void(0);"
             },
             {
+                "titulo": "EDITAL RETIFICADO Nº 4\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
                 "titulo": "EDITAL NORMATIVO Nº 5\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 5\/2026",
                 "url": "javascript:void(0);"
             },
             {
@@ -226,7 +218,7 @@
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "CURITIBA 5 CP EDITAL RETIFICADO",
+                "titulo": "EDITAL RETIFICADO Nº 6\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -488,38 +480,6 @@
         ]
     },
     {
-        "regiao": "PARÁ",
-        "titulo": "SEDUC - Secretaria de Estado de Educação do Pará",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplad-e-seduc-pa-retificam-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "2.000 vagas até R$ 6.590,47 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "Prorrogado até 07\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 001\/2026 - COMPLETO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO 24 DE SETEMBRO DE 2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO 1 DE OUTUBRO DE 2026 - INSCRIÇÃO",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "RONDÔNIA",
         "titulo": "Prefeitura de Vilhena",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-vilhena-ro-retifica-o-edital-de-processo-seletivo-para-agentes-de-saude-e-de-endemias",
@@ -614,7 +574,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "20 vagas até R$ 6.000,00 Auditor Fiscal Municipal, Analista Fiscal Municipal Superior",
         "periodo_inscricao": "08\/10\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
