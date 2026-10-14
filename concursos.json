@@ -21,22 +21,6 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Tatuí",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-tatui-sp-abre-concurso-publico-para-cargos-de-nivel-fundamental-e-medio",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "107 vagas até R$ 2.193,73 Vários Cargos Fundamental \/ Médio",
-        "periodo_inscricao": "13\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
         "titulo": "SETEC - Serviços Técnicos Gerais de Campinas",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -47,22 +31,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RIO DE JANEIRO",
-        "titulo": "Prefeitura de Queimados",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-queimados-rj-abre-concurso-publico-com-salarios-de-ate-11567",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "463 vagas até R$ 11.567,11 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "13\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -266,27 +234,11 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Cadastro de reserva até R$ 10.491,97 Vários Cargos Superior",
         "periodo_inscricao": "14\/10\/2026",
-        "situacao": "Inscrição não iniciada",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "ACRE",
-        "titulo": "Câmara de Rio Branco",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-rio-branco-ac-abre-concurso-publico-com-13-vagas-imediatas",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "13 vagas até R$ 6.300,00 Agente Legislativo, Tradutor Intérprete de Língua Brasileira de Sinais, Analista Legislativo Médio \/ Superior",
-        "periodo_inscricao": "13\/10\/2026",
         "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL Nº 01\/2026",
+                "titulo": "EDITAL Nº 1",
                 "url": "javascript:void(0);"
             }
         ]
@@ -316,34 +268,6 @@
         ]
     },
     {
-        "regiao": "AMAPÁ",
-        "titulo": "SESA - Secretaria de Estado da Saúde do Amapá",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/governo-do-estado-do-amapa-ap-retifica-edital-de-concurso-com-salarios-de-ate-11116",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "4210 vagas até R$ 11.116,42 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "13\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "SEGUNDO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "PARÁ",
         "titulo": "FHCGV - Fundação Pública Estadual Hospital de Clínicas Gaspar Vianna",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplad-e-fhcgv-pa-anunciam-concurso-publico-com-vagas-imediatas-e-formacao-de-cadastro-de-reserva",
@@ -359,26 +283,6 @@
             },
             {
                 "titulo": "EDITAL COMPLETO Nº 01",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RONDÔNIA",
-        "titulo": "Prefeitura de Vilhena",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-vilhena-ro-retifica-o-edital-de-processo-seletivo-para-agentes-de-saude-e-de-endemias",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "30 vagas até R$ 3.242,00 Agente Comunitário de Saúde, Agente de Combate às Endemias Ensino Médio",
-        "periodo_inscricao": "13\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 02\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 01 2026 - EDITAL Nº 02\/2026",
                 "url": "javascript:void(0);"
             }
         ]
