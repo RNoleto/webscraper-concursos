@@ -1,20 +1,36 @@
 [
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Cubatão",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-cubatao-sp-abre-concursos-publicos-com-salarios-de-ate-5565",
+        "titulo": "Câmara de Boituva",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "56 vagas até R$ 5.565,00 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "15\/10\/2026",
-        "situacao": "Fechado",
+        "resumo": "7 vagas até R$ 8.595,15 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "09\/11\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL DE ABERTURA 01 - CONCURSO PUBLICO Nº 01\/2026",
+                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL DE ABERTURA 02 - CONCURSO PUBLICO Nº 01\/2026",
+                "titulo": "EDITAL Nº 02\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Piracicaba",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-piracicaba-sp-abre-selecao-para-professores-substitutos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "120 vagas até R$ 4.090,34 Professor Substituto de Educação Infantil, Professor Substituto de Ensino Fundamental Superior",
+        "periodo_inscricao": "03\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE PROCESSO SELETIVO 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -77,6 +93,22 @@
     },
     {
         "regiao": "MINAS GERAIS",
+        "titulo": "Hospital Municipal Dr. Gil Alves",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/hospital-municipal-dr-gil-alves-mg-abre-concurso-com-salarios-de-ate-7950",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "183 vagas até R$ 7.950,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "27\/11\/2026 a 28\/12\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "MINAS GERAIS",
         "titulo": "PMMG - Polícia Militar de Minas Gerais",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pmmg-abre-concurso-com-90-vagas-para-o-curso-de-formacao-de-oficiais",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -94,7 +126,7 @@
     {
         "regiao": "MINAS GERAIS",
         "titulo": "Prefeitura de Contagem",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-contagem-mg-abre-concurso-publico-com-salarios-de-ate-13305",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "272 vagas até R$ 13.305,57 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "19\/10\/2026 a 17\/11\/2026",
@@ -103,6 +135,14 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 01",
                 "url": "javascript:void(0);"
             }
         ]
@@ -174,7 +214,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "300 vagas até R$ 4.581,88 Auxiliar de Educação Especial Superior",
         "periodo_inscricao": "16\/10\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -253,6 +293,46 @@
     },
     {
         "regiao": "PARÁ",
+        "titulo": "ALEPA - Assembleia Legislativa do Estado do Pará",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/assembleia-legislativa-do-estado-do-para-retifica-concursos-para-diversos-cargos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "135 vagas até R$ 3.697,73 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "04\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - CONCURSO PÚBLICO Nº 003\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 002\/2026 - CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 002\/2026 - CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 003\/2026 - CONCURSO PÚBLICO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE RETIFICAÇÃO Nº 002\/2026 - CONCURSO PÚBLICO Nº 003\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PARÁ",
         "titulo": "FHCGV - Fundação Pública Estadual Hospital de Clínicas Gaspar Vianna",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seplad-e-fhcgv-pa-anunciam-concurso-publico-com-vagas-imediatas-e-formacao-de-cadastro-de-reserva",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -267,6 +347,50 @@
             },
             {
                 "titulo": "EDITAL COMPLETO Nº 01",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PARÁ",
+        "titulo": "IFPA - Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ifpa-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "65 vagas até R$ 5.215,39 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "20\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA 05\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA 05\/2026 COMPLETO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "RONDÔNIA",
+        "titulo": "Prefeitura de Porto Velho",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-porto-velho-ro-retifica-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "2098 vagas até R$ 9.828,19 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "11\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 25\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 25\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 01",
                 "url": "javascript:void(0);"
             }
         ]
@@ -293,6 +417,22 @@
     },
     {
         "regiao": "BAHIA",
+        "titulo": "Prefeitura de Salvador",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-salvador-ba-abre-concurso-publico-para-guardas-civis-municipais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "50 vagas até R$ 3.546,42 Guarda Civil Municipal Ensino Médio",
+        "periodo_inscricao": "30\/10\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 002",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "BAHIA",
         "titulo": "UFBA - Universidade Federal da Bahia",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ufba-ba-publica-edital-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -309,16 +449,20 @@
     },
     {
         "regiao": "CEARÁ",
-        "titulo": "SEDUC - Secretaria da Educação do Estado do Ceará",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/seduc-e-seplag-ce-abrem-concurso-publico-com-vagas-para-professores",
+        "titulo": "Prefeitura de Ubajara",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-ubajara-ce-publica-retificacao-de-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "2000 vagas até R$ 7.181,41 Professor Nível CSuperior",
-        "periodo_inscricao": "15\/10\/2026",
-        "situacao": "Fechado",
+        "resumo": "60 vagas até R$ 3.242,00 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "01\/11\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL Nº 014\/2026",
+                "titulo": "EDITAL DO CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "ADITIVO Nº 01\/2026 AO EDITAL Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -335,6 +479,46 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PERNAMBUCO",
+        "titulo": "CBM - Corpo de Bombeiros Militar",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/secretaria-de-defesa-social-pe-retifica-concurso-com-570-vagas-para-bombeiros",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "570 vagas até R$ 12.937,33 Soldado, 2º Tenente Médio \/ Superior",
+        "periodo_inscricao": "Prorrogado até 23\/11\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 002\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PERNAMBUCO",
+        "titulo": "PMPE - Polícia Militar de Pernambuco",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pmpe-altera-periodo-de-inscricao-para-concurso-publico-de-soldados-e-oficiais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "1320 vagas até R$ 12.937,33 Soldado, 2º Tenente Médio \/ Superior",
+        "periodo_inscricao": "Prorrogado até 23\/11\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
