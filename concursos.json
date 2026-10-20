@@ -229,24 +229,40 @@
     },
     {
         "regiao": "AMAPÁ",
-        "titulo": "Polícia Civil",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sead-ap-publica-edital-retificado-de-concurso-para-delegado-e-oficial-investigador-de-policia-civil",
+        "titulo": "SESA - Secretaria de Estado da Saúde do Amapá",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/governo-do-estado-do-amapa-ap-prorroga-inscricoes-para-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "396 vagas até R$ 31.439,06 Delegado de Polícia Civil, Oficial Investigador de Polícia Civil Superior",
-        "periodo_inscricao": "19\/10\/2026",
-        "situacao": "Fechado",
+        "resumo": "4208 vagas até R$ 11.116,42 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "Prorrogado até 26\/10\/2026",
+        "situacao": "Aberto",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL Nº 001\/2026",
+                "titulo": "EDITAL DE ABERTURA Nº 01\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL DE RETIFICAÇÃO",
+                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SEGUNDO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "TERCEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "COMUNICADO OFICIAL - SOLICITAÇÃO DE DEVOLUÇÃO DA TAXA",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "QUARTO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -318,7 +334,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "65 vagas até R$ 5.215,39 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "20\/10\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -394,7 +410,7 @@
     {
         "regiao": "BAHIA",
         "titulo": "UFBA - Universidade Federal da Bahia",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ufba-ba-publica-edital-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ufba-ba-publica-retificacoes-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "139 vagas até R$ 5.215,39 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "29\/10\/2026",
@@ -403,6 +419,18 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 007\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "1º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "2º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "3º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -479,26 +507,6 @@
             },
             {
                 "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PERNAMBUCO",
-        "titulo": "Prefeitura do Município de Trindade",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-trindade-pe-divulga-retificacao-em-concurso-com-vagas-para-diversos-niveis",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "353 vagas até R$ 6.600,00 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "19\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
