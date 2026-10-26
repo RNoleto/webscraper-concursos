@@ -382,7 +382,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "4208 vagas até R$ 11.116,42 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "Prorrogado até 26\/10\/2026",
-        "situacao": "Aberto",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -451,6 +451,22 @@
             },
             {
                 "titulo": "EDITAL DE RETIFICAÇÃO Nº 002\/2026 - CONCURSO PÚBLICO Nº 003\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PARÁ",
+        "titulo": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trt-8-pa-ap-publica-edital-de-concurso-para-tecnicos-e-analistas-judiciarios",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Cadastro Reserva até R$ 16.040,88 Analista Judiciário, Técnico Judiciário Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "05\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
