@@ -66,22 +66,6 @@
     {
         "regiao": "SÃO PAULO",
         "titulo": "Prefeitura de Matão",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-17433",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "44 vagas até R$ 17.433,24 Vários Cargos Fundamental \/ Médio \/ Superior",
-        "periodo_inscricao": "29\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Matão",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "28 vagas até R$ 9.717,96 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
@@ -107,22 +91,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE PROCESSO SELETIVO 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de São Carlos",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-sao-carlos-sp-abre-concurso-com-salarios-de-ate-9833",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "45 vagas até R$ 9.833,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "29\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 02\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -173,30 +141,6 @@
     },
     {
         "regiao": "RIO DE JANEIRO",
-        "titulo": "CREMERJ - Conselho Regional de Medicina do Rio de Janeiro",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cremerj-retifica-concurso-com-salarios-de-ate-18000-para-diversos-cargos",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "26 vagas até R$ 18.000,00 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "Prorrogado até 29\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 1\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO I",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO II",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RIO DE JANEIRO",
         "titulo": "Prefeitura de São Gonçalo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-sao-goncalo-rj-abre-concursos-para-guardas-municipais",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -222,7 +166,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "120 vagas até R$ 7.321,75 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "30\/10\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -464,26 +408,6 @@
         ]
     },
     {
-        "regiao": "AMAPÁ",
-        "titulo": "SEAD - Secretaria de Estado da Administração do Amapá",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/sead-ap-abre-concursos-para-assistentes-administrativos-e-analistas",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "358 vagas até R$ 8.331,35 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "29\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - ASSISTENTE ADMINISTRATIVO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - ANALISTA",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "PARÁ",
         "titulo": "ALEPA - Assembleia Legislativa do Estado do Pará",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/assembleia-legislativa-do-estado-do-para-retifica-concursos-para-diversos-cargos",
@@ -565,84 +489,16 @@
     },
     {
         "regiao": "BAHIA",
-        "titulo": "Prefeitura de Rio Real",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-rio-real-ba-retifica-editais-de-concursos-e-de-processo-seletivo",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "148 vagas até R$ 4.430,06 Vários Cargos Fundamental \/ Médio \/ Superior",
-        "periodo_inscricao": "Prorrogado até 29\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026 - CONCURSO PÚBLICO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 002\/2026 - CONCURSO PÚBLICO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 003\/2026 - PROCESSO SELETIVO PÚBLICO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO DOS EDITAIS Nº 001\/2026, 002\/2026 E 003\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 001\/2026 - CONCURSO PÚBLICO - EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 001\/2026 - CONCURSO PÚBLICO - EDITAL Nº 002\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 001\/2026 - PROCESSO SELETIVO PÚBLICO - EDITAL Nº 003\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "BAHIA",
         "titulo": "Prefeitura de Salvador",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-salvador-ba-abre-concurso-publico-para-guardas-civis-municipais",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "50 vagas até R$ 3.546,42 Guarda Civil Municipal Ensino Médio",
         "periodo_inscricao": "30\/10\/2026",
-        "situacao": "Inscrição não iniciada",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 002",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "BAHIA",
-        "titulo": "UFBA - Universidade Federal da Bahia",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ufba-ba-publica-retificacoes-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "139 vagas até R$ 5.215,39 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "29\/10\/2026",
         "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 007\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "1º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "2º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "3º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007\/2026",
+                "titulo": "EDITAL Nº 002",
                 "url": "javascript:void(0);"
             }
         ]
