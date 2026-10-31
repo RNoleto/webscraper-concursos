@@ -161,26 +161,6 @@
     },
     {
         "regiao": "MINAS GERAIS",
-        "titulo": "EMATER - Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "120 vagas até R$ 7.321,75 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "30\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DO CONCURSO PÚBLICO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "SEGUNDA RETIFICAÇÃO DO EDITAL DO CONCURSO PÚBLICO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "MINAS GERAIS",
         "titulo": "Hospital Municipal Dr. Gil Alves",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/hospital-municipal-dr-gil-alves-mg-abre-concurso-com-salarios-de-ate-7950",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -348,6 +328,22 @@
         ]
     },
     {
+        "regiao": "RIO GRANDE DO SUL",
+        "titulo": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "Cadastro de reserva até R$ 16.040,88 Analista Judiciário, Técnico Judiciário Superior",
+        "periodo_inscricao": "25\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "GOIÁS",
         "titulo": "Prefeitura de Aparecida de Goiânia",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-aparecida-de-goiania-go-abre-concurso-publico-com-vagas-na-area-da-educacao",
@@ -483,22 +479,6 @@
             },
             {
                 "titulo": "RETIFICAÇÃO Nº 01",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "BAHIA",
-        "titulo": "Prefeitura de Salvador",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-salvador-ba-abre-concurso-publico-para-guardas-civis-municipais",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "50 vagas até R$ 3.546,42 Guarda Civil Municipal Ensino Médio",
-        "periodo_inscricao": "30\/10\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 002",
                 "url": "javascript:void(0);"
             }
         ]
