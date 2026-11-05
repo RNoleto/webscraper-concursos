@@ -282,7 +282,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "348 vagas até R$ 14.117,18 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "05\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -318,7 +318,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "19 vagas até R$ 9.135,44 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "05\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -405,52 +405,12 @@
     },
     {
         "regiao": "PARÁ",
-        "titulo": "ALEPA - Assembleia Legislativa do Estado do Pará",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/assembleia-legislativa-do-estado-do-para-retifica-concursos-para-diversos-cargos",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "135 vagas até R$ 3.697,73 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "04\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - CONCURSO PÚBLICO Nº 002\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE ABERTURA Nº 001\/2026 - CONCURSO PÚBLICO Nº 003\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 002\/2026 - CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 002\/2026 - CONCURSO PÚBLICO Nº 002\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 003\/2026 - CONCURSO PÚBLICO Nº 002\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO Nº 002\/2026 - CONCURSO PÚBLICO Nº 003\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PARÁ",
         "titulo": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trt-8-pa-ap-publica-edital-de-concurso-para-tecnicos-e-analistas-judiciarios",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Cadastro Reserva até R$ 16.040,88 Analista Judiciário, Técnico Judiciário Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "05\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
