@@ -276,58 +276,6 @@
         ]
     },
     {
-        "regiao": "PARANÁ",
-        "titulo": "PMC - Prefeitura de Curitiba",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-curitiba-pr-retifica-concursos-publicos-com-vagas-imediatas-e-cadastro-de-reserva",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "348 vagas até R$ 14.117,18 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "05\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL NORMATIVO Nº 4\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 4\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL NORMATIVO Nº 5\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 5\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL NORMATIVO Nº 6\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 6\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RIO GRANDE DO SUL",
-        "titulo": "Prefeitura de Porto Alegre",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-porto-alegre-rs-publica-concurso-publico-com-salarios-de-ate-9135",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "19 vagas até R$ 9.135,44 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "05\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA 112\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "RIO GRANDE DO SUL",
         "titulo": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
@@ -386,7 +334,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "16 vagas até R$ 11.862,19 Técnico de Controle Externo Ensino Médio",
         "periodo_inscricao": "06\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -399,22 +347,6 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PARÁ",
-        "titulo": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trt-8-pa-ap-publica-edital-de-concurso-para-tecnicos-e-analistas-judiciarios",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Cadastro Reserva até R$ 16.040,88 Analista Judiciário, Técnico Judiciário Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "05\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             }
         ]
