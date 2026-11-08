@@ -89,6 +89,22 @@
     },
     {
         "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Suzano",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-suzano-sp-abre-concurso-publico-com-salarios-de-ate-12062",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "73 vagas até R$ 12.062,91 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "25\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 02\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
         "titulo": "SETEC - Serviços Técnicos Gerais de Campinas",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -336,6 +352,22 @@
         ]
     },
     {
+        "regiao": "MATO GROSSO",
+        "titulo": "Câmara de Cuiabá",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-cuiaba-mt-abre-concurso-publico-com-salarios-de-ate-11629",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "26 vagas até R$ 11.629,67 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "30\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "RONDÔNIA",
         "titulo": "Prefeitura de Porto Velho",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-porto-velho-ro-retifica-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -427,6 +459,30 @@
             },
             {
                 "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PIAUÍ",
+        "titulo": "Prefeitura de Canto do Buriti",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "257 vagas até R$ 16.210,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "26\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO MUNICIPAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
