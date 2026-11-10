@@ -29,6 +29,22 @@
     },
     {
         "regiao": "NACIONAL",
+        "titulo": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ibge-processo-seletivo-oferece-27279-vagas-para-recenseador",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "27.279 vagas até R$ 4.370,00 Recenseador Fundamental",
+        "periodo_inscricao": "25\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 03\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "NACIONAL",
         "titulo": "INB - Indústrias Nucleares do Brasil S.A.",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -47,26 +63,6 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
-        "titulo": "Câmara de Boituva",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "7 vagas até R$ 8.595,15 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "09\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 02\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -189,7 +185,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pmmg-abre-concurso-com-90-vagas-para-o-curso-de-formacao-de-oficiais",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "90 vagas até R$ 12.170,61 Cadete do Curso de Formação de Oficiais Superior",
-        "periodo_inscricao": "10\/11\/2026 a 10\/12\/2026",
+        "periodo_inscricao": "10\/12\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -290,7 +286,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "24 vagas até R$ 8.250,00 Vários Cargos Médio \/ Superior",
         "periodo_inscricao": "10\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -327,26 +323,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "GOIÁS",
-        "titulo": "Prefeitura de Caldas Novas",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-caldas-novas-go-divulga-retificacao-do-concurso-publico-para-guardas-civis-municipais",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "15 vagas até R$ 3.100,00 Guarda Civil Municipal Ensino Médio",
-        "periodo_inscricao": "09\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "1º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -430,7 +406,7 @@
     {
         "regiao": "PERNAMBUCO",
         "titulo": "PC - Polícia Civil",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/secretaria-de-defesa-social-e-de-administracao-pe-abrem-concurso-com-1315-vagas-para-a-policia-civil",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/secretaria-de-defesa-social-e-de-administracao-pe-retificam-concurso-para-a-policia-civil",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "1.315 vagas até R$ 13.560,00 Agente de Polícia, Delegado de Polícia, Escrivão de Polícia Superior",
         "periodo_inscricao": "16\/12\/2026",
@@ -439,6 +415,14 @@
         "link_edital": [
             {
                 "titulo": "EDITAL - SAD\/SDS PE",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL - SAD\/SDS PE",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO - SAD\/SDS PE",
                 "url": "javascript:void(0);"
             }
         ]
