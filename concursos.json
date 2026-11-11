@@ -50,7 +50,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Cadastro de reserva até R$ 8.374,00 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "11\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -280,22 +280,6 @@
         ]
     },
     {
-        "regiao": "ESPÍRITO SANTO",
-        "titulo": "CRECI - Conselho Regional de Corretores de Imóveis da 13ª Região",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/creci-es-abre-concurso-publico-com-salarios-de-ate-8250",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "24 vagas até R$ 8.250,00 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "10\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "RIO GRANDE DO SUL",
         "titulo": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
@@ -350,7 +334,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "2098 vagas até R$ 9.828,19 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "11\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
