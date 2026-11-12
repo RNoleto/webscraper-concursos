@@ -44,25 +44,37 @@
         ]
     },
     {
-        "regiao": "NACIONAL",
-        "titulo": "INB - Indústrias Nucleares do Brasil S.A.",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Leme",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Cadastro de reserva até R$ 8.374,00 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "11\/11\/2026",
-        "situacao": "Fechado",
+        "resumo": "29 vagas até R$ 13.359,44 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "30\/11\/2026",
+        "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL Nº 01\/2026",
+                "titulo": "EDITAL Nº 02\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura de Louveira",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-louveira-sp-abre-concursos-com-vagas-imediatas-e-cadastro-de-reserva",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "19 vagas até R$ 8.738,00 Vários Cargos Fundamental \/ Médio \/ Superior",
+        "periodo_inscricao": "16\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO 01\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "ERRATA - 1ª RETIFICAÇÃO",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 01\/2026",
+                "titulo": "EDITAL DE CONCURSO PÚBLICO 02\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -280,6 +292,30 @@
         ]
     },
     {
+        "regiao": "PARANÁ",
+        "titulo": "Prefeitura de Quedas do Iguaçu",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-quedas-do-iguacu-pr-retifica-edital-de-concurso-publico",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "140 vagas até R$ 11.998,88 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "25\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 030\/2026 - CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 030\/2026 RETIFICADO - CONCURSO PÚBLICO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "RIO GRANDE DO SUL",
         "titulo": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
@@ -291,6 +327,22 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SANTA CATARINA",
+        "titulo": "Prefeitura de Lages - Secretaria da Saúde",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-lages-sc-abre-selecao-para-diversos-cargos-na-secretaria-da-saude",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "14 vagas até R$ 5.883,29 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "16\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL NO 003\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -323,30 +375,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RONDÔNIA",
-        "titulo": "Prefeitura de Porto Velho",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-porto-velho-ro-retifica-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "2098 vagas até R$ 9.828,19 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "11\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 25\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 25\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 01",
                 "url": "javascript:void(0);"
             }
         ]
@@ -462,7 +490,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "24 vagas até R$ 8.810,69 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "12\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
