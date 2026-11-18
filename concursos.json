@@ -1,36 +1,8 @@
 [
     {
         "regiao": "NACIONAL",
-        "titulo": "Câmara dos Deputados",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-dos-deputados-retifica-concurso-publico-para-analistas-legislativos",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "184 vagas até R$ 32.070,88 Analista Legislativo, Engenheiro, Museólogo Superior",
-        "periodo_inscricao": "17\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO DE 15 DE OUTUBRO DE 2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO DE 21 DE OUTUBRO DE 2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 1",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "NACIONAL",
         "titulo": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ibge-processo-seletivo-oferece-27279-vagas-para-recenseador",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ibge-retifica-processo-seletivo-com-27279-vagas-para-recenseador",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "27.279 vagas até R$ 4.370,00 Recenseador Fundamental",
         "periodo_inscricao": "25\/11\/2026",
@@ -39,6 +11,86 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 03\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 03\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL DE PROCESSO SELETIVO SIMPLIFICADO DO IBGE Nº 3\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "NACIONAL",
+        "titulo": "TRF3 - Tribunal Regional Federal da 3ª Região",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "11 vagas até R$ 20.013,11 Analista Judiciário, Técnico Judiciário Técnico \/ Superior",
+        "periodo_inscricao": "23\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 1",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE RETIFICAÇÃO DO EDITAL DE ABERTURA DE INSCRIÇÕES Nº 01\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "CETESB - Companhia Ambiental do Estado de São Paulo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cetesb-sp-abre-concursos-publicos-para-diversos-cargos",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "107 vagas até R$ 8.971,98 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "14\/12\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 01\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 02\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "PM - Polícia Militar do Estado de São Paulo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-militar-sp-abre-2000-vagas-para-aluno-soldado",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "2.000 vagas até R$ 5.482,21 Aluno-Soldado PMEnsino Médio",
+        "periodo_inscricao": "22\/12\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DP-4\/321\/26",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "SÃO PAULO",
+        "titulo": "Prefeitura da Estância Turística de Guaratinguetá",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-guaratingueta-sp-abre-concurso-publico-com-salarios-de-ate-18540",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "107 vagas até R$ 18.540,71 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "15\/12\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -82,7 +134,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "28 vagas até R$ 9.717,96 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "18\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -158,7 +210,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "101 vagas até R$ 4.535,54 Guarda Municipal Nível II, Guarda Municipal Nível III - Psicólogo Médio \/ Superior",
         "periodo_inscricao": "18\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -208,9 +260,9 @@
         "titulo": "Prefeitura de Contagem",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "272 vagas até R$ 13.305,57 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "17\/11\/2026",
-        "situacao": "Fechado",
+        "resumo": "269 vagas até R$ 13.305,57 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "Prorrogado até 03\/12\/2026",
+        "situacao": "Aberto",
         "link_apostila": [],
         "link_edital": [
             {
@@ -223,6 +275,14 @@
             },
             {
                 "titulo": "RETIFICAÇÃO Nº 01",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 02",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 03",
                 "url": "javascript:void(0);"
             }
         ]
@@ -288,6 +348,22 @@
         ]
     },
     {
+        "regiao": "ESPÍRITO SANTO",
+        "titulo": "Câmara de Piúma",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-piuma-es-abre-concurso-publico-com-salarios-de-ate-9018",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "7 vagas até R$ 9.018,78 Vários Cargos Médio \/ Superior",
+        "periodo_inscricao": "19\/11\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "PARANÁ",
         "titulo": "Prefeitura de Quedas do Iguaçu",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-quedas-do-iguacu-pr-retifica-edital-de-concurso-publico",
@@ -344,6 +420,22 @@
         ]
     },
     {
+        "regiao": "MATO GROSSO DO SUL",
+        "titulo": "UFMS - Fundação Universidade Federal de Mato Grosso do Sul",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ufms-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "154 vagas até R$ 5.215,39 Vários Cargos Médio \/ Técnico \/ Superior",
+        "periodo_inscricao": "04\/12\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL PROGEP\/UFMS Nº 152",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "MATO GROSSO",
         "titulo": "Câmara de Cuiabá",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-cuiaba-mt-abre-concurso-publico-com-salarios-de-ate-11629",
@@ -355,6 +447,74 @@
         "link_edital": [
             {
                 "titulo": "EDITAL Nº 001\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "ACRE",
+        "titulo": "PCAC - Polícia Civil do Estado do Acre",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/policia-civil-do-estado-do-acre-pcac-e-sead-ac-abrem-concurso-publico-com-salarios-de-ate-19505",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "139 vagas até R$ 19.505,66 Vários Cargos Superior",
+        "periodo_inscricao": "14\/12\/2026",
+        "situacao": "Inscrição não iniciada",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "PARÁ",
+        "titulo": "Prefeitura de Marituba",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-marituba-pa-reabre-inscricoes-de-concurso-publico-para-guarda-civil",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "60 vagas até R$ 1.800,00 Guarda Civil Municipal Ensino Médio",
+        "periodo_inscricao": "Reaberto até 08\/12\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 01\/2025",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO I",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO E CONSOLIDADO Nº 005\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "ANEXO 01 CONTEÚDO PROGRAMÁTICO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "ANEXO 02 CRONOGRAMA COMPLETO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "ANEXO 03 INFORMAÇÕES DO CARGO",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
+        "regiao": "CEARÁ",
+        "titulo": "Câmara de Ibiapina",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-ibiapina-ce-abre-concurso-publico-para-cargos-de-nivel-medio",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "6 vagas até R$ 1.788,77 Vários Cargos Ensino Médio",
+        "periodo_inscricao": "18\/11\/2026",
+        "situacao": "Fechado",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL DE CONCURSO PÚBLICO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
