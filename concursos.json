@@ -188,6 +188,34 @@
         ]
     },
     {
+        "regiao": "RIO DE JANEIRO",
+        "titulo": "Prefeitura de São Gonçalo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-sao-goncalo-rj-abre-concursos-para-guardas-municipais",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "101 vagas até R$ 4.535,54 Guarda Municipal Nível II, Guarda Municipal Nível IIIMédio \/ Superior",
+        "periodo_inscricao": "Prorrogado até 15\/12\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/PMSG\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 03\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 002\/PMSG\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 03\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "MINAS GERAIS",
         "titulo": "Hospital Municipal Dr. Gil Alves",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/hospital-municipal-dr-gil-alves-mg-abre-concurso-com-salarios-de-ate-7950",
@@ -307,22 +335,6 @@
             },
             {
                 "titulo": "RETIFICAÇÃO - EDITAL Nº 02\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "ESPÍRITO SANTO",
-        "titulo": "Câmara de Piúma",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/camara-de-piuma-es-abre-concurso-publico-com-salarios-de-ate-9018",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "7 vagas até R$ 9.018,78 Vários Cargos Médio \/ Superior",
-        "periodo_inscricao": "19\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
