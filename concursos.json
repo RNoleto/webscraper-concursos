@@ -40,26 +40,6 @@
         ]
     },
     {
-        "regiao": "NACIONAL",
-        "titulo": "TRF3 - Tribunal Regional Federal da 3ª Região",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "11 vagas até R$ 20.013,11 Analista Judiciário, Técnico Judiciário Técnico \/ Superior",
-        "periodo_inscricao": "23\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 1",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL DE RETIFICAÇÃO DO EDITAL DE ABERTURA DE INSCRIÇÕES Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "SÃO PAULO",
         "titulo": "CETESB - Companhia Ambiental do Estado de São Paulo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/cetesb-sp-abre-concursos-publicos-para-diversos-cargos",
@@ -244,24 +224,7 @@
         "periodo_inscricao": "Prorrogado até 15\/12\/2026",
         "situacao": "Aberto",
         "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 001\/PMSG\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 03\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 002\/PMSG\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 03\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
+        "link_edital": []
     },
     {
         "regiao": "MINAS GERAIS",
@@ -355,34 +318,6 @@
         "link_edital": [
             {
                 "titulo": "EDITAL 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "ESPÍRITO SANTO",
-        "titulo": "Banestes - Banco do Estado do Espírito Santo e Banestes Seguros",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/banestes-e-banestes-seguros-es-retificam-concursos-para-cadastro-de-reserva",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Cadastro de reserva até R$ 5.618,71 Técnico Bancário, Técnico em Segurança do Trabalho, Assistente Securitário Médio \/ Técnico",
-        "periodo_inscricao": "Prorrogado até 23\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 02\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO - EDITAL Nº 02\/2026",
                 "url": "javascript:void(0);"
             }
         ]
@@ -545,26 +480,6 @@
     },
     {
         "regiao": "PERNAMBUCO",
-        "titulo": "CBM - Corpo de Bombeiros Militar",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/secretaria-de-defesa-social-pe-retifica-concurso-com-570-vagas-para-bombeiros",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "570 vagas até R$ 12.937,33 Soldado, 2º Tenente Médio \/ Superior",
-        "periodo_inscricao": "Prorrogado até 23\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA 002\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 002\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PERNAMBUCO",
         "titulo": "PC - Polícia Civil",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/secretaria-de-defesa-social-e-de-administracao-pe-retificam-concurso-para-a-policia-civil",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -583,26 +498,6 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO - SAD\/SDS PE",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PERNAMBUCO",
-        "titulo": "PMPE - Polícia Militar de Pernambuco",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/pmpe-altera-periodo-de-inscricao-para-concurso-publico-de-soldados-e-oficiais",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "1320 vagas até R$ 12.937,33 Soldado, 2º Tenente Médio \/ Superior",
-        "periodo_inscricao": "Prorrogado até 23\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE ABERTURA 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
