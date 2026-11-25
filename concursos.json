@@ -6,7 +6,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "27.279 vagas até R$ 4.370,00 Recenseador Fundamental",
         "periodo_inscricao": "25\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -113,7 +113,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-campinas-sp-abre-100-vagas-para-guarda-municipal-de-3-classe",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "100 vagas até R$ 3.796,61 Guarda Municipal Ensino Médio",
-        "periodo_inscricao": "26\/01\/2027 a 08\/01\/2027",
+        "periodo_inscricao": "08\/01\/2027",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -146,7 +146,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "73 vagas até R$ 12.062,91 Vários Cargos Fundamental \/ Médio \/ Superior",
         "periodo_inscricao": "25\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -218,13 +218,46 @@
     {
         "regiao": "RIO DE JANEIRO",
         "titulo": "Prefeitura de São Gonçalo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-sao-goncalo-rj-abre-concursos-para-guardas-municipais",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-sao-goncalo-rj-suspende-cronograma-e-vai-prorrogar-inscricoes-de-concursos-para-guarda-municipal",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "101 vagas até R$ 4.535,54 Guarda Municipal Nível II, Guarda Municipal Nível IIIMédio \/ Superior",
         "periodo_inscricao": "Prorrogado até 15\/12\/2026",
         "situacao": "Aberto",
         "link_apostila": [],
-        "link_edital": []
+        "link_edital": [
+            {
+                "titulo": "EDITAL Nº 001\/PMSG\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 01",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "SUSPENSÃO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL Nº 002\/PMSG\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 01",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL RETIFICADO Nº 002\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO Nº 03\/2026",
+                "url": "javascript:void(0);"
+            }
+        ]
     },
     {
         "regiao": "MINAS GERAIS",
@@ -329,7 +362,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "140 vagas até R$ 11.998,88 Vários Cargos Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "25\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
@@ -353,7 +386,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "Cadastro de reserva até R$ 16.040,88 Analista Judiciário, Técnico Judiciário Superior",
         "periodo_inscricao": "25\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
