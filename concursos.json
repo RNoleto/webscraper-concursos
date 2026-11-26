@@ -1,30 +1,6 @@
 [
     {
         "regiao": "NACIONAL",
-        "titulo": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ibge-retifica-processo-seletivo-com-27279-vagas-para-recenseador",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "27.279 vagas até R$ 4.370,00 Recenseador Fundamental",
-        "periodo_inscricao": "25\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 03\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 03\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO DO EDITAL DE PROCESSO SELETIVO SIMPLIFICADO DO IBGE Nº 3\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "NACIONAL",
         "titulo": "Ministério da Saúde",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -141,22 +117,6 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "Prefeitura de Suzano",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-suzano-sp-abre-concurso-publico-com-salarios-de-ate-12062",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "73 vagas até R$ 12.062,91 Vários Cargos Fundamental \/ Médio \/ Superior",
-        "periodo_inscricao": "25\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 02\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "SÃO PAULO",
         "titulo": "SETEC - Serviços Técnicos Gerais de Campinas",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
@@ -189,7 +149,7 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "TJSP - Tribunal de Justiça do Estado de São Paulo",
+        "titulo": "TJ-SP - Tribunal de Justiça do Estado de São Paulo",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tjsp-abre-concursos-para-oficial-de-justica-e-escrevente-tecnico-judiciario",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "132 vagas até R$ 9.856,95 Oficial de Justiça, Escrevente Técnico Judiciário Médio \/ Superior",
@@ -356,46 +316,6 @@
         ]
     },
     {
-        "regiao": "PARANÁ",
-        "titulo": "Prefeitura de Quedas do Iguaçu",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-quedas-do-iguacu-pr-retifica-edital-de-concurso-publico",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "140 vagas até R$ 11.998,88 Vários Cargos Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "25\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 030\/2026 - CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL Nº 030\/2026 RETIFICADO - CONCURSO PÚBLICO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "RIO GRANDE DO SUL",
-        "titulo": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "Cadastro de reserva até R$ 16.040,88 Analista Judiciário, Técnico Judiciário Superior",
-        "periodo_inscricao": "25\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL Nº 01\/2026",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
         "regiao": "GOIÁS",
         "titulo": "Prefeitura de Aparecida de Goiânia",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-aparecida-de-goiania-go-abre-concurso-publico-com-vagas-na-area-da-educacao",
@@ -496,6 +416,30 @@
         ]
     },
     {
+        "regiao": "BAHIA",
+        "titulo": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/ibge-abre-processo-seletivo-com-27279-vagas-para-recenseador",
+        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
+        "resumo": "27279 vagas até R$ 4.370,00 Recenseador Fundamental",
+        "periodo_inscricao": "Prorrogado até 30\/11\/2026",
+        "situacao": "Aberto",
+        "link_apostila": [],
+        "link_edital": [
+            {
+                "titulo": "EDITAL RETIFICADO Nº 03\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL DE PROCESSO SELETIVO SIMPLIFICADO DO IBGE Nº 3\/2026",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "PRORROGAÇÃO DO PRAZO DAS INSCRIÇÕES",
+                "url": "javascript:void(0);"
+            }
+        ]
+    },
+    {
         "regiao": "CEARÁ",
         "titulo": "Prefeitura de Boa Viagem",
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
@@ -542,7 +486,7 @@
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "257 vagas até R$ 16.210,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
         "periodo_inscricao": "26\/11\/2026",
-        "situacao": "Inscrição não iniciada",
+        "situacao": "Fechado",
         "link_apostila": [],
         "link_edital": [
             {
