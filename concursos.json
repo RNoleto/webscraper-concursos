@@ -149,28 +149,32 @@
     },
     {
         "regiao": "SÃO PAULO",
-        "titulo": "TJ-SP - Tribunal de Justiça do Estado de São Paulo",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tjsp-abre-concursos-para-oficial-de-justica-e-escrevente-tecnico-judiciario",
+        "titulo": "TJSP - Tribunal de Justiça do Estado de São Paulo",
+        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/tjsp-sp-abre-concursos-com-salarios-de-ate-10276-para-oficial-e-escrevente",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "132 vagas até R$ 9.856,95 Oficial de Justiça, Escrevente Técnico Judiciário Médio \/ Superior",
+        "resumo": "132 vagas até R$ 10.276,04 Oficial de Justiça, Escrevente Técnico Judiciário Médio \/ Superior",
         "periodo_inscricao": "10\/12\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
             {
-                "titulo": "EDITAL DE ABERTURA Nº 02\/2026 CONCURSO PÚBLICO",
-                "url": "javascript:void(0);"
-            },
-            {
                 "titulo": "EDITAL DE ABERTURA Nº 01\/2026 CONCURSO PÚBLICO",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL COMPLETO Nº 02\/2026 CONCURSO PÚBLICO",
+                "titulo": "RETIFICAÇÃO DO EDITAL Nº 01\/2026",
                 "url": "javascript:void(0);"
             },
             {
-                "titulo": "EDITAL COMPLETO Nº 01\/2026 CONCURSO PÚBLICO",
+                "titulo": "RETIFICAÇÃO DO EDITAL DE ABERTURA",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "EDITAL DE ABERTURA Nº 02\/2026 CONCURSO PÚBLICO",
+                "url": "javascript:void(0);"
+            },
+            {
+                "titulo": "RETIFICAÇÃO DO EDITAL DE ABERTURA",
                 "url": "javascript:void(0);"
             }
         ]
@@ -225,7 +229,7 @@
         "link": "https:\/\/www.pciconcursos.com.br\/noticias\/hospital-municipal-dr-gil-alves-mg-abre-concurso-com-salarios-de-ate-7950",
         "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
         "resumo": "183 vagas até R$ 7.950,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "27\/11\/2026 a 28\/12\/2026",
+        "periodo_inscricao": "28\/12\/2026",
         "situacao": "Inscrição não iniciada",
         "link_apostila": [],
         "link_edital": [
@@ -475,30 +479,6 @@
             },
             {
                 "titulo": "EDITAL RETIFICADO - SAD\/SDS PE",
-                "url": "javascript:void(0);"
-            }
-        ]
-    },
-    {
-        "regiao": "PIAUÍ",
-        "titulo": "Prefeitura de Canto do Buriti",
-        "link": "https:\/\/www.pciconcursos.com.br\/noticias\/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
-        "imagem": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAADUlEQVQImWP4\/\/8\/AwAI\/AL+hc2rNAAAAABJRU5ErkJggg==",
-        "resumo": "257 vagas até R$ 16.210,00 Vários Cargos Fundamental \/ Médio \/ Técnico \/ Superior",
-        "periodo_inscricao": "26\/11\/2026",
-        "situacao": "Fechado",
-        "link_apostila": [],
-        "link_edital": [
-            {
-                "titulo": "EDITAL DE CONCURSO PÚBLICO MUNICIPAL Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "EDITAL RETIFICADO Nº 001\/2026",
-                "url": "javascript:void(0);"
-            },
-            {
-                "titulo": "RETIFICAÇÃO Nº 001\/2026",
                 "url": "javascript:void(0);"
             }
         ]
